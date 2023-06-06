@@ -1,0 +1,533 @@
+[
+  {
+    "code":"A49.0",
+    "title":"Staphylococcal infection, unspecified site",
+    "inclusion":null
+  },
+  {
+    "code":"A56.1",
+    "title":"Chlamydial infection of pelviperitoneum and other genitourinary organs",
+    "inclusion":null
+  },
+  {
+    "code":"C07",
+    "title":"Malignant neoplasm of parotid gland",
+    "inclusion":null
+  },
+  {
+    "code":"C40.1",
+    "title":"Malignant neoplasm: Short bones of upper limb",
+    "inclusion":null
+  },
+  {
+    "code":"C41.0",
+    "title":"Malignant neoplasm: Bones of skull and face",
+    "inclusion":null
+  },
+  {
+    "code":"C43.3",
+    "title":"Malignant neoplasm: Malignant melanoma of other and unspecified parts of face",
+    "inclusion":null
+  },
+  {
+    "code":"C44.9",
+    "title":"Malignant neoplasm: Malignant neoplasm of skin, unspecified",
+    "inclusion":null
+  },
+  {
+    "code":"C71.9",
+    "title":"Malignant neoplasm: Brain, unspecified",
+    "inclusion":null
+  },
+  {
+    "code":"C81.2",
+    "title":"Mixed cellularity classical Hodgkin lymphoma",
+    "inclusion":null
+  },
+  {
+    "code":"C84.0",
+    "title":"Mycosis fungoides",
+    "inclusion":null
+  },
+  {
+    "code":"D12.6",
+    "title":"Benign neoplasm: Colon, unspecified",
+    "inclusion":null
+  },
+  {
+    "code":"D48.7",
+    "title":"Neoplasm of uncertain or unknown behaviour: Other specified sites",
+    "inclusion":null
+  },
+  {
+    "code":"D52.0",
+    "title":"Dietary folate deficiency anaemia",
+    "inclusion":null
+  },
+  {
+    "code":"D72.8",
+    "title":"Other specified disorders of white blood cells",
+    "inclusion":null
+  },
+  {
+    "code":"D84.1",
+    "title":"Defects in the complement system",
+    "inclusion":null
+  },
+  {
+    "code":"E03.8",
+    "title":"Other specified hypothyroidism",
+    "inclusion":null
+  },
+  {
+    "code":"E11.9",
+    "title":"Type 2 diabetes mellitus without complications",
+    "inclusion":[
+
+    ]
+  },
+  {
+    "code":"E23.2",
+    "title":"Diabetes insipidus",
+    "inclusion":null
+  },
+  {
+    "code":"E85.4",
+    "title":"Organ-limited amyloidosis",
+    "inclusion":null
+  },
+  {
+    "code":"E88.0",
+    "title":"Disorders of plasma-protein metabolism, not elsewhere classified",
+    "inclusion":null
+  },
+  {
+    "code":"F03",
+    "title":"Unspecified dementia",
+    "inclusion":null
+  },
+  {
+    "code":"F45.8",
+    "title":"Other somatoform disorders",
+    "inclusion":null
+  },
+  {
+    "code":"G31.0",
+    "title":"Circumscribed brain atrophy",
+    "inclusion":null
+  },
+  {
+    "code":"H11.8",
+    "title":"Other specified disorders of conjunctiva",
+    "inclusion":null
+  },
+  {
+    "code":"H53.8",
+    "title":"Other visual disturbances",
+    "inclusion":null
+  },
+  {
+    "code":"I38",
+    "title":"Endocarditis, valve unspecified",
+    "inclusion":null
+  },
+  {
+    "code":"I45.8",
+    "title":"Other specified conduction disorders",
+    "inclusion":null
+  },
+  {
+    "code":"I71.0",
+    "title":"Dissection of aorta [any part]",
+    "inclusion":null
+  },
+  {
+    "code":"K03.7",
+    "title":"Posteruptive colour changes of dental hard tissues",
+    "inclusion":null
+  },
+  {
+    "code":"K29.6",
+    "title":"Other gastritis",
+    "inclusion":null
+  },
+  {
+    "code":"K29.8",
+    "title":"Duodenitis",
+    "inclusion":null
+  },
+  {
+    "code":"K76.8",
+    "title":"Other specified diseases of liver",
+    "inclusion":null
+  },
+  {
+    "code":"L08.9",
+    "title":"Local infection of skin and subcutaneous tissue, unspecified",
+    "inclusion":null
+  },
+  {
+    "code":"L60.8",
+    "title":"Other nail disorders",
+    "inclusion":null
+  },
+  {
+    "code":"L67.8",
+    "title":"Other hair colour and hair shaft abnormalities",
+    "inclusion":null
+  },
+  {
+    "code":"M89.98",
+    "title":"Disorder of bone, unspecified, Other",
+    "inclusion":[
+
+    ]
+  },
+  {
+    "code":"N93.8",
+    "title":"Other specified abnormal uterine and vaginal bleeding",
+    "inclusion":null
+  },
+  {
+    "code":"P07.2",
+    "title":"Extreme immaturity",
+    "inclusion":null
+  },
+  {
+    "code":"Q05.9",
+    "title":"Spina bifida, unspecified",
+    "inclusion":null
+  },
+  {
+    "code":"Q24.5",
+    "title":"Malformation of coronary vessels",
+    "inclusion":null
+  },
+  {
+    "code":"Q32.4",
+    "title":"Other congenital malformations of bronchus",
+    "inclusion":null
+  },
+  {
+    "code":"Q55.2",
+    "title":"Other congenital malformations of testis and scrotum",
+    "inclusion":null
+  },
+  {
+    "code":"Q72.3",
+    "title":"Congenital absence of foot and toe(s)",
+    "inclusion":null
+  },
+  {
+    "code":"Q72.9",
+    "title":"Reduction defect of lower limb, unspecified",
+    "inclusion":null
+  },
+  {
+    "code":"Q75.8",
+    "title":"Other specified congenital malformations of skull and face bones",
+    "inclusion":null
+  },
+  {
+    "code":"Q76.4",
+    "title":"Other congenital malformations of spine, not associated with scoliosis",
+    "inclusion":null
+  },
+  {
+    "code":"Q82.8",
+    "title":"Other specified congenital malformations of skin",
+    "inclusion":null
+  },
+  {
+    "code":"Q84.8",
+    "title":"Other specified congenital malformations of integument",
+    "inclusion":null
+  },
+  {
+    "code":"Q87.0",
+    "title":"Congenital malformation syndromes predominantly affecting facial appearance",
+    "inclusion":null
+  },
+  {
+    "code":"Q87.8",
+    "title":"Other specified congenital malformation syndromes, not elsewhere classified",
+    "inclusion":null
+  },
+  {
+    "code":"Q89.8",
+    "title":"Other specified congenital malformations",
+    "inclusion":null
+  },
+  {
+    "code":"R09.8",
+    "title":"Other specified symptoms and signs involving the circulatory and respiratory systems",
+    "inclusion":null
+  },
+  {
+    "code":"R19.8",
+    "title":"Other specified symptoms and signs involving the digestive system and abdomen",
+    "inclusion":null
+  },
+  {
+    "code":"R22.2",
+    "title":"Localized swelling, mass and lump, trunk",
+    "inclusion":null
+  },
+  {
+    "code":"R29.2",
+    "title":"Abnormal reflex",
+    "inclusion":null
+  },
+  {
+    "code":"R59.0",
+    "title":"Localized enlarged lymph nodes",
+    "inclusion":null
+  },
+  {
+    "code":"S00.8",
+    "title":"Superficial injury of other parts of head",
+    "inclusion":null
+  },
+  {
+    "code":"S09.9",
+    "title":"Unspecified injury of head",
+    "inclusion":null
+  },
+  {
+    "code":"S36.00",
+    "title":"Injury of spleen, without open wound into cavity",
+    "inclusion":[
+
+    ]
+  },
+  {
+    "code":"S41.0",
+    "title":"Open wound of shoulder",
+    "inclusion":null
+  },
+  {
+    "code":"S62.30",
+    "title":"Fracture of other metacarpal bone, closed",
+    "inclusion":[
+
+    ]
+  },
+  {
+    "code":"S69.8",
+    "title":"Other specified injuries of wrist and hand",
+    "inclusion":null
+  },
+  {
+    "code":"S82.80",
+    "title":"Fractures of other parts of lower leg, closed",
+    "inclusion":[
+      "Fracture (of): ankle NOS",
+      "Fracture (of): bimalleolar",
+      "Fracture (of): trimalleolar"
+    ]
+  },
+  {
+    "code":"S93.1",
+    "title":"Dislocation of toe(s)",
+    "inclusion":null
+  },
+  {
+    "code":"S93.5",
+    "title":"Sprain and strain of toe(s)",
+    "inclusion":null
+  },
+  {
+    "code":"T13.1",
+    "title":"Open wound of lower limb, level unspecified",
+    "inclusion":null
+  },
+  {
+    "code":"T14.9",
+    "title":"Injury, unspecified",
+    "inclusion":null
+  },
+  {
+    "code":"T21.3",
+    "title":"Burn of third degree of trunk",
+    "inclusion":null
+  },
+  {
+    "code":"T24.3",
+    "title":"Burn of third degree of hip and lower limb, except ankle and foot",
+    "inclusion":null
+  },
+  {
+    "code":"T31.9",
+    "title":"Burns involving 90% or more of body surface",
+    "inclusion":null
+  },
+  {
+    "code":"T43.3",
+    "title":"Poisoning: Phenothiazine antipsychotics and neuroleptics",
+    "inclusion":null
+  },
+  {
+    "code":"T45.1",
+    "title":"Poisoning: Antineoplastic and immunosuppressive drugs",
+    "inclusion":null
+  },
+  {
+    "code":"T48.6",
+    "title":"Poisoning: Antiasthmatics, not elsewhere classified",
+    "inclusion":null
+  },
+  {
+    "code":"T57.0",
+    "title":"Toxic effect: Arsenic and its compounds",
+    "inclusion":null
+  },
+  {
+    "code":"T59.8",
+    "title":"Toxic effect: Other specified gases, fumes and vapours",
+    "inclusion":null
+  },
+  {
+    "code":"T66",
+    "title":"Unspecified effects of radiation",
+    "inclusion":null
+  },
+  {
+    "code":"T74.2",
+    "title":"Sexual abuse",
+    "inclusion":null
+  },
+  {
+    "code":"T81.4",
+    "title":"Infection following a procedure, not elsewhere classified",
+    "inclusion":null
+  },
+  {
+    "code":"T81.8",
+    "title":"Other complications of procedures, not elsewhere classified",
+    "inclusion":null
+  },
+  {
+    "code":"T85.2",
+    "title":"Mechanical complication of intraocular lens",
+    "inclusion":null
+  },
+  {
+    "code":"T86.8",
+    "title":"Failure and rejection of other transplanted organs and tissues",
+    "inclusion":null
+  },
+  {
+    "code":"T88.7",
+    "title":"Unspecified adverse effect of drug or medicament",
+    "inclusion":null
+  },
+  {
+    "code":"V87.89",
+    "title":"Person injured in other specified noncollision transport accidents involving motor vehicle (traffic), During unspecified activity",
+    "inclusion":[
+
+    ]
+  },
+  {
+    "code":"V97.29",
+    "title":"Parachutist injured in air transport accident, During unspecified activity",
+    "inclusion":[
+
+    ]
+  },
+  {
+    "code":"W34.99",
+    "title":"Discharge from other and unspecified firearms, Unspecified place, During unspecified activity",
+    "inclusion":[
+
+    ]
+  },
+  {
+    "code":"W44.99",
+    "title":"Foreign body entering into or through eye or natural orifice, Unspecified place, During unspecified activity",
+    "inclusion":[
+
+    ]
+  },
+  {
+    "code":"W45.99",
+    "title":"Foreign body or object entering through skin, Unspecified place, During unspecified activity",
+    "inclusion":[
+
+    ]
+  },
+  {
+    "code":"X00.99",
+    "title":"Exposure to uncontrolled fire in building or structure, Unspecified place, During unspecified activity",
+    "inclusion":[
+
+    ]
+  },
+  {
+    "code":"X31.99",
+    "title":"Exposure to excessive natural cold, Unspecified place, During unspecified activity",
+    "inclusion":[
+
+    ]
+  },
+  {
+    "code":"X41.99",
+    "title":"Accidental poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified, Unspecified place, During unspecified activity",
+    "inclusion":[
+
+    ]
+  },
+  {
+    "code":"X44.99",
+    "title":"Accidental poisoning by and exposure to other and unspecified drugs, medicaments and biological substances, Unspecified place, During unspecified activity",
+    "inclusion":[
+
+    ]
+  },
+  {
+    "code":"X49.99",
+    "title":"Accidental poisoning by and exposure to other and unspecified chemicals and noxious substances, Unspecified place, During unspecified activity",
+    "inclusion":[
+
+    ]
+  },
+  {
+    "code":"X61.99",
+    "title":"Intentional self-poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified, Unspecified place, During unspecified activity",
+    "inclusion":[
+
+    ]
+  },
+  {
+    "code":"Y07.99",
+    "title":"By unspecified person, During unspecified activity",
+    "inclusion":[
+
+    ]
+  },
+  {
+    "code":"Z82.4",
+    "title":"Family history of ischaemic heart disease and other diseases of the circulatory system",
+    "inclusion":null
+  },
+  {
+    "code":"Z87.1",
+    "title":"Personal history of diseases of the digestive system",
+    "inclusion":null
+  },
+  {
+    "code":"Z91.1",
+    "title":"Personal history of noncompliance with medical treatment and regimen",
+    "inclusion":null
+  },
+  {
+    "code":"Z94.0",
+    "title":"Kidney transplant status",
+    "inclusion":null
+  },
+  {
+    "code":"Z95.8",
+    "title":"Presence of other cardiac and vascular implants and grafts",
+    "inclusion":null
+  }
+]
