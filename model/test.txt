@@ -1,0 +1,3314 @@
+bidirectional cardiac shunt __label__R09.8
+cognitive impairment due to lead toxicity __label__X49.99
+aphalangy, hemivertebra, urogenital, intestinal dysgenesis syndrome __label__Q87.8
+horizontal doll's head reflex absent __label__R29.2
+infected abrasion of right upper arm __label__L08.9
+skunk cabbage poisoning __label__X49.99
+MLCRD __label__Q87.8
+injury due to car accident __label__T14.9
+FH: Ischaemic heart disease at greater than 60 years __label__Z82.4
+dumbcane poisoning __label__X49.99
+Saponaria officinalis poisoning __label__X49.99
+subpyloric lymphadenopathy __label__R59.0
+X-linked intellectual disability Brooks type __label__Q87.8
+fungating tumor of lymph node __label__D48.7
+foreign body of face __label__W45.99
+accidental amsacrine overdose __label__X44.99
+pellet wound of head and neck __label__W34.99
+accidental guaifenesin poisoning __label__X44.99
+closed spina bifida with Arnold-Chiari malformation __label__Q05.9
+accidental methohexitone overdose __label__X44.99
+adverse reaction to caffeine __label__T88.7
+oxybuprocaine poisoning __label__X44.99
+congenital anomaly of exoccipital bone __label__Q75.8
+primary occlusal trauma __label__S09.9
+anion exchange resins adverse reaction __label__T88.7
+intentional trifluperidol overdose __label__X61.99
+neuroectodermal dysplasia CHIME type __label__Q87.8
+intentional azathioprine overdose __label__T45.1
+lazy leucocyte syndrome __label__D72.8
+Gronblad-Strandberg syndrome __label__Q82.8
+lubricant causing toxic effect __label__X49.99
+adverse reaction to methadone __label__T88.7
+poisoning caused by tolazoline __label__X44.99
+syringotropic mycosis fungoides __label__C84.0
+methohexitone adverse reaction __label__T88.7
+inferior vena cava filter in situ __label__Z95.8
+PENS __label__Q82.8
+injury whilst engaged in sports activity __label__T14.9
+intentional amantadine poisoning __label__X61.99
+Summitt's acrocephalosyndactyly __label__Q87.0
+autism spectrum disorder, epilepsy, arthrogryposis syndrome __label__Q87.8
+accidental idarubicin poisoning __label__X44.99
+hematoma of face __label__S00.8
+injury due to fragment from artillery shell __label__T14.9
+Menetrier disease __label__K29.6
+temocillin adverse reaction __label__T88.7
+THO complex 6-related developmental delay, microcephaly, facial dysmorphism syndrome __label__Q87.0
+hydrocephalus, tall stature, joint laxity syndrome __label__Q87.8
+poisoning by oxymetholone __label__X44.99
+chlormerodrin poisoning __label__X44.99
+dumbbell ossification of centrum of cervical vertebra __label__Q76.4
+cancer of skin __label__C44.9
+leakage of bile from gallbladder bed __label__K76.8
+gastrointestinal tract problem __label__R19.8
+Flynn-Aird syndrome __label__Q87.8
+ankle fracture __label__S82.80
+pain due to retraction of testis __label__Q55.2
+accidental cefalexin overdose __label__X44.99
+dusting powders adverse reaction __label__T88.7
+incomplete ossification of skull __label__Q75.8
+poisoning of nerve tissue __label__X49.99
+poisoning caused by tripelennamine __label__X44.99
+cyclophosphamide overdose __label__T45.1
+adverse reaction to methotrexate __label__T88.7
+adverse reaction to temazepam __label__T88.7
+intentional prochlorperazine overdose __label__X61.99
+accidental poisoning caused by butabarbitone __label__X41.99
+prednisone overdose __label__X44.99
+cardiac inotropic agent adverse reaction __label__T88.7
+poisoning caused by busulphan __label__T45.1
+agenesis of parietal bone __label__Q75.8
+bridging bronchus __label__Q32.4
+epigastric discomfort __label__R19.8
+doxapram adverse reaction __label__T88.7
+systolic dysfunction __label__R09.8
+pentostatin overdose __label__X44.99
+adverse reaction caused by psilocybin __label__T88.7
+venlafaxine adverse reaction __label__T88.7
+early neonatal infection caused by Staphylococcus aureus __label__A49.0
+antineoplastic adverse reaction __label__T88.7
+accidental tolbutamide overdose __label__X44.99
+anaphylotoxin inactivator deficiency __label__D84.1
+ectodermal dysplasia with ectrodactyly and macular dystrophy syndrome __label__Q87.8
+abnormal blood flow __label__R09.8
+cutis laxa, corneal clouding AND mental retardation __label__Q87.8
+family juncaginaceae poisoning __label__X49.99
+decreased flexor reflex __label__R29.2
+X-ray contrast media poisoning __label__X44.99
+deficiency of creatine phosphokinase __label__E88.0
+formestane adverse reaction __label__T88.7
+duodenitis due to vasculitis __label__K29.8
+splinter of upper arm, without major open wound __label__W45.99
+Johnson neuroectodermal syndrome __label__Q87.8
+ICL - idiopathic CD4 lymphocytopenia __label__D72.8
+intellectual disability, macrocephaly, hypotonia, behavioral abnormalities syndrome __label__Q87.0
+giant cell fibroblastoma with dermatofibrosarcoma protuberans __label__C44.9
+psychological abuse of adult __label__Y07.99
+Staphylococcus aureus bacteremia __label__A49.0
+accidental prilocaine poisoning __label__X44.99
+poisoning by primidone __label__X41.99
+burn involving more than 90 percent of body surface, with 80-89 percent of body surface with full thickness burn __label__T31.9
+congenital abnormal shape of mandible __label__Q75.8
+injury due to explosion of depth charge __label__T14.9
+poisoning by phenothiazine-based tranquilizer __label__X41.99
+Argemone species poisoning __label__X49.99
+regurgitation of left atrioventricular (not morphologically mitral) valve __label__I38
+injury due to legal intervention by rifle bullet __label__T14.9
+Char Douglas Dungan syndrome __label__Q87.8
+domestic sexual abuse __label__Y07.99
+calcium polystyrene sulfonate adverse reaction __label__T88.7
+adverse reaction to orphenadrine __label__T88.7
+family history of angina in female relative of first degree, age known __label__Z82.4
+family chenopodiaceae poisoning __label__X49.99
+single coronary artery dividing into right coronary artery and left coronary artery __label__Q24.5
+superficial foreign body in left middle finger __label__W45.99
+triamcinolone adverse reaction __label__T88.7
+intentional chlormethine poisoning __label__T45.1
+acquired lymphocytopenia __label__D72.8
+obesity, colitis, hypothyroidism, cardiac hypertrophy, developmental delay syndrome __label__Q87.8
+pellet wound of nose __label__W34.99
+glycopeptide resistant Staphylococcus aureus infection __label__A49.0
+poisoning by clonidine __label__X44.99
+adverse reaction to pharmaceutical excipient __label__T88.7
+Ter Haar syndrome __label__Q87.8
+adverse reaction to sulfaurea __label__T88.7
+deep third degree burn of knee __label__T24.3
+malignant acrospiroma __label__C44.9
+pellet wound of hand __label__W34.99
+injury in water transport caused by deck machinery, occupant of small unpowered boat injured __label__T14.9
+accidental poisoning caused by amylobarbitone __label__X41.99
+keratoderma __label__Q82.8
+aplasia cutis congenita due to teratogenic drug (Type 7) __label__Q84.8
+STI __label__T14.9
+extrasystoles, short stature, hyperpigmentation, microcephaly syndrome __label__Q87.8
+ranitidine adverse reaction __label__T88.7
+toxic effect of potassium cyanide __label__X49.99
+spontaneous subcapsular liver haematoma __label__K76.8
+duodenitis caused by Helicobacter pylori __label__K29.8
+adverse reaction to parasympathomimetic __label__T88.7
+adverse reaction to razoxane __label__T88.7
+poisoning by methisazone __label__X44.99
+ofloxacin adverse reaction __label__T88.7
+Melica decumbens poisoning __label__X49.99
+triclosan adverse reaction __label__T88.7
+nonspecific intraventricular conduction disorder __label__I45.8
+elephantiasic pretibial myxedema __label__E03.8
+poisoning caused by halothane __label__X44.99
+irradiated bone marrow __label__T66
+methotrexate overdose __label__X44.99
+poisoning by chloral hydrate __label__X41.99
+congenital hypoplasia of basioccipital bone __label__Q75.8
+insect bite, nonvenomous, of vulva, infected __label__L08.9
+English yew poisoning __label__X49.99
+accidental prochlorperazine overdose __label__T43.3
+poisoning by busulphan __label__X44.99
+primary chordoma of bone of skull __label__C41.0
+carbon monoxide fumes from conflagration in theater __label__X00.99
+atrial premature depolarisation with aberrant ventricular conduction __label__I45.8
+lacrimo-auriculo-dento-digital syndrome __label__Q87.0
+noncollision motor vehicle traffic accident involving fire starting in motor vehicle while in motion, driver of motor vehicle injured __label__V87.89
+accidental oxymetholone overdose __label__X44.99
+Abruzzo Erickson syndrome __label__Q87.8
+intentional nortriptyline poisoning __label__X61.99
+emepronium bromide adverse reaction __label__T88.7
+deficiency of leucine-transfer ribonucleic acid ligase __label__E88.0
+CKD __label__Z94.0
+superficial foreign body of axilla with infection __label__L08.9
+noncollision motor vehicle traffic accident involving accidental poisoning from exhaust gas generated by motor vehicle while in motion, passenger of motor vehicle injured __label__V87.89
+gastritis medicamentosa __label__K29.6
+intellectual disability, craniofacial dysmorphism, hypogonadism, diabetes mellitus syndrome __label__Q87.0
+oro-facial digital syndrome type 10 __label__Q87.0
+slow healing surgical wound __label__T81.8
+adverse reaction to cephradine __label__T88.7
+MEHMO syndrome __label__Q87.8
+family history of angina in male relative of first degree, age unknown __label__Z82.4
+pulse in right popliteal artery absent __label__R09.8
+deficiency of phosphoribosylamine-glycine ligase __label__E88.0
+mitoxantrone poisoning __label__X44.99
+neoplasm of uncertain behaviour of lower limb __label__D48.7
+primary carcinosarcoma of skin __label__C44.9
+accidental cefaclor overdose __label__X44.99
+wood splinter in forehead __label__S00.8
+doxorubicin overdose __label__T45.1
+intra-orbital foreign body __label__W44.99
+CLIFAHDD __label__Q87.8
+brachycephalofrontonasal dysplasia __label__Q87.0
+fishing hook in neck __label__W45.99
+poisoning by phenolic __label__X44.99
+deficiency of thioltransacetylase A __label__E88.0
+anomalous origin of coronary arteries from both aortic sinuses of bicuspid valve __label__Q24.5
+quaternary pyridinium surfactant adverse reaction __label__T88.7
+benign lymphoid polyposis of intestine __label__D12.6
+Qazi Markouizos syndrome __label__Q87.8
+decreased vision __label__H53.8
+poisoning caused by cephalosporin group antibiotic __label__X44.99
+occupational skin cancer __label__C44.9
+adverse reaction caused by marihuana __label__T88.7
+adverse reaction to fludrocortisone acetate __label__T88.7
+plicamycin poisoning __label__T45.1
+adverse reaction to glipizide __label__T88.7
+neoplasm of uncertain behaviour of choroid __label__D48.7
+toxic effect of lead acetate __label__X44.99
+family history of aneurysm of blood vessel of brain __label__Z82.4
+accident due to collapse of burning travel trailer __label__X00.99
+sees sparks __label__H53.8
+fall while boarding or alighting from public service vehicle __label__V87.89
+superficial injury of chest wall with infection __label__L08.9
+liver hard __label__R19.8
+family myrtaceae poisoning __label__X49.99
+accidental chlormethine overdose __label__X44.99
+nail wound of hip __label__W45.99
+pirenzepine overdose __label__X44.99
+5-aminosalicylic acid poisoning __label__X44.99
+accidental vigabatrin poisoning __label__X41.99
+poisoning caused by prochlorperazine __label__T43.3
+flunitrazepam poisoning __label__X41.99
+Salsola species poisoning __label__X49.99
+deficiency of phosphorylethanolamine transferase __label__E88.0
+cefotaxime overdose __label__X44.99
+bromelains adverse reaction __label__T88.7
+contusion of subcondylar region of mandible __label__S00.8
+injury of unknown intent by local effect of caustic substance __label__T14.9
+naloxone overdose __label__X44.99
+noncollision motor vehicle traffic accident involving being accidentally pushed from motor vehicle whilst in motion, driver of motor vehicle injured __label__V87.89
+accident due to fall from burning tenement __label__X00.99
+pituitary diabetes insipidus __label__E23.2
+bipartite cartilaginous centrum of cervical vertebra __label__Q76.4
+proton pump inhibitor adverse reaction __label__T88.7
+AHTS __label__M20.5
+poisoning by castor oil __label__X44.99
+injury to occupant of railway vehicle in collision with road vehicle __label__T14.9
+deficiency of palmitoyl-CoA hydrolase __label__E88.0
+acro-cardio-facial syndrome __label__Q87.8
+basal cell carcinoma recurrent following radiotherapy __label__C44.9
+accidental vasopressin poisoning __label__X44.99
+amphotericin B overdose __label__X44.99
+foreign body in hand with infection __label__L08.9
+fumes from combustion of polyvinylchloride and similar material in conflagration, in rooming house __label__X00.99
+transplant rejection of cornea of both eyes __label__T86.8
+sodium feredetate adverse reaction __label__T88.7
+superficial foreign body in finger of right hand __label__W45.99
+Zinsser-Cole-Engmann syndrome __label__Q82.8
+accidental moclobemide poisoning __label__X41.99
+noradrenaline adverse reaction __label__T88.7
+subungual haematoma of great toe of right foot __label__L60.8
+congenital fused mandible __label__Q75.8
+deficiency of 6-phosphogluconic dehydrogenase __label__E88.0
+slit-like coronary artery ostium __label__Q24.5
+oxygen poisoning __label__X44.99
+diabetes type 2 on insulin __label__E11.9
+adverse reaction to allergenic extract __label__T88.7
+accident due to fall from burning theater __label__X00.99
+foreign body in skin of left foot with infection __label__L08.9
+phosphodiesterase 4D haploinsufficiency syndrome __label__Q87.0
+extramammary Pagets disease of skin __label__C44.9
+chorea due to injury of head __label__S09.9
+thrombocytopenia due to hypothermia __label__X31.99
+extrinsic staining of teeth associated with inadequate oral hygiene __label__K03.7
+organic mercury poisoning __label__X49.99
+accidental thiopental overdose __label__X44.99
+supernumerary thoracic arch __label__Q76.4
+median cleft face syndrome __label__Q75.8
+maturity onset diabetes of the young, type 2 __label__E11.9
+vinca alkaloid overdose __label__X44.99
+holoacardius amorphus __label__Q89.8
+localised swelling of abdominal wall __label__R22.2
+potassium permanganate adverse reaction __label__T88.7
+malignant neoplasm of carpal bone - triquetrum __label__C40.1
+van Lohuizen's syndrome __label__Q84.8
+congenital hypertrophy of testis __label__Q55.2
+injury due to explosion of torpedo __label__T14.9
+unossified basioccipital bone __label__Q75.8
+NEVADA __label__Q84.8
+adverse reaction caused by candesartan __label__T88.7
+accidental ingestion of solomons seal seeds __label__X49.99
+inflammation of periwound skin __label__L08.9
+nitrogen mustard derivative overdose __label__T45.1
+mesterolone adverse reaction __label__T88.7
+droperidol overdose __label__X41.99
+liquorice overdose __label__X44.99
+infected abrasion of right little finger __label__L08.9
+poisoning by procaine __label__X44.99
+poisoning caused by prostaglandin __label__X44.99
+injury due to assault with used injection needle __label__T14.9
+familial caudal dysgenesis __label__Q87.8
+beclamide adverse reaction __label__T88.7
+congenital misshapen zygomatic bone __label__Q75.8
+infected thumb __label__L08.9
+chlorthalidone adverse reaction __label__T88.7
+5-aminosalicylic acid adverse reaction __label__T88.7
+poisoning by azathioprine __label__T45.1
+pigmented dermatofibrosarcoma __label__C44.9
+progressive familial intrahepatic cholestasis type 2 __label__K76.8
+infusion reaction caused by trastuzumab __label__T88.7
+infection of skin and mucous membrane caused by human papillomavirus __label__L08.9
+carbocisteine adverse reaction __label__T88.7
+superficial injury of scapular region with infection __label__L08.9
+accidental flucytosine overdose __label__X44.99
+arc-welders' nodulation __label__X49.99
+superficial foreign body of scrotum with infection __label__W45.99
+nephropathy, deafness, hyperparathyroidism syndrome __label__Q87.8
+lumbar hemivertebra - unbalanced __label__Q76.4
+eyesight deteriorating __label__H53.8
+diamorphine adverse reaction __label__T88.7
+mutilating palmoplantar hyperkeratosis with periorificial keratotic plaques __label__Q82.8
+dicyclomine adverse reaction __label__T88.7
+norepinephrine adverse reaction __label__T88.7
+bretylium overdose __label__X44.99
+accidental ampicillin overdose __label__X44.99
+infected abrasion of right breast __label__L08.9
+HNF1B monogenic diabetes mellitus __label__E11.9
+moldy sweet potato poisoning __label__X49.99
+superficial foreign body of finger of left hand with infection __label__L08.9
+inherited disorder of keratinization __label__Q82.8
+sodium fluoride adverse reaction __label__T88.7
+skin lesion due to drug overdose __label__X44.99
+third degree burn of back __label__T21.3
+borderline slow pulse __label__R09.8
+anaemia due to lead __label__X49.99
+adverse reaction to oxyquinoline __label__T88.7
+dissection of proximal aorta __label__I71.0
+aspirated vomit in lower respiratory tract __label__W44.99
+abscess of truncal valve __label__I38
+liver nodule __label__K76.8
+adverse reaction to dichloroacetamide __label__T88.7
+minocycline adverse reaction __label__T88.7
+peripheral pulse palpable __label__R09.8
+HCHWA __label__E85.4
+air freshener causing toxic effect __label__X49.99
+primary mucoepidermoid carcinoma of parotid gland __label__C07
+deficiency of oxalate coenzyme A-transferase __label__E88.0
+accidental cephazolin overdose __label__X44.99
+granuloma of surgical wound __label__T81.8
+accident due to collapse of burning boarding house __label__X00.99
+accidental piracetam poisoning __label__X41.99
+Urban Rogers Meyer syndrome __label__Q87.8
+tetracosactrin adverse reaction __label__T88.7
+Trachymene species poisoning __label__X49.99
+family asteraceae poisoning __label__X49.99
+focal facial dermal dysplasia 3 Setleis type __label__Q82.8
+C4BQ0 __label__D84.1
+deficiency of metallocarboxypeptidase __label__E88.0
+RU - Rodent ulcer __label__C44.9
+CEG __label__K29.6
+nonadherence with therapeutic regimen __label__Z91.1
+dysharmonic skeletal maturation and muscular fibre disproportion syndrome __label__Q87.8
+psoralen and long-wave ultraviolet radiation (PUVA) therapy-associated skin malignancy __label__C44.9
+victim of sexual aggression __label__T74.2
+congenital abnormality of skull shape __label__Q75.8
+estriol adverse reaction __label__T88.7
+accidental poisoning from seeds __label__X49.99
+CDAGS __label__Q87.8
+malignant melanoma of forehead __label__C43.3
+Grange syndrome __label__Q87.8
+nonadherence with immunization regimen __label__Z91.1
+megaloblastic anemia due to folate deficiency in prematurity __label__D52.0
+toxic effect of sulphuric acid __label__X49.99
+poisoning by cephaloridine __label__X44.99
+chinkerinchee poisoning __label__X49.99
+deficiency of amyloglucosidase __label__E88.0
+deteriorating vision __label__H53.8
+insect bite, nonvenomous, of thigh, infected __label__L08.9
+sprain of metatarsophalangeal joint of right great toe __label__S93.5
+adverse reaction caused by sodium bicarbonate __label__T88.7
+bony swelling of the cervical spine __label__R22.2
+phosphorus poisoning __label__X49.99
+deficiency of glutamic-oxaloacetic transaminase __label__E88.0
+straining at stool __label__R19.8
+adverse reaction to homatropine __label__T88.7
+poisoning caused by haloperidol __label__X41.99
+FH: Ischaemic heart disease at less than 60 years __label__Z82.4
+adverse reaction to trimipramine __label__T88.7
+accidental etoposide overdose __label__T45.1
+extramammary Paget disease of skin __label__C44.9
+accidental pericyazine poisoning __label__X41.99
+primary cutaneous sarcoma __label__C44.9
+adverse reaction to pemoline __label__T88.7
+adverse reaction to triamcinolone __label__T88.7
+incomplete ossification of centrum of cervical vertebra __label__Q76.4
+abnormal precordial pulsation __label__R09.8
+accident due to explosion in moving motor vehicle on road __label__V87.89
+Ververi Brady syndrome __label__Q87.0
+congenital bent hyoid bone __label__Q75.8
+ribavirin adverse reaction __label__T88.7
+painful swallowing __label__R19.8
+melphalan poisoning __label__X44.99
+atherosclerosis of autologous vein bypass graft of left upper limb __label__Z95.8
+localised congenital cutis laxa __label__Q82.8
+isoconazole adverse reaction __label__T88.7
+angiotensin II receptor antagonist adverse reaction __label__T88.7
+deficiency of glutathione synthetase __label__E88.0
+Wolff Zimmermann syndrome __label__Q87.0
+deficiency of reduced nicotinamide adenine dinucleotide phosphate dehydrogenase (quinone) __label__E88.0
+Patterson Stevenson Fontaine syndrome __label__Q87.0
+gunshot wound of right buttock __label__W34.99
+poisoning caused by calcium-channel blockers __label__X44.99
+guarding of right hypochondrium __label__R19.8
+adverse reaction caused by saluretic agent __label__T88.7
+Grob syndrome __label__Q87.0
+paratracheal lymphadenopathy __label__R59.0
+doxorubicin overdose __label__X44.99
+holorachischisis __label__Q05.9
+accidental paclitaxel overdose __label__X44.99
+congenital misaligned sacral centrum __label__Q76.4
+accidental omeprazole overdose __label__X44.99
+mitomycin adverse reaction __label__T88.7
+PSP - Paralytic shellfish poisoning __label__X49.99
+sulindac adverse reaction __label__T88.7
+intentional overdose of MDMA (methylenedioxymethamphetamine) __label__X61.99
+multiple congenital malformations __label__Q87.8
+PVA adhesive causing toxic effect __label__X49.99
+accident due to fall from burning farmhouse __label__X00.99
+anthelmintic drug overdose __label__X44.99
+agenesis of basisphenoid bone __label__Q75.8
+right temporal atrophy variant frontotemporal dementia __label__G31.0
+adverse reaction to inactivated whole COVID-19 antigen vaccine __label__T88.7
+adverse reaction to methyltestosterone __label__T88.7
+nonvenomous insect bite of trunk with infection __label__L08.9
+blister of hip, infected __label__L08.9
+etoposide overdose __label__X44.99
+poisoning by actinomycin __label__X44.99
+soapwort poisoning __label__X49.99
+allergic reaction to radiocontrast media __label__T88.7
+alcoholic amblyopia __label__H53.8
+ablepharon macrostomia syndrome __label__Q87.0
+parametrial lymphadenopathy __label__R59.0
+hematoma of spleen __label__S36.00
+HMG-CoA lyase deficiency __label__E88.0
+lack of ossification of centrum of sacral vertebra __label__Q76.4
+vestibular trauma __label__S09.9
+third degree burn of buttock __label__T21.3
+blister of vagina, infected __label__L08.9
+explosion caused by conflagration in school __label__X00.99
+mass of skin of abdomen __label__R22.2
+Yusko __label__X49.99
+accidental cephamandole overdose __label__X44.99
+rhubarb poisoning __label__X49.99
+stilboestrol adverse reaction __label__T88.7
+spoon-shaped nails __label__L60.8
+finding of movement of abdomen __label__R19.8
+overcurvature of nail __label__L60.8
+exaggerated jugular venous pulse 'a' wave __label__R09.8
+abrasion of penis, infected __label__L08.9
+orbital separation diminished __label__Q75.8
+caustic alkalis causing toxic effect __label__X49.99
+poisoning caused by aldehyde dehydrogenase inhibitor __label__X44.99
+conjunctival amyloidosis __label__E85.4
+subungual hematoma, hand __label__L60.8
+isradipine adverse reaction __label__T88.7
+injury due to electrical exposure __label__T14.9
+disorder of hyoid bone __label__M89.98
+hepatocellular jaundice __label__K76.8
+mucoepidermoid carcinoma of skin __label__C44.9
+malignant neoplasm of carpal bone - lunate __label__C40.1
+methicillin-resistant Staphylococcus aureus infection of postoperative wound __label__T81.4
+Buschke Fischer Brauer syndrome __label__Q82.8
+adverse reaction to oxytetracycline __label__T88.7
+poisoning caused by iron and/or iron compound __label__X44.99
+mitomycin poisoning __label__T45.1
+blister of heel, infected __label__L08.9
+congenital undergrowth of partial lower limb __label__Q72.9
+digital extensor muscle aplasia with polyneuropathy __label__Q87.8
+SCARF __label__Q82.8
+filgrastim adverse reaction __label__T88.7
+factor XIII adverse reaction __label__T88.7
+IQSEC2-related syndromic intellectual disability __label__Q87.8
+intentional flupenthixol decanoate overdose __label__X61.99
+family history: Cardiovascular disease __label__Z82.4
+site-specific pyogenic infection of skin and subcutis __label__L08.9
+mental abuse of adult __label__Y07.99
+colobomatous microphthalmia, obesity, hypogenitalism, intellectual disability syndrome __label__Q87.8
+FB __label__W45.99
+intentional moclobemide poisoning __label__X61.99
+pancuronium adverse reaction __label__T88.7
+accidental poisoning caused by amantadine __label__X41.99
+accidental prednisone overdose __label__X44.99
+alpha-tocopheryl adverse reaction __label__T88.7
+decreased frequency of defecation __label__R19.8
+abnormal origin of single coronary artery from left coronary artery aortic sinus of Valsalva __label__Q24.5
+foreign body in skin of cheek with infection __label__S00.8
+acromegaloid facial appearance syndrome __label__Q87.0
+victim of abusive sexual relationship with partner __label__T74.2
+accidental dipyridamole poisoning __label__X44.99
+Ipomoea species poisoning __label__X49.99
+microphthalmia, microtia, fetal akinesia syndrome __label__Q87.8
+deficiency of NMN pyrophosphorylase __label__E88.0
+deficiency of transformylase __label__E88.0
+brain malformations, musculoskeletal abnormalities, facial dysmorphism, intellectual disability syndrome __label__Q87.0
+accidental exposure to T2 mycotoxin __label__X49.99
+agenesis of presphenoid bone __label__Q75.8
+subungual haematoma of lesser toe of right foot __label__L60.8
+adverse reaction to vancomycin __label__T88.7
+accidental excessive dose of vaccine administered __label__X44.99
+pyridoxine toxicity __label__X44.99
+piretanide adverse reaction __label__T88.7
+dosulepin poisoning __label__X41.99
+atherosclerosis of nonautologous biological bypass graft of bilateral lower extremities __label__Z95.8
+adverse reaction to treosulfan __label__T88.7
+nonunion of bone graft __label__T86.8
+retrocaecal lymphadenopathy __label__R59.0
+conjunctival exudate __label__H11.8
+lamotrigine overdose __label__X41.99
+traumatic blister of abdominal wall, infected __label__L08.9
+deficiency of beta-ketoglutaric-isocitric carboxylase __label__E88.0
+intraoperative cardiopulmonary arrest __label__T81.8
+injury due to explosion of marine weapon __label__T14.9
+hyperresonance __label__R09.8
+hypothermia due to cold environment __label__X31.99
+aluminum hydroxide overdose __label__X44.99
+injury of skin __label__T14.9
+adverse reaction caused by ketoprofen __label__T88.7
+retropharyngeal lymphadenopathy __label__R59.0
+polyneuropathy, intellectual disability, acromicria, premature menopause syndrome __label__Q87.8
+disorder of both corneas caused by contact lens __label__W44.99
+deficiency of lyase __label__E88.0
+subungual haematoma of second digit of left hand __label__L60.8
+deficiency of leucyl-tRNA synthetase __label__E88.0
+staring at diffuse light source __label__H53.8
+congenital anomaly of frontal bone __label__Q75.8
+Mexican poppy poisoning __label__X49.99
+poisoning by ingestion of insect-infested food __label__X49.99
+nonvenomous insect bite of face with infection __label__L08.9
+accidental poisoning caused by brass fumes __label__X49.99
+accident due to collapse of burning church __label__X00.99
+benzoic acid adverse reaction __label__T88.7
+deep laceration of lower limb __label__T13.1
+postprocedural fever __label__T81.4
+intentional poisoning caused by MDMA (methylenedioxymethamphetamine) __label__X61.99
+Haspeslagh Fryns Muelenaere syndrome __label__Q87.8
+gunshot wound of low back __label__W34.99
+superficial foreign body in toe __label__W45.99
+packed red cell poisoning __label__X44.99
+red clover poisoning __label__X49.99
+GSW - Gun shot wound __label__W34.99
+busulphan poisoning __label__T45.1
+accidental chlorphenamine poisoning __label__X44.99
+superficial injury of groin with infection __label__L08.9
+abrasion of abdominal wall, infected __label__L08.9
+aberrant course of coronary artery through infundibular septum __label__Q24.5
+adverse reaction to flurazepam __label__T88.7
+deficiency of aspartokinase __label__E88.0
+rabenhorst syndrome __label__Q87.0
+absence of pulse in right posterior tibial artery __label__R09.8
+superficial foreign body in great toe __label__W45.99
+family ulmaceae poisoning __label__X49.99
+intraabdominal abscess after procedure __label__T81.4
+amoxapine poisoning __label__X41.99
+aplastic anaemia caused by toxic cause __label__X49.99
+dantrolene adverse reaction __label__T88.7
+congenital pancreatic trypsin deficiency __label__E88.0
+deficiency of microsomal monooxygenase __label__E88.0
+primary carcinoma of parotid gland __label__C07
+reaction to metallic ring, stud and/or infibulata in skin __label__W45.99
+accidental overdose by angiotensin-converting enzyme inhibitor __label__X44.99
+Tailor's bunion of left foot __label__M20.5
+carbon monoxide fumes from conflagration in lodging house __label__X00.99
+surgically constructed popliteal to great saphenous arteriovenous fistula __label__Z95.8
+poisoning by manganese __label__X49.99
+poisoning by sulfisoxazole __label__X44.99
+erythema palmare hereditarium __label__Q82.8
+atherosclerosis of autologous bypass graft of left lower extremity __label__Z95.8
+liothyronine adverse reaction __label__T88.7
+Lundberg syndrome __label__Q87.8
+MCAHS __label__Q87.8
+adverse reaction to cyclopropane __label__T88.7
+prilocaine overdose __label__X44.99
+lymphadenopathy of head AND/OR neck __label__R59.0
+ankle reflex inverted __label__R29.2
+accidental poisoning by butabarbitone __label__X41.99
+SGD __label__D72.8
+foreign body in mucosa of vagina with infection __label__W45.99
+polyneuropathy, hand defect syndrome __label__Q87.8
+malignant tumor of epidermal appendage __label__C44.9
+dementia caused by manganese __label__X49.99
+adverse reaction to convalescent plasma __label__T88.7
+deficiency of cortisone reductase __label__E88.0
+noncompliance with immunization regimen __label__Z91.1
+accidental hydroxyurea overdose __label__T45.1
+asymmetrical Moro reflex __label__R29.2
+postoperative fever __label__T81.4
+poisoning by cardiotonic glycoside __label__X44.99
+Pai syndrome __label__Q87.8
+accidental poisoning by lead fumes __label__X49.99
+poisoning caused by packed red cells __label__X44.99
+heparin adverse reaction __label__T88.7
+adverse cutaneous reaction caused by homeopathic medicine __label__T88.7
+dothiepin overdose __label__X41.99
+OFD18 __label__Q87.0
+accidental poisoning by thallium __label__X49.99
+poisoning caused by vitamin K __label__X44.99
+transient decreased production of T>3< __label__E03.8
+accidental poisoning by butyrophenone-based tranquilizer __label__X41.99
+explosion caused by conflagration in residential flat __label__X00.99
+poisoning caused by oestrogen __label__X44.99
+accidental chloramphenicol overdose __label__X44.99
+adverse reaction to clofazimine __label__T88.7
+adverse reaction to phenelzine __label__T88.7
+DRESS __label__T88.7
+Baraitser Winter cerebrofrontofacial syndrome __label__Q87.0
+transplant failure of cornea of both eyes __label__T86.8
+deficiency of sulphotransferase __label__E88.0
+kaolin overdose __label__X44.99
+nonvenomous insect bite of toe with infection __label__L08.9
+velofacioskeletal syndrome __label__Q87.0
+dinoprost adverse reaction __label__T88.7
+superior gluteal lymphadenopathy __label__R59.0
+infection caused by Panton-Valentine leukocidin producing Staphylococcus aureus __label__A49.0
+family history of arterial aneurysm __label__Z82.4
+closed traumatic subluxation, metatarsophalangeal joint, multiple __label__S93.1
+adverse reaction caused by pyrazole derivative __label__T88.7
+injury from machinery on aircraft, without accident to aircraft, crew of commercial aircraft in surface to surface transport injured __label__T14.9
+pseudoxanthoma elasticum due to haemoglobinopathy __label__Q82.8
+ergometrine and/or oxytocin adverse reaction __label__T88.7
+poisoning by primaquine __label__X44.99
+BAMS - Bosma arhinia microphthalmia syndrome __label__Q87.0
+blood plasma poisoning __label__X44.99
+adverse reaction to tribavirin __label__T88.7
+accidental phenobarbitone poisoning __label__X41.99
+abnormal uterine bleeding due to subserous leiomyoma of uterus __label__N93.8
+Kleingrass poisoning __label__X49.99
+congenital abnormal shape of nasal bone __label__Q75.8
+anti-tuberculous drug reaction __label__T88.7
+injury due to explosion __label__T14.9
+hyperplastic gastropathy __label__K29.6
+PLACK syndrome __label__Q82.8
+poisoning by carbon monoxide from aircraft whilst in transit, without accident to aircraft, parachutist injured __label__V97.29
+oxymetholone poisoning __label__X44.99
+foreign body in skin of left forearm __label__W45.99
+microcephalus, cerebellar hypoplasia, cardiac conduction defect syndrome __label__Q87.8
+accidental mechlorethamine poisoning __label__X44.99
+adverse reaction caused by rosuvastatin __label__T88.7
+methixene adverse reaction __label__T88.7
+hexachlorophene poisoning __label__X44.99
+prochlorperazine poisoning __label__X41.99
+perforation of intraocular lens __label__T85.2
+H/O: artificial blood vessel __label__Z95.8
+unossified alisphenoid bone __label__Q75.8
+blepharonasofacial malformation syndrome __label__Q87.0
+OFD III - Orofacial-digital syndrome III __label__Q87.0
+primary neuroblastoma of brain __label__C71.9
+infected abrasion of skin of left upper arm __label__L08.9
+HIVEP2-related intellectual disability __label__Q87.8
+ascorbic acid adverse reaction __label__T88.7
+accidental poisoning by soap products __label__X49.99
+injury from aircraft rotating propeller, without accident to aircraft, member of crew of commercial aircraft in surface to surface transport injured __label__T14.9
+metal nail wound of toe __label__W45.99
+adverse reaction to ketoconazole __label__T88.7
+incomplete ossification of zygomatic bone __label__Q75.8
+accidental poisoning caused by spiperone __label__X41.99
+poisoning caused by metal and/or metal compound __label__X49.99
+eruptive neonatal hemangiomatosis __label__Q82.8
+inflammation of umbilical cord __label__L08.9
+hit by object falling from burning tenement __label__X00.99
+adverse reaction to analgesics __label__T88.7
+oxazolidine poisoning __label__X41.99
+closed fracture of fifth metacarpal __label__S62.30
+accidental bleomycin poisoning __label__X44.99
+maprotiline adverse reaction __label__T88.7
+poisoning caused by cycloserine __label__X44.99
+claw toe __label__M20.5
+accidental ingestion of eucalyptus oil __label__X49.99
+pEX5 deficiency __label__Q87.8
+frequent defaecation __label__R19.8
+accidental pirenzepine overdose __label__X44.99
+mitozantrone poisoning __label__T45.1
+adverse reaction to antithyroid agents __label__T88.7
+injury caused by watercraft accident involving collision, swimmer injured __label__T14.9
+delayed pulse __label__R09.8
+neoplasm of uncertain behavior of jaw __label__D48.7
+benzocaine overdose __label__X44.99
+deficiency of tripeptide aminopeptidase __label__E88.0
+elongated right ramus of mandible __label__Q75.8
+doxycycline overdose __label__X44.99
+clarithromycin adverse reaction __label__T88.7
+accidental ifosfamide poisoning __label__T45.1
+accidental fluphenazine enanthate overdose __label__X41.99
+leg reduction deformity __label__Q72.9
+vindesine adverse reaction __label__T88.7
+accidental overdose __label__X44.99
+systemic elastorrhexis __label__Q82.8
+reduced ossification of nasal bone __label__Q75.8
+medazepam poisoning __label__X41.99
+poisoning caused by tranquilizer __label__X41.99
+fracture of ankle __label__S82.80
+cicatrising basal cell carcinoma __label__C44.9
+accidental diphenylpyraline poisoning __label__X44.99
+accidental mitoxantrone overdose __label__X44.99
+adverse reaction to gold and/or gold compound __label__T88.7
+accidental dantron overdose __label__X44.99
+astrocytic tumor of brain __label__C71.9
+non-compliance with collection of peritoneal dialysate specimen __label__Z91.1
+alcuronium adverse reaction __label__T88.7
+congenital erythroderma, hypotrichosis, recurrent infections, multiple food allergies syndrome __label__Q82.8
+SCARF syndrome __label__Q82.8
+tenesmus of anus and/or rectum __label__R19.8
+open traumatic dislocation of interphalangeal joint of lesser toe of right foot __label__S93.1
+sacral reflex inverted __label__R29.2
+adverse reaction to blood or blood product __label__T88.7
+toxic effect of liquefied petroleum gas __label__T59.8
+open wound of lower limb without complication __label__T13.1
+congenital abnormal shape of basioccipital bone __label__Q75.8
+basal cell naevus syndrome __label__Q87.0
+locoweed oxtropis poisoning __label__X49.99
+accidental bromocriptine overdose __label__X44.99
+primary acantholytic squamous cell carcinoma of skin __label__C44.9
+poisoning caused by deoxycortone __label__X44.99
+ipecacuanha adverse reaction __label__T88.7
+acro-oto-ocular syndrome __label__Q87.0
+accidental clomethiazole overdose __label__X44.99
+treosulphan overdose __label__T45.1
+sacralization of lumbar vertebra __label__Q76.4
+hereditary angioneurotic edema with normal C1 esterase inhibitor activity __label__D84.1
+eosinopenia __label__D72.8
+accidental carbimazole poisoning __label__X44.99
+deficiency of galactonolactone dehydrogenase __label__E88.0
+neoplasm of uncertain behavior of head __label__D48.7
+pericyazine overdose __label__T43.3
+Saponaria species poisoning __label__X49.99
+mcKusick Kaufman syndrome __label__Q87.8
+idoxuridine poisoning __label__X44.99
+infected wound of left knee due to nonvenomous insect bite __label__L08.9
+disinhibited behavior due to dementia __label__F03
+blister of right lesser toe with infection __label__L08.9
+burr trefoil poisoning __label__X49.99
+accidental vincristine poisoning __label__X44.99
+pellet wound of upper limb __label__W34.99
+congenital disorder of glycosylation due to PIGT deficiency __label__Q87.8
+human rho(D) immunoglobulin adverse reaction __label__T88.7
+cold injury of peripheral nerve __label__X31.99
+acid poisoning __label__X49.99
+oculorenocerebellar syndrome __label__Q87.8
+spindle cell squamous carcinoma of skin __label__C44.9
+motor vehicle traffic accident due to motor vehicle going out of control due to excessive speed, without collision on the highway __label__V87.89
+bullous cutaneous amyloid __label__E85.4
+adverse reaction to hydroxyurea __label__T88.7
+infective gastritis __label__K29.6
+mitozantrone overdose __label__T45.1
+malignant melanoma of nasal cavity __label__C43.3
+vitamin B group poisoning __label__X44.99
+accidental hydroxycarbamide overdose __label__T45.1
+tamoxifen adverse reaction __label__T88.7
+malignant vascular tumor of skin __label__C44.9
+injury caused by causative force __label__T14.9
+injury of soft tissue of face __label__S09.9
+closed traumatic subluxation of multiple metatarsophalangeal joints __label__S93.1
+closed injury of spleen __label__S36.00
+abnormal ostium of coronary artery __label__Q24.5
+toxic effect of hydrocarbon gas __label__T59.8
+accidental poisoning caused by imipramine __label__X41.99
+supernumerary arch of cervical vertebra __label__Q76.4
+Pfeiffer syndrome type 1 __label__Q87.0
+mianserin adverse reaction __label__T88.7
+subungual hematoma of toe of right foot __label__L60.8
+adverse reaction to mercurophylline __label__T88.7
+Berdon syndrome __label__Q89.8
+intentional thiethylperazine poisoning __label__T43.3
+anovular menstruation __label__N93.8
+infected abrasion of skin of left eyelid __label__L08.9
+open injury, common femoral artery __label__T13.1
+accident due to collapse of burning theatre __label__X00.99
+trigonocephaly C syndrome __label__Q87.8
+congenital scoliosis with unilateral unsegmented bar __label__Q76.4
+adverse reaction to heparin __label__T88.7
+biliary gastritis __label__K29.6
+accidental exposure to blacking __label__X49.99
+overdose of psychotropic agent __label__X41.99
+Say-Barber-Biesecker-Young-Simpson variant of Ohdo syndrome __label__Q87.8
+accidental methylphenobarbitone poisoning __label__X41.99
+X-linked intellectual disability Stoll type __label__Q87.8
+acetylcysteine adverse reaction __label__T88.7
+myrotheciotoxicosis __label__X49.99
+accidental lactulose overdose __label__X44.99
+fenticonazole adverse reaction __label__T88.7
+KP __label__Q82.8
+adverse reaction to hydantoin and/or hydantoin derivative __label__T88.7
+neoplasm of uncertain behaviour of lymph node __label__D48.7
+macrolide antibacterial overdose __label__X44.99
+accidental cisplatin poisoning __label__X44.99
+deficiency of fumarate reductase __label__E88.0
+beta species poisoning __label__X49.99
+ganskweek poisoning __label__X49.99
+agenesis of basioccipital bone __label__Q75.8
+amyotrophic lateral sclerosis with frontotemporal dementia __label__G31.0
+toxic effect of alkyl mercury compound __label__X49.99
+injury due to impact of moving subject with the stationary object __label__T14.9
+motor vehicle traffic accident due to motor vehicle going out of control due to blowout, without collision on the highway, passenger of motor vehicle injured __label__V87.89
+norfloxacin adverse reaction __label__T88.7
+acquired myelocele __label__Q05.9
+colostomy infection __label__T81.4
+family history: Angina at less than 60 years __label__Z82.4
+impaired circulatory system function __label__R09.8
+abrasion of face, infected __label__S00.8
+trisodium edetate adverse reaction __label__T88.7
+aquagenic palmoplantar keratoderma __label__Q82.8
+X-linked intellectual disability Kroes type __label__Q87.8
+deficiency of glycerate kinase __label__E88.0
+levomeprazine overdose __label__X41.99
+deficiency of rhamnulokinase __label__E88.0
+adverse reaction to amoxicillin __label__T88.7
+plantar lipomatosis, facial dysmorphism, developmental delay syndrome __label__Q87.0
+insect bite, nonvenomous, of scrotum and testis, infected __label__L08.9
+closed fracture subluxation of ankle joint __label__S82.80
+skin disease caused by arsenic __label__T57.0
+closed fracture of neck of metacarpal bone of left hand __label__S62.30
+acid burn of skin __label__X49.99
+Hodgkin disease, mixed cellularity of spleen __label__C81.2
+contusion of face __label__S00.8
+history of diverticulitis __label__Z87.1
+pergolide adverse reaction __label__T88.7
+deafness with onychodystrophy syndrome __label__Q87.8
+adverse reaction to poractant alfa __label__T88.7
+melphalan overdose __label__X44.99
+congenital coronary artery fistula to pulmonary artery __label__Q24.5
+intentional primidone overdose __label__X61.99
+accidental carmustine poisoning __label__X44.99
+carmustine overdose __label__T45.1
+intentional pipothiazine overdose __label__T43.3
+increased pulmonary arterial wedge pressure __label__R09.8
+accidental cephaloridine poisoning __label__X44.99
+Phaseolus species poisoning __label__X49.99
+deficiency of L-serine ammonia-lyase __label__E88.0
+family linaceae poisoning __label__X49.99
+3-Hydroxy-3-methylglutaryl coenzyme A (HMG CoA) reductase inhibitor adverse reaction __label__T88.7
+dermatoglyphic abnormality __label__Q82.8
+Kalmia species poisoning __label__X49.99
+magnesium trisilicate poisoning __label__X44.99
+MCAHS __label__Q87.8
+reduced ossification of premaxilla __label__Q75.8
+neoplasm of uncertain behavior of epicardium __label__D48.7
+benign neoplasm of large intestine __label__D12.6
+primary medulloblastoma __label__C71.9
+accidental vinblastine overdose __label__T45.1
+family rosaceae poisoning __label__X49.99
+accidental desipramine poisoning __label__X41.99
+hydantoin and/or hydantoin derivative adverse reaction __label__T88.7
+poisoning caused by temazepam __label__X41.99
+superficial malignant fibrous histiocytoma of skin __label__C44.9
+accidental domperidone overdose __label__X44.99
+diffuse palmoplantar keratoderma and acrocyanosis syndrome __label__Q82.8
+dipyrone adverse reaction __label__T88.7
+GSW __label__W34.99
+superficial foreign body in face __label__W45.99
+intentional vinblastine overdose __label__T45.1
+traumatic blister of shoulder, infected __label__L08.9
+deficiency of phenol sulfotransferase __label__E88.0
+mazindol adverse reaction __label__T88.7
+accidental cloxacillin poisoning __label__X44.99
+accidental poisoning by oil colors __label__X49.99
+third degree burn of abdomen __label__T21.3
+oro-facial digital syndrome type 11 __label__Q87.0
+leukoerythroblastotic reaction __label__D72.8
+accidental lysuride overdose __label__X44.99
+accidental fludarabine overdose __label__X44.99
+Grange occlusive arterial syndrome __label__Q87.8
+MODY4 __label__E11.9
+RHE __label__Q87.8
+coloboma, heart malformation, choanal atresia, retardation of growth and development, genital abnormalities, and ear malformations association __label__Q87.8
+podophyllotoxin adverse reaction __label__T88.7
+ocular chalcosis __label__X49.99
+intentional promazine overdose __label__X61.99
+trichothiodystrophy __label__L67.8
+neoplasm of uncertain behaviour of presacral region __label__D48.7
+3-Hydroxy-3-methylglutaryl-CoA lyase deficiency __label__E88.0
+grey nails __label__L60.8
+alprazolam adverse reaction __label__T88.7
+Hodgkin disease, mixed cellularity of lymph nodes of head and neck __label__C81.2
+Mulibrey nanism syndrome __label__Q87.8
+congenital venous malformation of skin __label__Q82.8
+malignant tumour of nasal skeleton __label__C41.0
+accidental amsacrine poisoning __label__X44.99
+zopiclone poisoning __label__X41.99
+Townes Brocks syndrome __label__Q87.8
+splinter of shoulder, without major open wound __label__W45.99
+fire retardant causing toxic effect __label__X49.99
+lack of ossification of nasal bone __label__Q75.8
+acquired claw toes __label__M20.5
+primary squamous cell carcinoma of parotid gland __label__C07
+PENS syndrome __label__Q82.8
+poisoning caused by acetohexamide __label__X44.99
+Temtamy Shalash syndrome __label__Q87.8
+coronary artery anomaly __label__Q24.5
+injury of salivary duct __label__S09.9
+accidental overdose of isoprenaline __label__T48.6
+chlorambucil overdose __label__T45.1
+accidental poisoning caused by beryllium and/or beryllium compound __label__X49.99
+paint causing toxic effect __label__X49.99
+Fadogia homblei poisoning __label__X49.99
+methylphenobarbitone poisoning __label__X41.99
+rejection of corneal graft after penetrating keratoplasty __label__T86.8
+injury due to cumulative trauma from repetitive impact __label__T14.9
+sprain of ligament of metatarsophalangeal joint of lesser toe __label__S93.5
+abrasion of anus, infected __label__L08.9
+deficiency of endoribonuclease __label__E88.0
+stimulant overdose __label__X41.99
+hereditary angioneurotic oedema with normal C1 esterase inhibitor activity __label__D84.1
+thioguanine overdose __label__X44.99
+adverse reaction caused by chlorphenesin __label__T88.7
+carbon monoxide fumes from conflagration in tenement __label__X00.99
+amodiaquine adverse reaction __label__T88.7
+posteruptive teeth staining __label__K03.7
+Dronkgras poisoning __label__X49.99
+X-linked intellectual disability hypotonic face syndrome __label__Q87.0
+hit by object falling from burning factory __label__X00.99
+adverse reaction caused by lobeline __label__T88.7
+spina bifida without hydrocephalus - closed __label__Q05.9
+dislocated intraocular lens into vitreous __label__T85.2
+injury of body cavity structure __label__T14.9
+metal foreign body in lower leg __label__W45.99
+poisoning caused by chlorambucil __label__T45.1
+Cycas species poisoning __label__X49.99
+hyaluronic acid adverse reaction __label__T88.7
+autosomal recessive cutis laxa type 2 progeroid type __label__Q82.8
+adverse reaction caused by cerivastatin __label__T88.7
+Hardikar syndrome __label__Q87.8
+infected abrasion of skin of finger of left hand __label__L08.9
+open traumatic dislocation of interphalangeal joint of lesser toe of left foot __label__S93.1
+precipitate JVP 'x'descent __label__R09.8
+insulin poisoning __label__X44.99
+nail regrowth due to and following chemical destruction of nail bed __label__T81.8
+dressing in ear canal __label__W44.99
+HEC syndrome __label__Q87.8
+anaplastic astrocytoma of brain __label__C71.9
+accidental triazolam overdose __label__X41.99
+adverse reaction caused by hallucinogen __label__T88.7
+thiabendazole poisoning __label__X44.99
+irritating sensation along suture line __label__T81.8
+MODY - Maturity onset diabetes glucokinase-related __label__E11.9
+accidental primidone poisoning __label__X41.99
+Mee's stripes __label__L60.8
+PBD-ZSS - Peroxisome biogenesis disorder Zellweger syndrome spectrum __label__Q87.8
+perioperative positioning injury __label__T14.9
+intentional iprindole overdose __label__X61.99
+adverse reaction to glibenclamide __label__T88.7
+NBCCS __label__Q87.0
+adverse reaction caused by para-aminosalicylic acid __label__T88.7
+pellet wound of abdomen __label__W34.99
+thiourea overdose __label__X44.99
+quadrafoil wavefront aberration __label__H53.8
+closed traumatic dislocation of metatarsophalangeal joint of lesser toe of left foot __label__S93.1
+steroid dehydrogenase deficiency and dental anomaly syndrome __label__K76.8
+PELVIS (perineal hemangioma, external genitalia malformation, lipomyelomeningocele, vesicorenal abnormality, imperforate anus) syndrome __label__Q87.8
+AHDC1-related intellectual disability, obstructive sleep apnoea, mild dysmorphism syndrome __label__Q87.8
+FALD __label__K76.8
+nonadherence with immunisation regimen __label__Z91.1
+Kallstroemia hirsutissima poisoning __label__X49.99
+rifampicin adverse reaction __label__T88.7
+history of melaena __label__Z87.1
+cutaneous draschiasis __label__L08.9
+adverse reaction to phentolamine __label__T88.7
+cefaclor poisoning __label__X44.99
+neoplasm of uncertain behavior of myocardium __label__D48.7
+incest __label__Y07.99
+accidental oxybuprocaine poisoning __label__X44.99
+subungual hematoma of right thumb __label__L60.8
+vitamin A overdose __label__X44.99
+infected seroma following surgical procedure __label__T81.4
+You Hoover Fong syndrome __label__Q87.8
+deficiency of leucine-tRNA ligase __label__E88.0
+accidental ingestion of hallucinogenic mushrooms __label__X49.99
+alprostadil adverse reaction __label__T88.7
+poisoning caused by chlorpromazine __label__X41.99
+closed traumatic dislocation toe, interphalangeal joint, multiple __label__S93.1
+calcium carbonate and/or etidronic acid adverse reaction __label__T88.7
+motor vehicle injury __label__T14.9
+sarcoid duodenitis __label__K29.8
+foreign body in skin of toe with infection __label__L08.9
+accidental famotidine overdose __label__X44.99
+HANE __label__D84.1
+deficiency of sulfate adenylyltransferase (ADP) __label__E88.0
+contusion of maxilla __label__S00.8
+infusion reaction caused by rituximab __label__T88.7
+malignant hyperthermia with arthrogryposis and torticollis syndrome __label__Q87.0
+damping of JVP 'y' descent __label__R09.8
+orphenadrine citrate adverse reaction __label__T88.7
+persistent wound pain __label__T81.8
+accidental cefpirome overdose __label__X44.99
+Senter syndrome __label__Q87.8
+skeletal overgrowth, craniofacial dysmorphism, hyperelastic skin, white matter lesion syndrome __label__Q87.0
+diphenylbutylpiperidine overdose __label__X41.99
+hereditary fibrosing poikiloderma, tendon contractures, myopathy, pulmonary fibrosis syndrome __label__Q82.8
+fishing hook in shin __label__W45.99
+infection caused by methicillin resistant Staphylococcus pseudintermedius __label__A49.0
+adverse reaction caused by antiasthmatic __label__T88.7
+adverse reaction to chlordiazepoxide __label__T88.7
+visual snow syndrome __label__H53.8
+psorospermosis __label__Q82.8
+meptazinol adverse reaction __label__T88.7
+accident due to fall from burning private dwelling __label__X00.99
+wound pain __label__T81.8
+congenital anomaly of foetal head bones __label__Q75.8
+clindamycin adverse reaction __label__T88.7
+toxic encephalopathy caused by mercury __label__X49.99
+chest tympanitic to percussion __label__R09.8
+Mesembryanthemum species poisoning __label__X49.99
+congenital abnormal fusion of centrum cartilage of lumbar vertebra __label__Q76.4
+intentional fluspirilene overdose __label__X61.99
+accidental cisplatin poisoning __label__T45.1
+adverse reaction to coronary vasodilator __label__T88.7
+accidental bupivacaine poisoning __label__X44.99
+neoplasm of uncertain behaviour of lacrimal duct __label__D48.7
+inherited pseudoxanthoma elasticum __label__Q82.8
+clomipramine overdose __label__X41.99
+senna poisoning __label__X44.99
+adverse reaction caused by paracetamol __label__T88.7
+deficiency of malate oxidase __label__E88.0
+splinter of face, without major open wound __label__W45.99
+accidental magnesium sulfate poisoning __label__X44.99
+war injury due to exposure to ionizing radiation from nuclear weapon __label__T14.9
+acute rejection of pancreas transplant __label__T86.8
+adverse reaction to cefazolin __label__T88.7
+rifampicin toxicity __label__X44.99
+superficial bruising of face __label__S00.8
+congenital abnormal shape of zygomatic bone __label__Q75.8
+teeth grinding at night __label__F45.8
+posteruptive tooth staining caused by drug __label__K03.7
+reduced ossification of thoracic arch __label__Q76.4
+nimodipine adverse reaction __label__T88.7
+frostbite with tissue necrosis of thorax __label__X31.99
+primary malignant eccrine acrospiroma __label__C44.9
+traumatic haemorrhage __label__T14.9
+accidental amphetamine and/or amphetamine derivative overdose __label__X41.99
+adverse drug interaction __label__T88.7
+accidental cyclosporin overdose __label__T45.1
+adverse reaction caused by hexamine __label__T88.7
+MEND (male emopamil-binding protein disorder with neurological defect) syndrome __label__Q87.8
+fosfestrol adverse reaction __label__T88.7
+Adenium species poisoning __label__X49.99
+accidental cyclophosphamide overdose __label__T45.1
+open wound of right shoulder region __label__S41.0
+retinal dystrophy, juvenile cataract, short stature syndrome __label__Q87.8
+poisoning by pituitary hormone __label__X44.99
+carbon monoxide fumes from conflagration in boarding house __label__X00.99
+Johnson grass poisoning __label__X49.99
+cardiorespiratory failure during AND/OR resulting from a procedure __label__T81.8
+poisoning by theophylline ethylenediamine __label__T48.6
+history of aortic root replacement __label__Z95.8
+tight chest __label__R09.8
+injury due to legal intervention by explosive __label__T14.9
+accidental ingestion of turpentine __label__X49.99
+ethionamide poisoning __label__X44.99
+eccrine mixed tumour, malignant __label__C44.9
+epitheliogenesis imperfecta __label__Q84.8
+topical dexamethasone adverse reaction __label__T88.7
+tibial lymphadenopathy __label__R59.0
+emollient bath additives adverse reaction __label__T88.7
+amantadine overdose __label__X41.99
+deficiency of phosphoglucokinase __label__E88.0
+foreign body in skin of thigh with infection __label__L08.9
+scratch of forehead __label__S00.8
+testosterone implant adverse reaction __label__T88.7
+alpha-adrenoceptor blocking drug adverse reaction __label__T88.7
+adventitious breath sounds __label__R09.8
+incomplete ossification of hyoid bone __label__Q75.8
+adverse reaction caused by reserpine __label__T88.7
+atherosclerosis of nonbiological bypass graft of left lower limb __label__Z95.8
+congenital abnormal fusion of interparietal bone __label__Q75.8
+Datura species poisoning __label__X49.99
+accidental poisoning by hydrochloric acid __label__X49.99
+injury due to explosion of mortar bomb __label__T14.9
+unossified parietal bone __label__Q75.8
+superficial foreign body in face __label__S00.8
+malignant syringoma __label__C44.9
+statutory rape __label__T74.2
+accidental sertraline overdose __label__X41.99
+poisoning by sulphisoxazole __label__X44.99
+metallic tremor __label__X49.99
+doxorubicin poisoning __label__X44.99
+congenital vascular malformation of skin __label__Q82.8
+biological substance poisoning __label__X44.99
+opioid antagonist adverse reaction __label__T88.7
+fourth generation cephalosporin poisoning __label__X44.99
+carmustine poisoning __label__X44.99
+drugs - partial non-compliance __label__Z91.1
+Aspergillus clavatus tremors __label__X49.99
+open traumatic dislocation shoulder joint, inferior (infra-glenoid) __label__S41.0
+BIDS syndrome __label__Q87.8
+high-pitched rhonchi __label__R09.8
+poisoning caused by chlorpropamide __label__X44.99
+deficiency of phosphoribulose epimerase __label__E88.0
+opiate antagonist overdose __label__X44.99
+lichen amyloidosus __label__E85.4
+pilocytic astrocytoma __label__C71.9
+sedative adverse reaction __label__T88.7
+viloxazine poisoning __label__X41.99
+sphenosciadium capitellatum poisoning __label__X49.99
+flattened umbilicus __label__R19.8
+intentional butabarbitone poisoning __label__X61.99
+abnormal position of coronary artery ostium __label__Q24.5
+surgically constructed radiocephalic arteriovenous fistula __label__Z95.8
+adverse reaction to acetanilide __label__T88.7
+occupational cancer of skin __label__C44.9
+polyester fume causing toxic effect __label__T59.8
+superficial foreign body of vagina with infection __label__L08.9
+fishing hook in shoulder __label__S41.0
+thioguanine poisoning __label__T45.1
+accident due to collapse of burning apartment __label__X00.99
+accidental flupentixol poisoning __label__X41.99
+ICE __label__Q87.0
+congenital fenestration of presphenoid bone __label__Q75.8
+deficiency of glutamine transaminase L __label__E88.0
+Athanasia trifurcata poisoning __label__X49.99
+pyrexia postprocedure __label__T81.4
+immunostimulant overdose __label__X44.99
+closed fracture of radius __label__S82.80
+familial central diabetes insipidus __label__E23.2
+corn cockle poisoning __label__X49.99
+tetracyclic antidepressant drug adverse reaction __label__T88.7
+salbutamol adverse reaction __label__T88.7
+congenital hypoplasia of basisphenoid bone __label__Q75.8
+adverse reaction to chloroquine __label__T88.7
+deficiency of histidine decarboxylase __label__E88.0
+presenile dementia co-occurrent with human immunodeficiency virus infection __label__F03
+bone fragillity, contractures, arterial rupture, deafness syndrome __label__Q87.8
+nail dystrophy, deafness syndrome __label__Q89.8
+Type 3 dissection of thoracic aorta __label__I71.0
+immigration delay disease __label__Q82.8
+CHARGE-like syndrome __label__Q87.8
+Amaranthus species poisoning __label__X49.99
+alclometasone adverse reaction __label__T88.7
+bruise of face __label__S00.8
+poisoning by anti-psychotic agent __label__X41.99
+cigarette poisoning __label__X49.99
+injury due to blast from land mine __label__T14.9
+tapered hairs __label__L67.8
+lumbar mass __label__R22.2
+pseudoxanthoma elasticum-like papillary dermal elastolysis __label__Q82.8
+hemodialysis fluid adverse reaction __label__T88.7
+intramuscular testosterone adverse reaction __label__T88.7
+MEHMO __label__Q87.8
+myelopathy due to food toxicity __label__X49.99
+basal cell carcinoma with signet ring change __label__C44.9
+poisoning caused by carbon monoxide from aircraft while in transit, without accident to aircraft, parachutist injured __label__V97.29
+injury of dental structures __label__S09.9
+cutaneous T-cell lymphoma with systemic infiltration __label__C84.0
+FADS - fetal akinesia deformation sequence __label__Q87.8
+family araceae poisoning __label__X49.99
+infected wound of left foot due to nonvenomous insect bite __label__L08.9
+neutrophilia disorder __label__D72.8
+congenital absence of 5th toe __label__Q72.3
+dysmorphism, cleft palate, loose skin syndrome __label__Q87.0
+fugu causing toxic effect __label__X49.99
+intentional hydroxyurea poisoning __label__T45.1
+deep incisional surgical site infection __label__T81.4
+absent uvular reflex __label__R29.2
+wavefront aberration __label__H53.8
+intraoperative cardiorespiratory arrest __label__T81.8
+superficial foreign body of lower leg with infection __label__W45.99
+subclinical hypothyroidism __label__E03.8
+intentional lisuride poisoning __label__X61.99
+vinblastine overdose __label__X44.99
+accidental mercaptopurine overdose __label__X44.99
+stomach problem __label__R19.8
+haloperidol poisoning __label__X41.99
+organ-space surgical site infection __label__T81.4
+accidental fluspirilene poisoning __label__X41.99
+intentional overdose by carbamazepine __label__X61.99
+primary basal cell carcinoma - infiltrative __label__C44.9
+foreign body in skin of lower limb with infection __label__L08.9
+recurrent glomerulonephritis following transplantation of kidney __label__Z94.0
+closed fracture ankle, trimalleolar, high fibular fracture __label__S82.80
+localised hereditary amyloidosis __label__E85.4
+sacralization of fifth lumbar vertebra __label__Q76.4
+foetal postural deformity __label__Q89.8
+acrocephalopolysyndactyly __label__Q87.0
+secobarbital poisoning __label__X41.99
+intentional procarbazine overdose __label__T45.1
+adverse reaction to practolol __label__T88.7
+laryngotracheal stenosis, arthropathy, prognathism and short stature __label__Q87.8
+CHARGE __label__Q87.8
+chronic arterial allograft rejection __label__T86.8
+adverse reaction to antiasthmatic __label__T88.7
+adverse reaction to diiodohydroxyquin __label__T88.7
+poisoning by vasopressin __label__X44.99
+family brassicaceae poisoning __label__X49.99
+accidental poisoning caused by phenoxybenzamine __label__X44.99
+neuronal intranuclear inclusion disease __label__G31.0
+adverse reaction to plicamycin __label__T88.7
+vasopressin deficiency __label__E23.2
+congenital absence of calcaneus __label__Q72.3
+infected abrasion of left hip __label__L08.9
+macrogol adverse reaction __label__T88.7
+infected wound of right hip due to nonvenomous insect bite __label__L08.9
+adenomatous polyposis __label__D12.6
+estrogen adverse reaction __label__T88.7
+bog asphodel poisoning __label__X49.99
+cut flower food causing toxic effect __label__X49.99
+injury due to airgun pellet __label__T14.9
+decreased diastolic blood pressure __label__R09.8
+Olmsted syndrome __label__Q82.8
+fluorouracil adverse reaction __label__T88.7
+cutaneous lesion resulting from spina bifida __label__Q05.9
+adverse reaction to ferrous glycine sulfate __label__T88.7
+holoprosencephaly sequence with hypokinesia and congenital joint contracture syndrome __label__Q87.8
+painful fissure of dorsolateral aspect of skin of fingertip __label__L60.8
+TSH deficiency __label__E03.8
+deficiency of pancreatic elastase I __label__E88.0
+accidental caffeine poisoning __label__X41.99
+varicella-zoster immunoglobulin adverse reaction __label__T88.7
+casirivimab and/or imdevimab adverse reaction __label__T88.7
+poisoning caused by streptokinase __label__X44.99
+deficiency of phosphoric monoester hydrolase __label__E88.0
+faciocardiorenal syndrome __label__Q87.8
+Romano-Ward syndrome __label__I45.8
+accidental magnesium sulfate overdose __label__X44.99
+intravenous anesthetics adverse reaction __label__T88.7
+congenital abnormal shape of centrum of cervical vertebra __label__Q76.4
+intentional idarubicin poisoning __label__T45.1
+congenital occlusion of coronary sinus __label__Q24.5
+multivitamin and mineral preparations adverse reaction __label__T88.7
+accidental allopurinol overdose __label__X44.99
+Xia Gibbs syndrome __label__Q87.8
+indoramin adverse reaction __label__T88.7
+barbiturate poisoning __label__X41.99
+Pick disease with Pick bodies __label__G31.0
+congenital abnormal fusion of centrum of sacral vertebra __label__Q76.4
+injury while boarding or alighting from train __label__T14.9
+didymosis aplasticosebacea __label__Q84.8
+family history: Angina in 1st degree female relative <65 years __label__Z82.4
+cut of shoulder __label__S41.0
+saturnine tremor __label__X49.99
+deficiency of 3-ketoacyl-CoA thiolase __label__E88.0
+osteodysplastic geroderma __label__Q82.8
+gifblaar poisoning __label__X49.99
+vitamin D toxicity __label__X44.99
+accidental bumetanide overdose __label__X44.99
+wound leak of conjunctiva following surgical procedure __label__T81.8
+intentional levodopa overdose __label__X61.99
+nedocromil adverse reaction __label__T88.7
+deficiency of formate-tetrahydrofolate ligase __label__E88.0
+infected nonvenomous insect bite of right lower leg __label__L08.9
+electric shock effect __label__T14.9
+idiopathic dystrophic hair __label__L67.8
+AMME complex __label__Q87.8
+deficiency of angiotensinogenase __label__E88.0
+poisoning by iodide __label__X44.99
+esophageal pain __label__R19.8
+infected abrasion of left upper arm __label__L08.9
+bleach causing toxic effect __label__X49.99
+gastric hyperplasia __label__K29.6
+stomal obstruction __label__T81.8
+right pseudopterygium __label__H11.8
+rifabutin adverse reaction __label__T88.7
+erythromycin overdose __label__X44.99
+immunodeficiency due to MASP-2 deficiency __label__D84.1
+rhonchus __label__R09.8
+intraventricular conduction defect __label__I45.8
+poisoning caused by phenothiazine-based tranquilliser __label__X41.99
+accidental nabilone overdose __label__X44.99
+adverse reaction to pentaerithrityl tetranitrate __label__T88.7
+difficulty in defecating __label__R19.8
+acetohexamide overdose __label__X44.99
+primary malignant neoplasm of brain __label__C71.9
+aplasia cutis congenita associated with fetus papyraceus (Type 5) __label__Q84.8
+autonomic disorder caused by heavy metal __label__X49.99
+metatypical basal cell carcinoma of skin __label__C44.9
+epitrochlear lymphadenopathy __label__R59.0
+clodronic acid adverse reaction __label__T88.7
+particulate matter inhalation injury __label__T59.8
+noscapine adverse reaction __label__T88.7
+finger jerk present only with reinforcement __label__R29.2
+widened arterial pulse pressure __label__R09.8
+injury of head __label__S09.9
+gunshot wound of left shoulder region __label__W34.99
+adverse reaction to miconazole __label__T88.7
+oligoovulatory dysfunctional uterine bleeding __label__N93.8
+uricosuric agent adverse reaction __label__T88.7
+frostbite with tissue necrosis __label__X31.99
+X-linked intellectual disability, cardiomegaly, congestive heart failure syndrome __label__Q87.8
+bunionette __label__M20.5
+poisoning caused by penicillinase __label__X44.99
+Buxus sempervirens poisoning __label__X49.99
+Braun Bayer syndrome __label__Q87.8
+congenital anomaly of endocrine testis __label__Q55.2
+volar plate injury of metacarpophalangeal joint of finger __label__S69.8
+accidental doxorubicin overdose __label__T45.1
+splinter of chest wall without major open wound, infected __label__L08.9
+accidental magnetic resonance imaging contrast media overdose __label__X44.99
+Swainsona species poisoning __label__X49.99
+anaesthetics adverse reaction __label__T88.7
+dopamine adverse reaction __label__T88.7
+Type 3 aplasia cutis __label__Q82.8
+Ehlers-Danlos syndrome type 9 X-linked __label__Q82.8
+accidental amsacrine poisoning __label__T45.1
+accidental vitamin K and/or vitamin K derivative overdose __label__X44.99
+intentional procarbazine poisoning __label__T45.1
+pterygium unguis __label__L60.8
+Ehlers-Danlos syndrome, type 9 __label__Q82.8
+intentional ciclosporin poisoning __label__T45.1
+C8 binding protein deficiency __label__D84.1
+cystic basal cell carcinoma __label__C44.9
+adverse reaction to sodium aurothiomalate __label__T88.7
+Lolium species poisoning __label__X49.99
+disorder of glomerulus due to complement system disorder __label__D84.1
+laceration of shoulder __label__S41.0
+superficial foreign body of wrist with infection __label__L08.9
+carbamate overdose __label__X41.99
+adverse reaction to oxprenolol __label__T88.7
+fluphenazine enanthate overdose __label__X41.99
+rachischisis totalis __label__Q05.9
+graft-versus-host disease of intestine __label__T86.8
+foreign body in skin of breast with infection __label__L08.9
+patch/plaque stage mycosis fungoides __label__C84.0
+spring parsley poisoning __label__X49.99
+noncollision motor vehicle traffic accident involving accidental poisoning from exhaust gas generated by motor vehicle whilst in motion __label__V87.89
+hypothyroidism with positive thyroid antibodies __label__E03.8
+deficiency of threonyl-tRNA synthetase __label__E88.0
+cardiovascular fistula due to endocarditis __label__I38
+congenital abnormal fusion of mandible __label__Q75.8
+nefazodone overdose __label__X41.99
+blister of ear with infection __label__L08.9
+body integrity dysphoria __label__F45.8
+congenital abnormal number of ostium of coronary artery __label__Q24.5
+PNE - Peripheral neuroepithelioma __label__C44.9
+Kosaki overgrowth syndrome __label__Q87.0
+accidental poisoning caused by halogenated hydrocarbon __label__X49.99
+primary fibrillary astrocytoma of central nervous system __label__C71.9
+piperazine oestrone sulphate adverse reaction __label__T88.7
+injury undetermined whether accidentally or purposely inflicted, by jumping before moving object __label__T14.9
+intentional cyclosporin poisoning __label__T45.1
+nonvenomous insect bite of scrotum with infection __label__L08.9
+X-linked intellectual disability with plagiocephaly syndrome __label__Q87.0
+family history of transient ischemic attack __label__Z82.4
+wood splinter in chest __label__W45.99
+pEX13 deficiency __label__Q87.8
+accidental cinchocaine poisoning __label__X44.99
+keratoderma hereditarium mutilans with ichthyosis syndrome __label__Q82.8
+pulse deficit __label__R09.8
+adverse reaction to metronidazole __label__T88.7
+Prunus serotina poisoning __label__X49.99
+Bloom syndrome __label__Q82.8
+deficiency of glycine acyltransferase __label__E88.0
+accidental poisoning caused by detergent __label__X44.99
+intentional doxorubicin poisoning __label__T45.1
+infected abrasion of skin of right shoulder region __label__L08.9
+adverse reaction caused by lysergide __label__T88.7
+Panicum coloratum poisoning __label__X49.99
+traumatic blister of vulva, infected __label__L08.9
+propafenone adverse reaction __label__T88.7
+staphylococcal infection of skin __label__L08.9
+MonoMAC __label__D72.8
+adverse reaction to testosterone __label__T88.7
+congenital absence of skin on scalp __label__Q82.8
+beech nut poisoning __label__X49.99
+EEC __label__Q87.8
+sacral lymphadenopathy __label__R59.0
+absence of fingerprints with congenital milia syndrome __label__Q82.8
+nitrosurea poisoning __label__X44.99
+poisoning by gonadotrophin __label__X44.99
+trimethoprim overdose __label__X44.99
+poisoning caused by triorthocresyl phosphate __label__X49.99
+adverse reaction to bupropion __label__T88.7
+intellectual disability, hypotonia, brachycephaly, pyloric stenosis, cryptorchidism syndrome __label__Q87.0
+poisoning by orciprenaline __label__X44.99
+hemimyelocele __label__Q05.9
+delayed healing of skin donor site __label__T81.8
+squamous cell carcinoma arising in chronic ulcer __label__C44.9
+poisoning by hair treatment drug AND/OR preparation __label__X44.99
+accidental poisoning by chlorpromazine __label__T43.3
+deep third degree burn of thigh __label__T24.3
+poisoning caused by cloxacillin __label__X44.99
+quinestrol adverse reaction __label__T88.7
+lormetazepam poisoning __label__X41.99
+microcephaly, corpus callosum hypoplasia, intellectual disability, facial dysmorphism syndrome __label__Q87.0
+abrasion of hip, infected __label__L08.9
+complication of artificial skin graft and decellularized allodermis __label__T86.8
+congenital absence of coronary sinus __label__Q24.5
+erythropoietin receptor agonist overdose __label__X44.99
+adverse reaction to oxitropium __label__T88.7
+accidental procaine poisoning __label__X44.99
+Class II antiarrhythmic overdose __label__X44.99
+Jagell, Holmgren, Hofer syndrome __label__Q87.8
+idiopathic diabetes insipidus __label__E23.2
+Prata Liberal Goncalves syndrome __label__Q87.8
+craniosynostosis Boston type __label__Q75.8
+hereditary angioneurotic edema __label__D84.1
+primary acinar cell carcinoma of parotid gland __label__C07
+disorder of glomerulus due to organ-limited amyloidosis __label__E85.4
+kanamycin poisoning __label__X44.99
+midcolic lymphadenopathy __label__R59.0
+leak of cranial cerebrospinal fluid due to and following procedure on central nervous system __label__T81.8
+chemical burn of internal organ __label__X49.99
+accidental poisoning caused by fluphenazine __label__T43.3
+oral hypoglycaemic overdose __label__X44.99
+chronic graft rejection __label__T86.8
+adverse reaction to mitozantrone __label__T88.7
+accidental chlormethine poisoning __label__X44.99
+coumarin poisoning __label__X44.99
+cloxacillin adverse reaction __label__T88.7
+adverse reaction to pyrazole derivative __label__T88.7
+Brassica species poisoning __label__X49.99
+deficiency of tryptophan pyrrolase __label__E88.0
+spinal meningocele __label__Q05.9
+primary nodular basal cell carcinoma of skin __label__C44.9
+parapharyngeal space mass __label__R09.8
+median cleft of upper lip, corpus callosum lipoma, cutaneous polyp syndrome __label__Q87.8
+adverse reaction to natamycin __label__T88.7
+diffuse pretibial myxoedema __label__E03.8
+adverse reaction caused by emollient cathartic __label__T88.7
+homologous restriction factor deficiency __label__D84.1
+intentional barbitone poisoning __label__X61.99
+IHPRF (infantile hypotonia, psychomotor retardation, characteristic facies) syndrome __label__Q87.8
+intentional triazolam overdose __label__X61.99
+injury due to blast effect of nuclear explosion __label__T14.9
+intentional fluorouracil overdose __label__T45.1
+congenital abnormality of posterior cardiac vein of left ventricle __label__Q24.5
+adverse reaction to dopamine receptor agonist __label__T88.7
+accidental fludarabine poisoning __label__X44.99
+phenoxybenzamine overdose __label__X44.99
+acro-renal-mandibular syndrome __label__Q87.8
+poisoning caused by oxytocin __label__X44.99
+postoperative wound sinus __label__T81.8
+foreign body in skin of right middle finger with infection __label__L08.9
+congenital coronary artery fistula to right ventricle __label__Q24.5
+pain due to and following wrist arthroplasty __label__T81.8
+axial mesodermal dysplasia spectrum __label__Q87.8
+oleandomycin poisoning __label__X44.99
+thiourea adverse reaction __label__T88.7
+magnetic resonance imaging contrast media poisoning __label__X44.99
+infection caused by methicillin susceptible Staphylococcus aureus __label__A49.0
+drug-induced hair color change __label__L67.8
+cognitive impairment, coarse facies, heart defects, obesity, pulmonary involvement, short stature, skeletal dysplasia syndrome __label__Q87.8
+CHIME (coloboma, congenital heart disease, ichthyosiform dermatosis, intellectual disability, ear anomaly) syndrome __label__Q87.8
+polymyxins adverse reaction __label__T88.7
+probenecid adverse reaction __label__T88.7
+adverse reaction to primaquine __label__T88.7
+treosulphan poisoning __label__X44.99
+acquired lymphopenia __label__D72.8
+cholestasis with pigmentary retinopathy and cleft palate syndrome __label__Q87.8
+submucous uterine fibroid with abnormal uterine bleeding __label__N93.8
+mercaptomerin poisoning __label__X44.99
+primary malignant neoplasm of sweat gland __label__C44.9
+agnathia, holoprosencephaly, situs inversus syndrome __label__Q87.0
+chronic valvulitis __label__I38
+plicamycin poisoning __label__X44.99
+primary malignant neoplasm of adnexa of skin __label__C44.9
+papuloverrucous palmoplantar keratoderma of Jakac-Wolf __label__Q82.8
+localized skin infection __label__L08.9
+hemifacial microsomia __label__Q75.8
+thoracic lymphadenopathy __label__R59.0
+flurandrenolone adverse reaction __label__T88.7
+adverse reaction to clopidogrel __label__T88.7
+toxic effect of secondary tobacco exposure __label__X49.99
+pectin poisoning __label__X44.99
+medazepam adverse reaction __label__T88.7
+keratosis follicularis spinulosa decalvans __label__Q84.8
+adverse reaction to bromhexine __label__T88.7
+accidental phenobarbital overdose __label__X41.99
+superficial frostbite of neck __label__X31.99
+pipothiazine overdose __label__X41.99
+congenital sagittal cleft of vertebra __label__Q76.4
+adverse reaction to cyproterone and/or ethinylestradiol __label__T88.7
+family apiaceae poisoning __label__X49.99
+practolol adverse reaction __label__T88.7
+cholestyramine adverse reaction __label__T88.7
+volar plate injury of distal interphalangeal joint of finger __label__S69.8
+postoperative fistula __label__T81.8
+accident due to fall from burning boarding house __label__X00.99
+recurrent glomerulonephritis post-renal transplant __label__Z94.0
+triceps reflex reduced __label__R29.2
+brain lung thyroid syndrome __label__Q87.8
+dextropropoxyphene adverse reaction __label__T88.7
+CAMFAK - Cerebro-oculo-facio-skeletal syndrome __label__Q87.0
+yellow oat grass poisoning __label__X49.99
+Zori Stalker Williams syndrome __label__Q87.8
+lymphocytopenia due to COVID-19 __label__D72.8
+graft failure due to stenosis __label__T86.8
+adverse reaction caused by phosphodiesterase 5 inhibitor __label__T88.7
+poikiloderma congenitale __label__Q82.8
+chlorpropamide poisoning __label__X44.99
+protirelin adverse reaction __label__T88.7
+neurotoxicity due to vinblastine __label__X44.99
+deficiency of L-serine deaminase __label__E88.0
+liver abscess and sequelae of chronic liver disease __label__Z87.1
+split hair __label__L67.8
+nonvenomous insect bite of groin with infection __label__L08.9
+thrombosis of common atrioventricular valve __label__I38
+psychologically abused parent __label__Y07.99
+poisoning caused by phenobarbitone __label__X41.99
+neurotoxicity caused by vinblastine __label__X44.99
+accidental cefpirome poisoning __label__X44.99
+accidental poisoning from berries __label__X49.99
+tulobuterol adverse reaction __label__T88.7
+circulatory topical preparations adverse reaction __label__T88.7
+wood splinter in thumb __label__W45.99
+blister of penis, infected __label__L08.9
+keratosis palmoplantaris and arrhythmogenic cardiomyopathy syndrome __label__Q87.8
+Boder syndrome __label__Q87.8
+malignant fibrohistiocytic tumor of skin __label__C44.9
+chronic radiation sickness __label__T66
+overdose of antidepressant drug __label__X41.99
+oral-facial-digital syndrome type 9 __label__Q87.0
+loxapine poisoning __label__X41.99
+subcapsular liver haematoma __label__K76.8
+Chenopodium album species poisoning __label__X49.99
+abnormal coronary artery course __label__Q24.5
+procyclidine adverse reaction __label__T88.7
+prilocaine adverse reaction __label__T88.7
+adverse reaction to trichloroethylene __label__T88.7
+gapping of tendon __label__T81.8
+phocomelia, thrombocytopenia, encephalocele and urogenital malformation syndrome __label__Q87.8
+lofepramine poisoning __label__X41.99
+cannot clear nose by blowing __label__R09.8
+brass fumes causing toxic effect __label__X49.99
+Pierpont syndrome __label__Q87.0
+domperidone overdose __label__X44.99
+pulmonary arterial pressure increased __label__R09.8
+multiple progressive haemangiomata __label__Q82.8
+chlormezanone poisoning __label__X41.99
+accidental exposure to cleaning agent __label__X49.99
+adverse medication interaction with alcohol __label__T88.7
+pseudopapilloedema, blepharophimosis and hand anomaly syndrome __label__Q87.0
+poisoning by vitamin D __label__X44.99
+deficiency of fumaric hydrogenase __label__E88.0
+pseudomonilethrix __label__L67.8
+history of ischemic colitis __label__Z87.1
+lymphocytopenia due to severe acute respiratory syndrome coronavirus 2 __label__D72.8
+poisoning caused by L-asparaginase __label__T45.1
+dumbbell-shaped cartilaginous centrum of thoracic vertebra __label__Q76.4
+chest percussion note ringing __label__R09.8
+intentional dacarbazine poisoning __label__T45.1
+intentional mustine overdose __label__T45.1
+congenital intrauterine infection-like syndrome __label__Q87.8
+fluoride adverse reaction __label__T88.7
+rooting compound causing toxic effect __label__X49.99
+SIX homeobox 2-related frontonasal dysplasia __label__Q87.0
+foreign body of skin of forearm __label__W45.99
+intentional ifosfamide overdose __label__T45.1
+dextrothyroxine overdose __label__X44.99
+poisoning by amitriptyline __label__X41.99
+poisoning by chloramphenicol __label__X44.99
+deficiency of clostridium oedematens beta- and gamma-toxins __label__E88.0
+adverse reaction to non-steroidal anti-inflammatory drug __label__T88.7
+single coronary artery __label__Q24.5
+accidental cyclophosphamide overdose __label__X44.99
+superior rectal lymphadenopathy __label__R59.0
+antifreeze poisoning __label__X49.99
+Cockayne syndrome type 2 __label__Q87.8
+Nicotiana glauca poisoning __label__X49.99
+oxybutynin adverse reaction __label__T88.7
+congenital fused sacral centrum cartilage __label__Q76.4
+blomkoolganna poisoning __label__X49.99
+tampon in vagina __label__W44.99
+ankle reflex reduced __label__R29.2
+bruise of mandibular joint area __label__S00.8
+self-administered accidental poisoning __label__X49.99
+electrolyte anion adverse reaction __label__T88.7
+enlarged parietal foramina __label__Q75.8
+open traumatic dislocation of glenohumeral joint, posterior __label__S41.0
+infection finger __label__L08.9
+intentional loxapine poisoning __label__X61.99
+ironwood tree poisoning __label__X49.99
+abrasion of thigh, infected __label__L08.9
+infection of liver caused by parasite __label__K76.8
+hit by object falling from burning farmhouse __label__X00.99
+Cole disease __label__Q82.8
+primary pseudosarcoma of skin __label__C44.9
+chalazodermia __label__Q82.8
+acrorenoocular syndrome __label__Q87.8
+carboxypeptidase B deficiency __label__D84.1
+incomplete ossification of arch of thoracic vertebra __label__Q76.4
+poisoning by mercaptopurine __label__X44.99
+dysharmonic skeletal maturation and muscular fiber disproportion syndrome __label__Q87.8
+sulphinpyrazone adverse reaction __label__T88.7
+hypotrichosis, osteolysis, periodontitis, palmoplantar keratoderma syndrome __label__Q82.8
+noncompliance with fluid volume management __label__Z91.1
+noncollision motor vehicle traffic accident involving jump from motor vehicle while in motion, passenger of motor vehicle injured __label__V87.89
+stiff heart syndrome __label__E85.4
+sunscreening preparations adverse reaction __label__T88.7
+cloudy vision __label__H53.8
+open wound of shoulder region with complication __label__S41.0
+accident caused by jumping from burning commercial premises __label__X00.99
+MRSA __label__A49.0
+intentional flurazepam poisoning __label__X61.99
+adult heart tumour __label__D48.7
+aminoglutethimide poisoning __label__X44.99
+poisoning caused by rauwolfia alkaloid __label__X44.99
+poisoning caused by colchicine __label__X44.99
+idarubicin poisoning __label__X44.99
+closed traumatic dislocation of metatarsophalangeal joint of right great toe __label__S93.1
+noncompliance: infection control regimen __label__Z91.1
+Hypericum species poisoning __label__X49.99
+superficial injury of lip with infection __label__L08.9
+accidental epirubicin poisoning __label__X44.99
+phenethicillin adverse reaction __label__T88.7
+congenital hypoplasia of arch of thoracic vertebra __label__Q76.4
+iproniazid poisoning __label__X41.99
+cefsulodin overdose __label__X44.99
+injury due to motor vehicle accident __label__T14.9
+deficiency of N-acetylneuraminate lyase __label__E88.0
+abscess of common atrioventricular valve __label__I38
+nandrolone overdose __label__X44.99
+Bermuda grass tremors __label__X49.99
+MAP __label__D12.6
+aplasia cutis congenita following intra-uterine infection (Type 8) __label__Q84.8
+injury due to projectile __label__T14.9
+Fountain syndrome __label__Q87.8
+total necrosis of myocutaneous flap __label__T86.8
+burning caused by conflagration in convalescent home __label__X00.99
+eyes sensitive to light __label__H53.8
+teeth staining due to metal __label__K03.7
+FH: CVS disorder __label__Z82.4
+lack of ossification of zygomatic bone __label__Q75.8
+acquired central hypothyroidism due to pituitary disorder __label__E03.8
+bulbar conjunctival follicles __label__H11.8
+adverse reaction to fluorouracil __label__T88.7
+glioma __label__C71.9
+guarding of right lumbar region __label__R19.8
+grooving of nail __label__L60.8
+poisoning caused by hair treatment drug AND/OR preparation __label__X44.99
+Prunus caroliniana poisoning __label__X49.99
+abnormal jugular venous pressure __label__R09.8
+edema due to increased peripheral blood flow __label__R09.8
+Snellen's sign __label__R09.8
+infected abrasion of left little finger __label__L08.9
+subungual hematoma of middle finger of left hand __label__L60.8
+adverse reaction to whole blood __label__T88.7
+lysuride adverse reaction __label__T88.7
+accidental poisoning by household agents __label__X49.99
+intraparenchymal hematoma of spleen __label__S36.00
+loprazolam adverse reaction __label__T88.7
+exposure to T2 mycotoxin __label__X49.99
+deficiency of glutathione-homocystine transhydrogenase __label__E88.0
+congenital abnormal shape of interparietal bone __label__Q75.8
+transient hypothyrotropinaemia __label__E03.8
+burn involving more than 90 percent of body surface, with 60-69 percent of body surface with full thickness burn __label__T31.9
+family lamiaceae poisoning __label__X49.99
+thymoxamine adverse reaction __label__T88.7
+abusive sexual relationship with husband __label__T74.2
+mucinous eccrine carcinoma of skin __label__C44.9
+piperacillin adverse reaction __label__T88.7
+subluxation of metatarsophalangeal joint of lesser toe __label__S93.1
+cephalexin overdose __label__X44.99
+accidental hydroxycarbamide overdose __label__X44.99
+phenytoin adverse reaction __label__T88.7
+accidental tamoxifen poisoning __label__X44.99
+antiseptic causing toxic effect __label__X49.99
+disulphiram adverse reaction __label__T88.7
+hydrocyanic acid gas causing toxic effect __label__T59.8
+accidental trifluperidol overdose __label__X41.99
+splinter of chest wall, without major open wound __label__W45.99
+family history of mitral valve regurgitation __label__Z82.4
+accident due to collapse of burning barn __label__X00.99
+retractible testis __label__Q55.2
+pimozide adverse reaction __label__T88.7
+deficiency of phosphoketotetrose aldolase __label__E88.0
+deficiency of formiminotetrahydrofolate cyclodeaminase __label__E88.0
+adverse reaction caused by mescaline __label__T88.7
+pili bifurcati __label__L67.8
+lily of the valley poisoning __label__X49.99
+congenital hypoplasia of vomer __label__Q75.8
+sacahuista poisoning __label__X49.99
+duodenitis caused by H. pylori (Helicobacter pylori) __label__K29.8
+premature aging appearance, developmental delay, cardiac arrhythmia syndrome __label__Q87.8
+azotemic onychopathy __label__L60.8
+accidental mustine poisoning __label__T45.1
+poisoning by thiabendazole __label__X44.99
+accidental fluvoxamine poisoning __label__X41.99
+tobacco poisoning __label__X49.99
+Der Kaloustian McIntosh Silver syndrome __label__Q87.8
+haematoma of spleen without rupture of capsule AND without open wound into abdominal cavity __label__S36.00
+airway contains vomitus __label__W44.99
+Goldberg Shprintzen megacolon syndrome __label__Q87.8
+diphenylpyraline adverse reaction __label__T88.7
+ulcer of small intestine caused by foreign body __label__W44.99
+FACES (facial dysmorphism, anorexia, cachexia, eye and skin anomalies) syndrome __label__Q87.0
+foreign body in skin of penis with infection __label__L08.9
+heart valve regurgitation __label__I38
+open traumatic dislocation of metatarsophalangeal joint of first digit of right foot __label__S93.1
+gunshot wound of right knee region __label__W34.99
+accidental ergot alkaloid overdose __label__X44.99
+NBCCS __label__Q87.0
+Aleurites fordii poisoning __label__X49.99
+congenital absence of fingerprints __label__Q82.8
+bleomycin overdose __label__X44.99
+antileprotic drug adverse reaction __label__T88.7
+dual specificity tyrosine phosphorylation regulated kinase 1A-related intellectual disability syndrome __label__Q87.8
+neurotoxicity caused by procarbazine __label__X44.99
+nail wound of shoulder __label__S41.0
+leukonychia totalis, trichilemmal cysts, ciliary dystrophy syndrome __label__L60.8
+accidental nandrolone overdose __label__X44.99
+agenesis of neurocranium __label__Q75.8
+endocrine-cerebro-osteodysplasia syndrome __label__Q87.8
+accidental poisoning caused by barbiturates __label__X41.99
+hit by object falling from burning caravan __label__X00.99
+methotrimeprazine overdose __label__X41.99
+Jatropha curcas poisoning __label__X49.99
+deficiency of 3-oxoadipate coenzyme A-transferase __label__E88.0
+injury of mouth __label__S09.9
+dicobalt edetate adverse reaction __label__T88.7
+cough suppressant adverse reaction __label__T88.7
+deficiency of triokinase __label__E88.0
+bacteraemia due to Methicillin resistant Staphylococcus aureus __label__A49.0
+deficiency of glucose-1-phosphatase __label__E88.0
+low grade glioma of brain __label__C71.9
+chronic rejection of lung transplant __label__T86.8
+hepatopulmonary syndrome __label__K76.8
+adverse drug interaction with drug __label__T88.7
+adverse cutaneous reaction to diagnostic procedure __label__T81.8
+adverse reaction to ticarcillin __label__T88.7
+MOTA - Manitoba oculotrichoanal syndrome __label__Q87.8
+FFDD type 4 __label__Q82.8
+craniomandibular osteopathy __label__M89.98
+dermatofibrosarcoma __label__C44.9
+pale nail bed __label__L60.8
+X-linked intellectual disability Cilliers type __label__Q87.8
+open traumatic dislocation of metatarsophalangeal joint of left great toe __label__S93.1
+right lower leg blister with infection __label__L08.9
+deficiency of nucleoside-phosphate kinase __label__E88.0
+Richieri Costa-da Silva syndrome __label__Q87.8
+poisoning caused by thiotepa __label__X44.99
+acrocardiofacial syndrome __label__Q87.8
+bilateral acquired overriding toes of feet __label__M20.5
+poisoning caused by ethosuximide __label__X41.99
+Springbokbush poisoning __label__X49.99
+Cheilanthes sinnata poisoning __label__X49.99
+Gomphrena celosiodes poisoning __label__X49.99
+ventral pterygium __label__L60.8
+AA amyloid nephropathy __label__E85.4
+intentional clomipramine overdose __label__X61.99
+intentional pipotiazine poisoning __label__T43.3
+penicillin antibacterial overdose __label__X44.99
+acquired angioneurotic edema with C1 inhibitor deficiency __label__D84.1
+accidental bromazepam overdose __label__X41.99
+deposition of soot in trachea __label__W44.99
+foreign body in skin of sole of foot __label__W45.99
+accidental treosulphan overdose __label__T45.1
+difficult defecation __label__R19.8
+family history of congestive heart failure __label__Z82.4
+FFDD __label__Q82.8
+colony stimulating factors adverse reaction __label__T88.7
+left colic lymphadenopathy __label__R59.0
+buttercup poisoning __label__X49.99
+foveolar hyperplasia __label__K29.6
+persistent lymphocytosis __label__D72.8
+full thickness burn of abdomen __label__T21.3
+syndromic diarrhea __label__Q87.8
+deficiency of prolidase __label__E88.0
+splinter of buttock without major open wound, infected __label__L08.9
+trichoschisis __label__L67.8
+RHE (retinohepatoendocrinologic) syndrome __label__Q87.8
+accidental poisoning by antiknock additives to petroleum __label__X49.99
+diaphragmatic hernia-exomphalos-corpus callosum agenesis __label__Q87.8
+Carpenter syndrome __label__Q87.0
+barbiturate antiepileptic adverse reaction __label__T88.7
+traumatic injury of right middle ear __label__S09.9
+dexamphetamine adverse reaction __label__T88.7
+hypoplasia of lower limb __label__Q72.9
+accidental poisoning caused by bromide __label__X41.99
+hyperalbuminaemia __label__E88.0
+mast cell stabilizer adverse reaction __label__T88.7
+Donnai-Barrow syndrome __label__Q87.8
+antimalarial drug overdose __label__X44.99
+frontotemporal dementia with gene located on 3p11 __label__G31.0
+third degree burn of multiple sites of lower leg __label__T24.3
+superficial foreign body of flank with infection __label__W45.99
+poppy poisoning __label__X49.99
+accidental enflurane poisoning __label__X44.99
+granulocytosis __label__D72.8
+abdominal compartment syndrome __label__R19.8
+infection of toe web __label__L08.9
+foreign body in skin of right half of chest __label__W45.99
+Summitt syndrome __label__Q87.0
+fracture of neck of metacarpal bone __label__S62.30
+renal dysplasia, mesomelia, radiohumeral fusion syndrome __label__Q87.8
+cardiac arrest during surgery __label__T81.8
+poor siting of stoma __label__T81.8
+thyrocerebrorenal syndrome __label__Q87.8
+cycloguanil poisoning __label__X44.99
+sulphadiazine poisoning __label__X44.99
+cinchonism __label__X49.99
+gliclazide adverse reaction __label__T88.7
+injury due to legal intervention by cutting and stabbing instruments __label__T14.9
+brake fluid causing toxic effect __label__X49.99
+scotopic sensitivity __label__H53.8
+accidental carbenicillin poisoning __label__X44.99
+splinter in foot __label__W45.99
+superficial foreign body of gum with infection __label__L08.9
+right shoulder blister with infection __label__L08.9
+intentional ciclosporin overdose __label__T45.1
+dalteparin adverse reaction __label__T88.7
+chloral hydrate poisoning __label__X41.99
+agenesis of cervical arch __label__Q76.4
+neurotoxicity due to procarbazine __label__T45.1
+poisoning by carbonic acid anhydrase inhibitor __label__X44.99
+beractant adverse reaction __label__T88.7
+severe cellular graft rejection __label__T86.8
+neoplasm of uncertain behaviour of sacrococcygeal region __label__D48.7
+poisoning by phenolphthalein __label__X44.99
+injury whilst boarding or alighting from stationary train __label__T14.9
+anomalous origin of accessory coronary artery from pulmonary artery __label__Q24.5
+adverse reaction caused by barbiturate __label__T88.7
+congenital atransferrinaemia __label__E88.0
+toxic effect of cresol __label__X44.99
+intentional amsacrine poisoning __label__T45.1
+lypressin adverse reaction __label__T88.7
+aldosterone antagonists adverse reaction __label__T88.7
+RALD __label__D72.8
+ocular amyloid deposit __label__E85.4
+modified release glyceryl trinitrate adverse reaction __label__T88.7
+Hallermann Streiff François syndrome severe form __label__Q87.0
+ITM2B-related cerebral amyloid angiopathy __label__E85.4
+cheek injury __label__S09.9
+primary dystrophic hair __label__L67.8
+RBC trapping in liver __label__K76.8
+localized congenital cutis laxa __label__Q82.8
+adverse reaction caused by drug __label__T88.7
+Holzgreve syndrome __label__Q87.8
+chronic granulomatous gastritis __label__K29.6
+superficial metal foreign body __label__W45.99
+Zygadenus species poisoning __label__X49.99
+foreign body in face __label__S00.8
+tetrabenazine poisoning __label__X41.99
+injury from aircraft rotating propeller, without accident to aircraft, parachutist injured __label__V97.29
+X-linked recessive intellectual disability and macrocephaly with ciliary dysfunction syndrome __label__Q87.0
+poisoning by thiamphenicol __label__X44.99
+aclarubicin overdose __label__X44.99
+superficial injury of vagina with infection __label__L08.9
+neoplasm of uncertain behaviour of supraclavicular region __label__D48.7
+superficial foreign body in skin of head and neck __label__W45.99
+Digitalis purpurea poisoning __label__X49.99
+injury complicating pregnancy __label__T14.9
+accidental benperidol poisoning __label__X41.99
+hematoma of spleen without rupture of capsule AND without open wound into abdominal cavity __label__S36.00
+aminoglutethimide overdose __label__X44.99
+keratoderma with woolly hair type I __label__Q87.8
+congenital absence of sacral centrum __label__Q76.4
+digoxin adverse reaction __label__T88.7
+deficiency of phosphoglycerate mutase __label__E88.0
+keratosis follicularis __label__Q82.8
+adverse reaction caused by sulphamethoxazole __label__T88.7
+accidental pentostatin overdose __label__X44.99
+injury to driver of non-racing motor bicycle driven off public roadway __label__T14.9
+accidental ethambutol overdose __label__X44.99
+poisoning by nitrite __label__X44.99
+injury from machinery on aircraft __label__T14.9
+infection of tendon repair __label__T81.4
+disulfiram overdose __label__X44.99
+fever after procedure __label__T81.4
+Simosa Penchaszadeh Bustos syndrome __label__Q87.0
+noncompliance: medication regimen __label__Z91.1
+Baraitser Brett Piesowicz syndrome __label__Q87.8
+congenital sacral meningocele with conotruncal heart defect syndrome __label__Q87.8
+polyorchidism __label__Q55.2
+ulcer of stomach due to lymphocytic gastritis __label__K29.6
+adverse reaction to succinimide __label__T88.7
+hypertelorism Teebi type __label__Q87.0
+short QT syndrome __label__I45.8
+abscess following procedure __label__T81.4
+ulcero - mutilating hemangiomatosis __label__Q82.8
+allograft arteriopathy __label__T86.8
+osteoporosis and macrocephaly with blindness and joint hypermobility syndrome __label__Q87.8
+progressive familial heart block __label__I45.8
+MAOI - Monoamine oxidase inhibitor poisoning __label__X41.99
+adverse reaction to inosine pranobex __label__T88.7
+question-mark ear syndrome __label__Q75.8
+para-aminophenol derivative adverse reaction __label__T88.7
+fumes from combustion of polyvinylchloride and similar material in conflagration, in hotel __label__X00.99
+serum albumin low __label__E88.0
+war injury due to fragments from shrapnel __label__T14.9
+accidental guanethidine overdose __label__X44.99
+deficiency of maltose phosphorylase __label__E88.0
+superficial foreign body in skin of genitalia __label__W45.99
+accidental desipramine overdose __label__X41.99
+poisoning caused by aluminium hydroxide __label__X44.99
+persistent human tail __label__Q76.4
+vitamin A poisoning __label__X44.99
+dumbbell ossification of centrum of thoracic vertebra __label__Q76.4
+thiopentone adverse reaction __label__T88.7
+humoural graft rejection __label__T86.8
+accident caused by jumping from burning public building __label__X00.99
+blister of cheek with infection __label__S00.8
+accident boarding aircraft - parachutist injured __label__V97.29
+deficiency of transglycosylase __label__E88.0
+incomplete ossification of presphenoid bone __label__Q75.8
+chlorprothixene adverse reaction __label__T88.7
+cephamandole adverse reaction __label__T88.7
+reduced chest resonance to percussion __label__R09.8
+superficial foreign body in gum __label__W45.99
+antidromic atrioventricular reciprocating tachycardia utilising accessory pathway with bidirectional conduction __label__I45.8
+presence of inferior vena cava filter __label__Z95.8
+corticosteroid and/or corticosteroid derivative overdose __label__X44.99
+left index finger blister with infection __label__L08.9
+traumatic blister of scapular region, infected __label__L08.9
+chronic postthoracotomy pain __label__T81.8
+impaired gastric mucosal defence __label__R19.8
+Hoffman reflex positive __label__R29.2
+mefruside adverse reaction __label__T88.7
+congenital fused squamosal bone __label__Q75.8
+accidental heparin poisoning __label__X44.99
+gelatin adverse reaction __label__T88.7
+nodule of skin of abdomen __label__R22.2
+accidental pericyazine overdose __label__T43.3
+jump from burning caravan __label__X00.99
+foreign body in skin of toe __label__W45.99
+X-linked intellectual disability Wilson type __label__Q87.8
+left knee blister with infection __label__L08.9
+accidental busulfan poisoning __label__T45.1
+teeth staining caused by metal __label__K03.7
+skin reaction caused by suture material __label__T81.4
+accidental antimony compound overdose __label__X49.99
+Boyadjiev Jabs syndrome __label__Q75.8
+poisoning caused by minocycline __label__X44.99
+Staphylococcus aureus bacteraemia __label__A49.0
+congenital absence of parietal bone __label__Q75.8
+accidental insulin poisoning __label__X44.99
+mersalyl poisoning __label__X44.99
+para-aminosalicylic acid poisoning __label__X44.99
+signet ring squamous cell carcinoma __label__C44.9
+adverse reaction to pentamethonium bromide __label__T88.7
+foreign body - thumb __label__W45.99
+cyclophosphamide poisoning __label__T45.1
+family euphorbiaceae poisoning __label__X49.99
+closed traumatic dislocation of interphalangeal joint of lesser toe of left foot __label__S93.1
+macromolecular blood substitute poisoning __label__X44.99
+Type II dissection of thoracic aorta __label__I71.0
+accident caused by smoke from conflagration in commercial premises __label__X00.99
+Waardenburg Shah syndrome __label__Q87.8
+central alpha-2 adrenergic receptor agonist overdose __label__X44.99
+Ohdo syndrome, Say-Barber-Biesecker-Young-Simpson variant __label__Q87.8
+poisoning caused by amitriptyline __label__X41.99
+intentional melphalan overdose __label__T45.1
+foreign body in skin of nose __label__W45.99
+occlusal trauma __label__S09.9
+supernumerary sacral centrum __label__Q76.4
+nonadherence with safety precautions __label__Z91.1
+reactive gastritis __label__K29.6
+agenesis of lumbar centrum __label__Q76.4
+injury in water transport caused by deck machinery __label__T14.9
+conjunctival lymphangiectasis __label__H11.8
+nail wound of head and neck __label__W45.99
+liquid paraffin adverse reaction __label__T88.7
+traumatic blister of back, infected __label__L08.9
+accessory skin tags __label__Q82.8
+fishing hook in perineum __label__W45.99
+mefloquine adverse reaction __label__T88.7
+insect bite, nonvenomous, of elbow, infected __label__L08.9
+injury while boarding or alighting from stationary train __label__T14.9
+Winship Viljoen Leary syndrome __label__Q87.8
+ink causing toxic effect __label__X49.99
+superior tracheobronchial lymphadenopathy __label__R59.0
+growth hormone adverse reaction __label__T88.7
+intentional trimipramine overdose __label__X61.99
+adverse reaction to chorionic gonadotrophin __label__T88.7
+ankle reflex absent __label__R29.2
+radiation disease __label__T66
+splinter of hip, without major open wound __label__W45.99
+deficiency of glutamine-oxo-acid transaminase __label__E88.0
+poisoning by medazepam __label__X41.99
+poisoning caused by diphenylpyraline __label__X44.99
+buspirone overdose __label__X41.99
+primary hidradenocarcinoma __label__C44.9
+superficial foreign body in right elbow region __label__W45.99
+familial continual skin peeling __label__Q82.8
+trefoil wavefront aberration __label__H53.8
+trauma __label__T14.9
+splinter of finger, without major open wound, infected __label__L08.9
+anxiety due to dementia __label__F03
+primary ependymoblastoma __label__C71.9
+Staphylococcus aureus infection __label__A49.0
+family history: Ischaemic heart disease at less than 60 years __label__Z82.4
+open dislocation of metatarsophalangeal joint __label__S93.1
+indometacin adverse reaction __label__T88.7
+accidental poisoning by lorazepam __label__X41.99
+folic acid deficiency anemia __label__D52.0
+risperidone overdose __label__X41.99
+nystatin overdose __label__X44.99
+right ventricular failure due to heart valve disorder __label__I38
+oxysterol 7-alpha hydroxylase deficiency __label__K76.8
+injury __label__T14.9
+mitobronitol overdose __label__T45.1
+history of stricture of oesophagus __label__Z87.1
+abnormal uterine bleeding due to atypical endometrial hyperplasia __label__N93.8
+corneal anesthesia, deafness, intellectual disability syndrome __label__Q87.8
+craniomicromelic syndrome __label__Q87.0
+lymphoedema, atrial septal defect, facial changes syndrome __label__Q87.8
+accidental mersalyl overdose __label__X44.99
+congenital misshapen maxilla __label__Q75.8
+infected abrasion of left ring finger __label__L08.9
+poisoning caused by pyrimethamine __label__X44.99
+peripheral nerve neuropacemaker in situ __label__Z95.8
+insect bite, nonvenomous, of face, infected __label__S00.8
+tamoxifen overdose __label__X44.99
+intentional loprazolam overdose __label__X61.99
+accidental mitoxantrone poisoning __label__X44.99
+leuconychia punctata __label__L60.8
+cole-Engmann-Zinsser syndrome __label__Q82.8
+traumatic blister of wrist, infected __label__L08.9
+adverse reaction caused by inhaled corticosteroids __label__T88.7
+cationic surfactant adverse reaction __label__T88.7
+antidepressant drug adverse reaction __label__T88.7
+malonyl-CoA decarboxylase deficiency __label__E88.0
+protoplasmic astrocytoma of brain __label__C71.9
+facial lymphadenopathy __label__R59.0
+noncollision motor vehicle traffic accident involving breakage of any part of motor vehicle whilst in motion, passenger of motor vehicle injured __label__V87.89
+accidental poisoning by glutethimide __label__X41.99
+MBL-CLL __label__D72.8
+painful retractile testis __label__Q55.2
+BCC __label__C44.9
+Pinus ponderosa poisoning __label__X49.99
+toxic effect of corrosive aromatic __label__X49.99
+injury in water transport caused by galley machinery, swimmer injured __label__T14.9
+cactinomycin poisoning __label__X44.99
+deficiency of urate oxidase __label__E88.0
+fishing hook in lower leg __label__W45.99
+family history of dissection of aorta __label__Z82.4
+penoscrotodynia __label__F45.8
+toxic effect of manganese and/or manganese compound __label__X49.99
+deficiency of uronolactonase __label__E88.0
+lethal brain and heart developmental defects syndrome __label__Q87.8
+arginine-glutamic acid dipeptide repeats-related neurodevelopmental syndrome __label__Q87.8
+MINDS (macrocephaly, intellectual disability, neurodevelopmental disorder, small thorax) syndrome __label__Q87.0
+insect bite, nonvenomous, of head, infected __label__L08.9
+parasite of asymmetrical conjoined twins __label__Q89.8
+Biemond syndrome __label__Q87.8
+adverse reaction to phenolphthalein __label__T88.7
+poisoning caused by tolbutamide __label__X44.99
+blister of left knee with infection __label__L08.9
+dextromethorphan hydrobromide adverse reaction __label__T88.7
+tumour of pericardium __label__D48.7
+protamine overdose __label__X44.99
+Goltz-Gorlin syndrome __label__Q82.8
+sucralfate adverse reaction __label__T88.7
+injury due to direct ionising radiation from nuclear explosion __label__T14.9
+intentional clomethiazole poisoning __label__X61.99
+burn any degree involving 90 percent OR more of body surface __label__T31.9
+posterior fossa brain malformation, hemangioma, arterial anomaly, cardiac defect and aortic coarctation, and eye abnormality syndrome __label__Q87.8
+de novo thrombotic microangiopathy after kidney transplantation __label__Z94.0
+nail discolouration __label__L60.8
+bronchopulmonary lymphadenopathy __label__R59.0
+intentional secobarbital overdose __label__X61.99
+stinging nettle poisoning __label__X49.99
+Down syndrome co-occurrent with leukemoid reaction associated transient neonatal pustulosis __label__D72.8
+congenital misshapen parietal bone __label__Q75.8
+soursob poisoning __label__X49.99
+intentional moclobemide overdose __label__X61.99
+non-acquired combined pituitary hormone deficiency, sensorineural hearing loss, spine abnormalities syndrome __label__Q76.4
+Bonnemann Meinecke syndrome __label__Q87.8
+adverse reaction to morphine __label__T88.7
+flunitrazepam adverse reaction __label__T88.7
+dissection of aortic arch __label__I71.0
+poisoning due to red tide of dinoflagellates __label__X49.99
+CADDS __label__Q87.8
+PTHS __label__Q87.0
+sex reversion, kidney, adrenal and lung dysgenesis syndrome __label__Q87.8
+DYRK1A (dual specificity tyrosine phosphorylation regulated kinase 1A)-related intellectual disability syndrome __label__Q87.8
+intentional secobarbital poisoning __label__X61.99
+human bite of lower limb __label__T13.1
+calcitonin (pork) adverse reaction __label__T88.7
+anomalous origin of left coronary artery and right coronary artery with dual ostia from aortic sinus of Valsalva to left of nonfacing aortic sinus of Valsalva __label__Q24.5
+deficiency of sulfinoalanine decarboxylase __label__E88.0
+loose suture of cornea __label__T81.8
+accidental poisoning by lysergic acid __label__X44.99
+toxic effect of carbon bisulfide __label__X49.99
+accidental overdose of phenytoin __label__X41.99
+intentional bromocriptine overdose __label__X61.99
+unossified presphenoid bone __label__Q75.8
+proguanil overdose __label__X44.99
+Teebi Naguib Alawadi syndrome __label__Q87.8
+poisoning by cactinomycin __label__X44.99
+Sorghum species poisoning __label__X49.99
+fumes from combustion of polyvinylchloride and similar material in conflagration, in barn __label__X00.99
+Phytolacca americana poisoning __label__X49.99
+lack of ossification of basioccipital bone __label__Q75.8
+injury of tongue __label__S09.9
+burroweed poisoning __label__X49.99
+erythrophleum chlorostachys poisoning __label__X49.99
+bronchoscopy abnormal __label__R09.8
+deafness, nephritis, anorectal malformation syndrome __label__Q87.8
+digital papillary adenocarcinoma __label__C44.9
+intentional mechlorethamine poisoning __label__T45.1
+isolated hereditary congenital facial paralysis __label__Q87.0
+developmental anomaly of odontoid process of axis __label__Q76.4
+CEDNIK syndrome __label__Q82.8
+properdin deficiency __label__D84.1
+sealant causing toxic effect __label__X49.99
+left wrist blister with infection __label__L08.9
+Chinese tallow tree poisoning __label__X49.99
+cancer of skin, basal cell __label__C44.9
+megaloblastic anemia due to folate deficiency in pregnancy and lactation __label__D52.0
+Sensenbrenner's syndrome __label__Q75.8
+respiratory tract congestion and cough __label__R09.8
+adverse reaction to doxycycline __label__T88.7
+absence of roof of orbit __label__Q75.8
+adhesive stick causing toxic effect __label__X49.99
+injury due to fragment from improvised bomb __label__T14.9
+foreign body in skin of breast __label__W45.99
+etomidate overdose __label__X44.99
+protamine adverse reaction __label__T88.7
+double barrel dual coronary artery orifices within aortic sinus __label__Q24.5
+bronchodilator preparations adverse reaction __label__T88.7
+metipranolol adverse reaction __label__T88.7
+foreign body in skin of head and neck __label__W45.99
+adverse reaction to lorazepam __label__T88.7
+accidental chlormethiazole poisoning __label__X41.99
+streptokinase overdose __label__X44.99
+accidental 5-hydroxytryptamine-3-receptor antagonist poisoning __label__X44.99
+superficial foreign body of index finger __label__W45.99
+adverse reaction caused by nitrous oxide __label__T88.7
+terodiline adverse reaction __label__T88.7
+blister of ring finger of right hand with infection __label__L08.9
+congenital abnormality of anterior cardiac vein __label__Q24.5
+accidental magnesium sulphate poisoning __label__X44.99
+noncollision motor vehicle traffic accident involving accidental poisoning from exhaust gas generated by motor vehicle whilst in motion, occupant of tram injured __label__V87.89
+injury caused by conflagration secondary to nuclear explosion __label__T14.9
+adverse reaction to peripheral nerve and plexus blocking anaesthetic __label__T88.7
+intentional tranylcypromine overdose __label__X61.99
+third degree burn of chest wall __label__T21.3
+tumor stage mycosis fungoides __label__C84.0
+congenital misshapen lumbar arch __label__Q76.4
+mercuric oxide poisoning __label__X49.99
+Helenium species poisoning __label__X49.99
+burning caused by conflagration in apartment __label__X00.99
+oxybuprocaine adverse reaction __label__T88.7
+fludarabine poisoning __label__X44.99
+deficiency of lysolecithin acylmutase __label__E88.0
+subungual hematoma of ring finger of right hand __label__L60.8
+regurgitation of right (non-tricuspid) atrioventricular valve __label__I38
+mustine adverse reaction __label__T88.7
+congenital absence of basioccipital bone __label__Q75.8
+splinter of lower limb, without major open wound, infected __label__L08.9
+foreign body in hand __label__W45.99
+accidental ingestion of terpineol __label__X49.99
+oculocerebral hypopigmentation syndrome of Preus __label__Q84.8
+synophthalmia __label__Q87.0
+primary eccrine mixed tumour, malignant __label__C44.9
+Aconitum species poisoning __label__X49.99
+PUVA therapy-associated basal cell carcinoma __label__C44.9
+autosomal dominant KID (keratitis, ichthyosis, deafness) syndrome __label__Q87.8
+inhalational anesthetic overdose __label__X44.99
+noncollision motor vehicle traffic accident involving accidental poisoning from exhaust gas generated by motor vehicle whilst in motion, passenger of motor vehicle injured __label__V87.89
+Cicuta maculata poisoning __label__X49.99
+ciclosporin overdose __label__X44.99
+peroxisome biogenesis disorder due to PEX13 mutation __label__Q87.8
+accidental 5-aminosalicylic acid overdose __label__X44.99
+interferon gamma-1b adverse reaction __label__T88.7
+levodopa overdose __label__X41.99
+anomalous origin of right coronary artery from aortic sinus to right of nonfacing aortic sinus and anomalous origin of left coronary artery from aortic sinus to left of nonfacing aortic sinus __label__Q24.5
+Temple syndrome __label__Q87.0
+sprain of metatarsophalangeal joint of left lesser toe __label__S93.5
+THOC6-related developmental delay-microcephaly-facial dysmorphism syndrome __label__Q87.0
+hydrometrocolpos, postaxial polydactyly, and congenital heart malformation __label__Q87.8
+congenital oculocutaneous hypopigmentation __label__Q82.8
+penicillinase poisoning __label__X44.99
+deficiency of cysteine aminotransferase __label__E88.0
+anterior rachischisis __label__Q76.4
+decreased blood vessel permeability __label__R09.8
+lack of ossification of arch of sacral vertebra __label__Q76.4
+autosomal recessive chorioretinopathy, microcephaly, intellectual disability syndrome __label__Q87.8
+CHARGE syndrome __label__Q87.8
+congenital abnormal shape of vomer __label__Q75.8
+autosomal dominant brachyolmia __label__Q76.4
+overdose of angiotensin-converting-enzyme inhibitors __label__X44.99
+Sorghum bicolor poisoning __label__X49.99
+facies bovina __label__Q75.8
+hemifacial microsomia with radial defect syndrome __label__Q75.8
+poisoning caused by lignocaine __label__X44.99
+superficial foreign body with infection __label__W45.99
+accidental protriptyline overdose __label__X41.99
+infected nonvenomous insect bite of left elbow __label__L08.9
+oculo-palato-digital syndrome __label__Q87.0
+sprain of ligament of joint of lesser toe of right foot __label__S93.5
+adverse reaction caused by peripheral nerve and plexus blocking anesthetic __label__T88.7
+accidental methotrexate poisoning __label__T45.1
+desflurane overdose __label__X44.99
+symmetric parietal foramina __label__Q75.8
+peeling skin, leuconychia, acral punctate keratoses, cheilitis, knuckle pads syndrome __label__Q82.8
+poisoning by beryllium compound __label__X49.99
+foxtail grass poisoning __label__X49.99
+infection caused by vancomycin resistant Staphylococcus aureus, coagulase positive __label__A49.0
+foreign body in skin of left hip region __label__W45.99
+magnesium trisilicate overdose __label__X44.99
+foreign body in skin of scrotum with infection __label__L08.9
+adverse reaction to methaqualone __label__T88.7
+accidental castor oil overdose __label__X44.99
+congenital deformity of soft tissue __label__Q89.8
+splinter of buttock, without major open wound __label__W45.99
+pyogenic infection of skin and subcutaneous tissues caused by bacterium __label__L08.9
+alopecia, psychomotor epilepsy, periodontal pyorrhea, intellectual disability syndrome __label__Q87.8
+third degree burn of left thigh __label__T24.3
+antacid adverse reaction __label__T88.7
+razoxane poisoning __label__X44.99
+mediastinal crunch __label__R09.8
+puncture wound of right shoulder __label__S41.0
+acitretin overdose __label__X44.99
+temporal pulse absent __label__R09.8
+procarbazine overdose __label__X44.99
+Crandall's syndrome __label__L67.8
+arsine causing toxic effect __label__X49.99
+organ limited non-hereditary amyloidosis __label__E85.4
+infected abrasion of skin of fourth digit of right hand __label__L08.9
+accidental corticotrophin poisoning __label__X44.99
+coma wavefront aberration __label__H53.8
+N syndrome __label__Q87.8
+accidental ingestion of water arum __label__X49.99
+fenoterol adverse reaction __label__T88.7
+unossified lacrimal bone __label__Q75.8
+frusemide overdose __label__X44.99
+accidental poisoning by haloperidol __label__X41.99
+pancreatic hypoplasia, diabetes mellitus, congenital heart disease syndrome __label__Q87.8
+infected abrasion of skin of right ankle region __label__L08.9
+oxprenolol adverse reaction __label__T88.7
+right condyle absent __label__Q75.8
+adverse reaction caused by decongestant __label__T88.7
+noncollision motor vehicle traffic accident involving injury by being thrown against some part of, or object in, motor vehicle while in motion, driver of motor vehicle injured __label__V87.89
+Richieri Costa Guion Almeida Ramos syndrome __label__Q87.8
+mass of bilateral axilla __label__R22.2
+thiopental adverse reaction __label__T88.7
+intentional oxypertine poisoning __label__X61.99
+painful operation scar __label__T81.8
+congenital leg length discrepancy __label__Q72.9
+accidental poisoning by procaine __label__X44.99
+carbon monoxide fumes from conflagration in private dwelling __label__X00.99
+accidental cascara overdose __label__X44.99
+carcinoma simplex __label__C44.9
+Cynanchum species poisoning __label__X49.99
+Class IV antiarrhythmic adverse reaction __label__T88.7
+Yorifuji Okuno syndrome __label__Q87.8
+primary cutaneous signet ring cell carcinoma __label__C44.9
+swelling of salivary gland __label__R59.0
+adverse reaction to ergometrine and/or oxytocin __label__T88.7
+hyperosmolar non-ketotic state in type 2 diabetes mellitus __label__E11.9
+amyloidosis of small intestine __label__E85.4
+dacarbazine poisoning __label__T45.1
+abnormal dermatoglyphic pattern __label__Q82.8
+blister of second digit of left hand with infection __label__L08.9
+noncollision motor vehicle traffic accident involving jump from motor vehicle whilst in motion, driver of motor vehicle injured __label__V87.89
+accidental cefixime overdose __label__X44.99
+accidental tranylcypromine overdose __label__X41.99
+soft khaki weed poisoning __label__X49.99
+craniosynostosis Warman type __label__Q75.8
+injury of unknown intent due to impact by moving motor vehicle __label__T14.9
+myelocele __label__Q05.9
+war injury due to explosion of sea-based artillery shell __label__T14.9
+accidental cephalothin poisoning __label__X44.99
+bony swelling of lumbar spine __label__R22.2
+acute headache due to traumatic injury of head __label__S09.9
+vinca alkaloid adverse reaction __label__T88.7
+poisoning caused by beryllium __label__X49.99
+adverse reaction to piperazine estrone sulfate __label__T88.7
+intellectual disability, severe speech delay, mild dysmorphism syndrome __label__Q87.0
+deficiency of alpha-mannosidase __label__E88.0
+deficiency of 3-oxoadipate CoA-transferase __label__E88.0
+acquired angioneurotic oedema with C1 inhibitor deficiency __label__D84.1
+intentional etoposide overdose __label__T45.1
+adverse reaction caused by mouth rinse __label__T88.7
+azotaemic onychopathy __label__L60.8
+gunshot wound of left hip __label__W34.99
+superficial injury of lower limb, infected __label__L08.9
+accidental isocarboxazid poisoning __label__X41.99
+adverse reaction to salicylate __label__T88.7
+accident caused by smoke from conflagration in public building __label__X00.99
+narrow pulse pressure __label__R09.8
+accidental vitamin D poisoning __label__X44.99
+rectal tenesmus __label__R19.8
+adverse reaction to casirivimab __label__T88.7
+bile-induced gastritis __label__K29.6
+anomalous origin of right coronary artery from left anterior descending coronary artery __label__Q24.5
+vascular disorder of liver __label__K76.8
+accidental poisoning by angiotensin-converting enzyme inhibitor __label__X44.99
+hydroxyquinoline poisoning __label__X44.99
+pagetoid reticulosis __label__C84.0
+fatigue due to chemotherapy __label__X44.99
+inspiratory crackles __label__R09.8
+glycopeptide intermediate Staphylococcus aureus infection __label__A49.0
+antimony and/or antimony compound adverse reaction __label__T88.7
+primary malignant odontogenic tumour of upper jaw __label__C41.0
+deficiency of hydroxyacylglutathione hydrolase __label__E88.0
+pulp space infection of finger/thumb __label__L08.9
+recurrent glomerulonephritis following renal transplant __label__Z94.0
+lower-order aberration of vision __label__H53.8
+chronic kidney disease stage 5 with transplant __label__Z94.0
+Feingold syndrome __label__Q87.8
+intentional phenelzine poisoning __label__X61.99
+neoplasm of uncertain behavior of lower limb __label__D48.7
+gastric haemorrhage due to idiopathic erosive gastritis __label__K29.6
+toxic effect of cyanide __label__X49.99
+infection of epididymis caused by Chlamydia trachomatis __label__A56.1
+nonvenomous insect bite of finger with infection __label__L08.9
+malignant fibrous histiocytoma of skin __label__C44.9
+foreign body in skin and/or mucosa of lip with infection __label__L08.9
+adverse reaction caused by cannabis __label__T88.7
+circumscribed nodular and tuberous pretibial myxoedema __label__E03.8
+splinter of finger, without major open wound, infected __label__W45.99
+Kaplan Plauchu Fitch syndrome __label__Q87.0
+Apert syndrome __label__Q87.0
+deep third degree burn of breast __label__T21.3
+facial dysmorphism, cleft palate, loose skin syndrome __label__Q87.0
+anterior tibial pulse monophasic __label__R09.8
+poisoning due to crowd control gas __label__T59.8
+cyst of paramesonephric duct __label__Q55.2
+after-cataract with vision obscured following extraction of cataract __label__H53.8
+accidental bromazepam poisoning __label__X41.99
+adverse reaction to etamsylate __label__T88.7
+malignant melanoma of skin of nose __label__C43.3
+accidental carboplatin overdose __label__X44.99
+tioguanine poisoning __label__T45.1
+prelaryngeal lymphadenopathy __label__R59.0
+primary non-essential cutis verticis gyrata __label__Q82.8
+branchial dysplasia, intellectual disability, inguinal hernia syndrome __label__Q87.8
+Opitz-Frias syndrome __label__Q87.8
+acute rejection of lung transplant __label__T86.8
+deficiency of alanine-oxo-acid aminotransferase __label__E88.0
+poisoning by levallorphan __label__X44.99
+racket nail __label__L60.8
+hit by object falling from burning boarding house __label__X00.99
+accidental mianserin poisoning __label__X41.99
+carbomer-940 adverse reaction __label__T88.7
+Panicum effusum poisoning __label__X49.99
+rubber vine poisoning __label__X49.99
+family loganiaceae poisoning __label__X49.99
+Kawashima syndrome __label__Q87.8
+splinter in skin with infection __label__W45.99
+rifampin toxicity __label__X44.99
+third degree burn of hip __label__T24.3
+hypospadias and intellectual disability syndrome Goldblatt type __label__Q87.8
+diphenylbutylpiperidine poisoning __label__X41.99
+pyrimethamine overdose __label__X44.99
+accidental azathioprine poisoning __label__T45.1
+polyethylene glycol adverse reaction __label__T88.7
+poisoning caused by sulfone __label__X44.99
+focal palmoplantar keratoderma with joint keratoses __label__Q82.8
+deficiency of urease __label__E88.0
+primary oligodendroglioma of brain __label__C71.9
+lack of ossification of lacrimal bone __label__Q75.8
+splinter in skin with infection __label__L08.9
+accidental razoxane poisoning __label__X44.99
+acrodynia due to mercury __label__X49.99
+physical abuse of child __label__Y07.99
+tumor of iris __label__D48.7
+CSFP __label__R09.8
+Toriello Lacassie Droste syndrome __label__Q84.8
+disorder of nail due to dermatosis __label__L60.8
+accidental disulfiram overdose __label__X44.99
+BRESEK syndrome __label__Q87.8
+exanthematous infectious disease __label__L08.9
+dullness to percussion over Traube space __label__R09.8
+congenital absence of right mandibular condyle __label__Q75.8
+accidental poisoning by imipramine __label__X41.99
+accidental poisoning caused by squill and/or squill derivative __label__X44.99
+poisoning by mercaptopurine __label__T45.1
+primary sebaceous adenocarcinoma __label__C44.9
+allergic reaction caused by anesthetic __label__T88.7
+basal cell carcinoma - micronodular __label__C44.9
+Lowry Yong syndrome __label__Q87.8
+domed head __label__Q75.8
+adverse reaction to tetracycline __label__T88.7
+malposition of left intraocular lens __label__T85.2
+ileal pouch anal anastomosis related fecal incontinence __label__T81.8
+malignant chondroid syringoma __label__C44.9
+trichorrhexis nodosa __label__L67.8
+accidental cytarabine poisoning __label__T45.1
+tumor of pericardium __label__D48.7
+methylphenidate adverse reaction __label__T88.7
+third degree burn of male genitalia __label__T21.3
+subungual haematoma of first toe of right foot __label__L60.8
+bilateral hilar adenopathy syndrome __label__R59.0
+abrasion of ankle, infected __label__L08.9
+SCAR5 - spinocerebellar ataxia autosomal recessive 5 __label__Q82.8
+cinnarizine adverse reaction __label__T88.7
+Binder syndrome __label__Q75.8
+decreased supinator reflex __label__R29.2
+Gifford Bosma syndrome __label__Q87.0
+injury in water transport caused by loading machinery, occupant of small powered boat injured __label__T14.9
+insect bite, nonvenomous, of vagina, infected __label__L08.9
+accident caused by air rifle __label__W34.99
+ciprofloxacin adverse reaction __label__T88.7
+accidental ingestion of jequirity seeds __label__X49.99
+rales __label__R09.8
+pericyazine poisoning __label__T43.3
+deficiency of glutaryl-CoA synthetase __label__E88.0
+Crotalaria spectabilis poisoning __label__X49.99
+infected abrasion of skin of lesser digit of right foot __label__L08.9
+primary malignant eccrine spiradenoma __label__C44.9
+accidental busulfan overdose __label__T45.1
+accidental clomipramine overdose __label__X41.99
+mountain laurel poisoning __label__X49.99
+deficiency of 3-mercaptopyruvate sulfurtransferase __label__E88.0
+Pollitt's syndrome __label__L67.8
+bony swelling of the thoracic spine __label__R22.2
+adverse reaction to antihelminthics __label__T88.7
+motility stimulant overdose __label__X44.99
+potassium poisoning __label__X44.99
+androgen adverse reaction __label__T88.7
+accidental poisoning caused by sedative __label__X41.99
+tonic neck reflex equivocal __label__R29.2
+anemone species poisoning __label__X49.99
+progressive hereditary glomerulonephritis without deafness __label__Q87.8
+supernumerary centrum of sacral vertebra __label__Q76.4
+poisoning by cyclandelate __label__X44.99
+joint injury __label__T14.9
+healed gastric ulcer __label__Z87.1
+deficiency of hydroxyalkyl-protein kinase __label__E88.0
+nicofuranose adverse reaction __label__T88.7
+bilateral craniofacial microsomia __label__Q75.8
+poisoning by chiniofon __label__X44.99
+infection caused by Staphylococcus Coagulase negative __label__A49.0
+allergic reaction caused by tattoo ink __label__X49.99
+injury due to legal intervention by poisoning by gas __label__T14.9
+fishing hook in ear region __label__W45.99
+Helicobacter pylori-associated gastritis __label__K29.6
+treosulfan overdose __label__T45.1
+focal facial dermal dysplasia type IV __label__Q82.8
+paraldehyde poisoning __label__X41.99
+keratolytic winter erythema __label__Q82.8
+deficiency of phylloquinone reductase __label__E88.0
+aldehyde dehydrogenase inhibitor adverse reaction __label__T88.7
+morphinan opioid adverse reaction __label__T88.7
+HOPP syndrome __label__Q82.8
+disorder of nail colour __label__L60.8
+fenoprofen adverse reaction __label__T88.7
+brompheniramine adverse reaction __label__T88.7
+OL-EDA-ID (anhidrotic ectodermal dysplasia, immunodeficiency, osteopetrosis, lymphedema) syndrome __label__Q87.8
+anomalous origin of conus artery from separate aortic sinus of Valsalva orifice __label__Q24.5
+promethazine adverse reaction __label__T88.7
+foreign body in skin of third digit of left hand with infection __label__L08.9
+CS - Coronary sinus abnormality __label__Q24.5
+choanal atresia, hearing loss, cardiac defect, craniofacial dysmorphism syndrome __label__Q87.8
+metal foreign body in perineum __label__W45.99
+localised swelling of chest wall __label__R22.2
+Bednar tumour __label__C44.9
+deoxyribonuclease adverse reaction __label__T88.7
+jump from burning church __label__X00.99
+acquired koilonychia __label__L60.8
+family pinaceae poisoning __label__X49.99
+acute tricyclic antidepressant poisoning __label__X41.99
+fragmentation of spleen __label__S36.00
+congenital partial fusion of spine - balanced __label__Q76.4
+FH: heart disorder __label__Z82.4
+adverse reaction to mesterolone __label__T88.7
+erythromycin poisoning __label__X44.99
+Rhododendron indicum poisoning __label__X49.99
+Solanum species poisoning __label__X49.99
+distal arthrogryposis type 7 __label__Q87.8
+wrong dose of medication given __label__X44.99
+non-accidental injury to adult __label__T14.9
+myeloperoxidase deficiency __label__D72.8
+recurrent skin infection __label__L08.9
+injury in water transport caused by engine room machinery, occupant on small unpowered boat injured __label__T14.9
+metal foreign body in forearm __label__W45.99
+Basan syndrome __label__Q82.8
+lithium carbonate adverse reaction __label__T88.7
+bleomycin poisoning __label__T45.1
+Polygonum species poisoning __label__X49.99
+facial hematoma __label__S00.8
+carbon monoxide fumes from conflagration in convalescent home __label__X00.99
+acral Darier's disease __label__Q82.8
+zolpidem adverse reaction __label__T88.7
+poisoning caused by mitomycin __label__T45.1
+accidental lithium and/or lithium compound overdose __label__X49.99
+history of arterial bypass of lower limb artery __label__Z95.8
+primary multifocal basal cell carcinoma __label__C44.9
+MPO __label__D72.8
+hepatic amyloidosis __label__E85.4
+adverse reaction to fibrinolytic drugs __label__T88.7
+accidental doxorubicin poisoning __label__X44.99
+congenital absence of arch of cervical vertebra __label__Q76.4
+EEM syndrome __label__Q87.8
+antiemetic overdose __label__X44.99
+ifosfamide poisoning __label__X44.99
+ifosfamide overdose __label__T45.1
+ceftriaxone overdose __label__X44.99
+accidental paclitaxel poisoning __label__T45.1
+parasympathomimetic adverse reaction __label__T88.7
+theophylline overdose __label__X44.99
+deficiency of phosphoribokinase __label__E88.0
+injury in water transport caused by engine room machinery __label__T14.9
+deficiency of phosphatidate phosphatase __label__E88.0
+gunshot wound of left axilla __label__W34.99
+polybrominated biphenyl poisoning __label__X49.99
+history of renal transplant __label__Z94.0
+erythrokeratoderma en cocarde (Degos) __label__Q82.8
+bilateral transplant failure of corneas __label__T86.8
+deficiency of phospholipase A>2< __label__E88.0
+accidental poisoning caused by metal and/or metal compound __label__X49.99
+cryptorchidism, arachnodactyly, intellectual disability syndrome __label__Q87.8
+deficiency of phosphoribosylformylglycinamidine cyclo-ligase __label__E88.0
+PELVIS (Perineal haemangioma, external genitalia malformation, lipomyelomeningocele, vesicorenal abnormality, imperforate anus) syndrome __label__Q87.8
+choreoathetosis with congenital hypothyroidism and neonatal respiratory distress syndrome __label__Q87.8
+X-linked intellectual disability Van Esch type __label__Q87.8
+Hunter-Thompson dysplasia __label__Q87.8
+actinomycin D overdose __label__T45.1
+intentional perphenazine overdose __label__X61.99
+sacral hemivertebra __label__Q76.4
+plicamycin adverse reaction __label__T88.7
+deficiency of aldoketomutase __label__E88.0
+accidental dextromethorphan poisoning __label__X44.99
+neoplasm of uncertain behaviour of upper limb __label__D48.7
+FB in middle ear __label__W44.99
+poisoning by digoxin __label__X44.99
+congenital hypoplasia of zygomatic bone __label__Q75.8
+DDOD (dominant deafness onychodystrophy) syndrome __label__Q87.8
+accidental ethambutol poisoning __label__X44.99
+Atkin Flaitz syndrome __label__Q87.8
+malignant eccrine spiradenoma __label__C44.9
+calcineurin inhibitor poisoning __label__X44.99
+acetone on breath __label__R19.8
+nitrogen mustard derivative poisoning __label__T45.1
+accelerated rejection of intestine transplant __label__T86.8
+adverse reaction to ganglion blocking drug __label__T88.7
+jump from burning private garage __label__X00.99
+aplasia cutis congenita associated with foetus papyraceus (Type 5) __label__Q84.8
+puffer-fish paralysis __label__X49.99
+very preterm maturity of infant __label__P07.2
+Hailey-Hailey disease __label__Q82.8
+poisoning caused by acetylcysteine __label__X44.99
+hit by object falling from burning house __label__X00.99
+primidone poisoning __label__X41.99
+absence of pulse in left anterior tibial artery __label__R09.8
+cardiocranial syndrome Pfeiffer type __label__Q87.8
+pseudopterygium of bilateral eyes __label__H11.8
+accidental procarbazine poisoning __label__X44.99
+nonvenomous insect bite of interscapular region with infection __label__L08.9
+autosomal recessive faciodigitogenital syndrome __label__Q87.8
+oestriol adverse reaction __label__T88.7
+homoeopathic medicine adverse reaction __label__T88.7
+congenital abnormal fusion of arch of thoracic vertebra __label__Q76.4
+poisoning caused by barbitone __label__X41.99
+adverse reaction to hydrotalcite __label__T88.7
+gastric aspirate containing liquor __label__R19.8
+benzocaine adverse reaction __label__T88.7
+butyrophenone poisoning __label__X41.99
+dyschondrosteosis and nephritis syndrome __label__Q87.8
+deficiency of serine aldolase __label__E88.0
+right index finger blister with infection __label__L08.9
+adverse reaction to ipratropium __label__T88.7
+poisoning by prochlorperazine __label__T43.3
+congenital absence of all toes __label__Q72.3
+accidental poisoning caused by prochlorperazine __label__T43.3
+gastric haemorrhage due to allergic gastritis __label__K29.6
+congenital partial fusion of spine - unbalanced __label__Q76.4
+accidental cefotaxime poisoning __label__X44.99
+Datura stramonium poisoning __label__X49.99
+alimentary toxic aleukia __label__X49.99
+chlorpromazine poisoning __label__T43.3
+complement deficiency disease __label__D84.1
+congenital absence of exoccipital bone __label__Q75.8
+vindesine poisoning __label__X44.99
+papillary digital eccrine carcinoma __label__C44.9
+contracture with ectodermal dysplasia and orofacial cleft syndrome __label__Q87.8
+medial external iliac lymphadenopathy __label__R59.0
+adverse reaction to tobramycin __label__T88.7
+noncollision motor vehicle traffic accident involving fire starting in motor vehicle whilst in motion, driver of motor vehicle injured __label__V87.89
+poisoning by cyclophosphamide __label__X44.99
+craniosynostosis, hydrocephalus, Arnold Chiari I malformation, radioulnar synostosis __label__Q87.8
+deficiency of progesterone 11alpha-hydroxylase __label__E88.0
+poisoning by sulphone __label__X44.99
+adverse reaction to phosphodiesterase 5 inhibitor __label__T88.7
+accidental poisoning caused by valproate __label__X41.99
+vertigo preceded by head injury __label__S09.9
+anomalous origin of circumflex artery from aortic sinus to right of nonfacing aortic sinus and anomalous origin of left anterior descending coronary artery and right coronary artery from aortic sinus to left of nonfacing aortic sinus __label__Q24.5
+adverse reaction to halothane __label__T88.7
+doll's head reflex absent __label__R29.2
+guttate hypopigmentation and punctate palmoplantar keratoderma with or without ectopic calcification __label__Q82.8
+open injury, superficial femoral artery __label__T13.1
+monoamine oxidase inhibitor adverse reaction __label__T88.7
+congenital abnormal fusion of basioccipital bone __label__Q75.8
+atherosclerosis of nonautologous biological bypass graft of bilateral lower limbs __label__Z95.8
+adverse reaction to doxepin __label__T88.7
+Kreiborg Pakistani syndrome __label__Q87.0
+abnormal uterine bleeding due to adenomyosis __label__N93.8
+lofepramine overdose __label__X41.99
+acquired cystic disease of transplanted kidney __label__Z94.0
+complicated fracture of ankle __label__S82.80
+EVEN-plus syndrome __label__Q87.0
+intentional benperidol overdose __label__X61.99
+cyclofenil adverse reaction __label__T88.7
+CEG - Chronic erosive gastritis __label__K29.6
+jump from burning tenement __label__X00.99
+autosomal dominant intellectual disability, craniofacial anomalies, cardiac defects syndrome __label__Q87.0
+poisoning by actinomycin __label__T45.1
+blister of fourth digit of left hand with infection __label__L08.9
+autosomal dominant palmoplantar keratoderma and congenital alopecia __label__Q82.8
+history of rectal haemorrhage __label__Z87.1
+fumbling __label__R29.2
+infected abrasion of right eyelid __label__L08.9
+macrocephaly, intellectual disability, autism syndrome __label__Q87.0
+accidental tryptophan overdose __label__X44.99
+accidental poisoning caused by tetracaine __label__X44.99
+poisoning by kaolin __label__X44.99
+patchy dementia __label__F03
+accidental clofibrate overdose __label__X44.99
+dominant primary localised cutaneous amyloidosis __label__E85.4
+adverse reaction to sulfafurazole __label__T88.7
+pumactant adverse reaction __label__T88.7
+accidental flucytosine poisoning __label__X44.99
+congenital misshapen nasal bone __label__Q75.8
+Elejalde syndrome __label__Q87.0
+spiramycin poisoning __label__X44.99
+cleft lip and palate, craniofacial dysmorphism, congenital heart defect, hearing loss syndrome __label__Q87.0
+SAM syndrome __label__Q82.8
+long QT syndrome type 9 __label__I45.8
+sleep related bruxism __label__F45.8
+non-healing surgical wound __label__T81.8
+deficiency of maleylacetoacetate isomerase __label__E88.0
+psychosomatic rheumatism __label__F45.8
+oral-facial-digital syndrome Gabrielli type __label__Q87.0
+white matter hypoplasia, corpus callosum agenesis, intellectual disability syndrome __label__Q87.0
+primary primitive neuroectodermal tumor __label__C71.9
+odynophagia __label__R19.8
+COVID-19 virus-like particle antigen vaccine adverse reaction __label__T88.7
+xeroderma in genetic syndrome __label__Q82.8
+cough reflex impaired __label__R29.2
+injury to parachutist on landing __label__T14.9
+staphylococcal infectious disease __label__A49.0
+syndromic multisystem autoimmune disease due to itchy E3 ubiquitin protein ligase deficiency __label__Q87.0
+sulfonyluric hypoglycaemic adverse reaction __label__T88.7
+poisoning by dactinomycin __label__X44.99
+foreign body in skin of face with infection __label__L08.9
+reflex disturbances due to substance use __label__R29.2
+subungual haematoma of index finger of left hand __label__L60.8
+lithium adverse reaction __label__T88.7
+atovaquone adverse reaction __label__T88.7
+FTDP-17 __label__G31.0
+familial scaphocephaly with radioulnar synostosis syndrome __label__Q87.8
+HPV __label__L08.9
+nonvenomous insect bite of shoulder with infection __label__L08.9
+deficiency of acetyl-coenzyme A acyltransferase __label__E88.0
+tremor of tongue __label__R19.8
+adverse reaction caused by ethionamide __label__T88.7
+de Barsey syndrome __label__Q87.8
+SLC35A3-CDG __label__Q87.8
+accidental poisoning caused by disinfectant __label__X49.99
+injury due to birdshot __label__W34.99
+anatricrotic pulse __label__R09.8
+infection due to Panton-Valentine leucocidin producing Staphylococcus aureus __label__A49.0
+congenital absence of premaxilla __label__Q75.8
+adverse reaction to isoflurane __label__T88.7
+levallorphan poisoning __label__X44.99
+velo-facial-skeletal syndrome __label__Q87.0
+poisoning caused by corrosive chemical __label__X49.99
+accidental cytarabine overdose __label__X44.99
+lomustine overdose __label__T45.1
+metal foreign body in upper limb __label__W45.99
+adverse reaction to hydroxyzine __label__T88.7
+poisoning caused by phenothiazine-based tranquilizer __label__X41.99
+serrated polyposis __label__D12.6
+congenital small hyoid bone __label__Q75.8
+rapidly progressive dementia __label__F03
+burn involving more than 90 percent of body surface, with 70-79 percent of body surface with full thickness burn __label__T31.9
+accidental pericyazine overdose __label__X41.99
+foreign body in skin of scalp with infection __label__L08.9
+poisoning caused by chlorambucil __label__X44.99
+intentional selegiline overdose __label__X61.99
+aniline poisoning __label__X49.99
+poisoning by phensuximide __label__X41.99
+PFIC1 - progressive familial intrahepatic cholestasis type 1 __label__K76.8
+bromazepam adverse reaction __label__T88.7
+bipartite ossification of supraoccipital bone __label__Q75.8
+volar plate injury of thumb joint __label__S69.8
+pyrazinamide adverse reaction __label__T88.7
+war injury due to heat from nuclear weapon __label__T14.9
+Mutchinick syndrome __label__Q87.8
+toxic effect of nitric acid __label__X49.99
+malathion adverse reaction __label__T88.7
+dermatofibrosarcoma protuberans with granular cell change __label__C44.9
+poisoning caused by blood product __label__X44.99
+partial aphalangia of lower limb __label__Q72.3
+undecenoate adverse reaction __label__T88.7
+deficiency of clostridium edematens beta- and gamma-toxins __label__E88.0
+deficiency of lipase __label__E88.0
+accidental famotidine poisoning __label__X44.99
+antimony compound poisoning __label__X49.99
+primary metatypical basal cell carcinoma of skin __label__C44.9
+injury due to suicide attempt __label__T14.9
+injury to swimmer by watercraft propeller __label__T14.9
+prepericardial lymphadenopathy __label__R59.0
+adverse reaction caused by male fern oleoresin __label__T88.7
+injury due to sword __label__T14.9
+intentional amsacrine overdose __label__T45.1
+Tribulus terrestris poisoning __label__X49.99
+deficiency of pyridine nucleotide transhydrogenase __label__E88.0
+accidental ingestion of ivy berries __label__X49.99
+adverse reaction to perphenazine __label__T88.7
+neoplasm of uncertain behavior of ocular adnexa __label__D48.7
+graffiti remover causing toxic effect __label__X49.99
+linum species poisoning __label__X49.99
+burning caused by conflagration in barn __label__X00.99
+non-depolarising muscle relaxant adverse reaction __label__T88.7
+estrogen and/or progesterone adverse reaction __label__T88.7
+antivaricose agent adverse reaction __label__T88.7
+family history of ventricular premature beats __label__Z82.4
+infected abrasion of right shoulder __label__L08.9
+atrophic hair __label__L67.8
+vegans' anemia __label__D52.0
+marijuana poisoning __label__X49.99
+neoplasm of uncertain behavior of pericardium __label__D48.7
+accidental sodium picosulphate overdose __label__X44.99
+intentional ethoglucid poisoning __label__T45.1
+antidromic atrioventricular reciprocating tachycardia utilizing atrio-ventricular accessory pathway with antegrade unidirectional conduction __label__I45.8
+foreign body in skin of first digit of right hand __label__W45.99
+low grade glandular intraepithelial neoplasia of large intestine __label__D12.6
+malignant tumour of skin with pilar differentiation __label__C44.9
+meperidine adverse reaction __label__T88.7
+accidental nikethamide poisoning __label__X44.99
+deficiency of transoximinase __label__E88.0
+traumatic blister of scalp, infected __label__L08.9
+victim of incest __label__T74.2
+poisoning caused by cactinomycin __label__T45.1
+toxic effect of hydrochloric acid __label__X49.99
+Hunter McAlpine craniosynostosis syndrome __label__Q87.0
+blister of first digit of right hand with infection __label__S69.8
+complement abnormality __label__D84.1
+intentional levomepromazine overdose __label__X61.99
+adverse reaction to chenodeoxycholic acid and/or ursodeoxycholic acid __label__T88.7
+welders' siderosis __label__X49.99
+accidental ciclosporin poisoning __label__T45.1
+accelerated rejection of pancreas transplant __label__T86.8
+accidental bulk-forming laxative overdose __label__X44.99
+lymphadenopathy of epiploic foramen __label__R59.0
+triceps reflex absent __label__R29.2
+deficiency of phosphoketolase __label__E88.0
+congenital abnormal fusion of centrum cartilage of thoracic vertebra __label__Q76.4
+subcapsular hematoma of spleen __label__S36.00
+poisoning caused by phenobarbital __label__X41.99
+Bosma Henkin Christiansen syndrome __label__Q87.8
+pancreatic insufficiency, dyserythropoietic anaemia, calvarial hyperostosis syndrome __label__Q75.8
+Helicobacter heilmannii gastritis __label__K29.6
+accidental etacrynic acid overdose __label__X44.99
+amnesic shellfish poisoning __label__X49.99
+antineoplastic overdose __label__X44.99
+flat base of skull __label__Q75.8
+adverse reaction to component of vaccine product containing only severe acute respiratory syndrome coronavirus 2 virus-like particle antigen __label__T88.7
+benign mesenchymoma of large intestine __label__D12.6
+dimethyl sulfoxide and/or idoxuridine adverse reaction __label__T88.7
+peristomal fistula __label__T81.8
+congenital fused cervical centrum cartilage __label__Q76.4
+pellet wound of groin __label__W34.99
+hypothyroidism, dysmorphism, postaxial polydactyly, intellectual disability syndrome __label__Q87.8
+adverse reaction to mercaptopurine __label__T88.7
+congenital presphenoid hole __label__Q75.8
+aplastic anemia due to toxic cause __label__X49.99
+noncollision motor vehicle traffic accident involving accidental poisoning from exhaust gas generated by motor vehicle whilst in motion, pedestrian injured __label__V87.89
+history of inflammatory bowel disease __label__Z87.1
+H/O: biliary disease __label__Z87.1
+hemichorea due to injury of head __label__S09.9
+Salamon's syndrome __label__Q89.8
+adverse reaction to fatty acid __label__T88.7
+flap failure __label__T86.8
+haemodynamic instability __label__R09.8
+desipramine adverse reaction __label__T88.7
+Hedera helix poisoning __label__X49.99
+adverse reaction to lomustine __label__T88.7
+wood splinter in heel __label__W45.99
+sacral dysgenesis __label__Q76.4
+OL-EDA-ID __label__Q87.8
+BIDS brittle hair-impaired intellect-decreased fertility-short stature syndrome __label__Q87.8
+intentional cyclosporin overdose __label__T45.1
+infected abrasion of skin of first digit of right hand __label__L08.9
+hereditary angioneurotic edema - type 1 __label__D84.1
+subungual haematoma of little finger of right hand __label__L60.8
+oestrogen adverse reaction __label__T88.7
+H/O: appendicitis __label__Z87.1
+deficiency of phenylpyruvate tautomerase __label__E88.0
+congenital absence of lumbar vertebra __label__Q76.4
+foreign body in skin of little finger __label__W45.99
+abnormal capillary refill time __label__R09.8
+B lymphocyte disorder __label__D72.8
+gold poisoning __label__X49.99
+primary hair dystrophy __label__L67.8
+FBLN1-related developmental delay, central nervous system anomaly, syndactyly syndrome __label__Q87.8
+pyrimethamine poisoning __label__X44.99
+Geigeria species poisoning __label__X49.99
+pain due to and following right wrist arthroplasty __label__T81.8
+closed fracture of neck of metacarpal bone __label__S62.30
+primary tethered spinal cord syndrome __label__Q76.4
+blister of ring finger of left hand with infection __label__L08.9
+poisoning by mephenesin __label__X41.99
+wood splinter in elbow __label__W45.99
+superficial foreign body in shoulder __label__W45.99
+problem with surgical scar __label__T81.8
+poisoning caused by nitrous oxide __label__X44.99
+adverse reaction to gliquidone __label__T88.7
+alopecia, contracture, dwarfism, intellectual disability syndrome __label__Q87.8
+melphalan overdose __label__T45.1
+onychoclasis __label__L60.8
+accidental amiodarone overdose __label__X44.99
+diflucortolone adverse reaction __label__T88.7
+mullerian duct and limb anomalies syndrome __label__Q87.8
+Crofton weed poisoning __label__X49.99
+folic acid adverse reaction __label__T88.7
+adverse reaction to rifampicin __label__T88.7
+graft versus host disease of intestine __label__T86.8
+bossed forehead __label__Q75.8
+right hand blister with infection __label__L08.9
+accidental treosulfan overdose __label__T45.1
+terlipressin adverse reaction __label__T88.7
+deficiency of nicotinamide adenine dinucleotide ^+^ nucleosidase __label__E88.0
+micronychia __label__L60.8
+hypogastric lymphadenopathy __label__R59.0
+Hymenoxys oderata poisoning __label__X49.99
+Finucane Kurtz Scott syndrome __label__Q87.0
+widened pulse pressure __label__R09.8
+iron oxide lung __label__X49.99
+Nova syndrome __label__Q87.8
+splinter of face, without major open wound, infected __label__S00.8
+lomustine poisoning __label__T45.1
+glabella reflex absent __label__R29.2
+Pinheiro, Freire Maia, Miranda syndrome __label__Q87.8
+stilbestrol adverse reaction __label__T88.7
+pigmented basal cell carcinoma __label__C44.9
+acrocephalosyndactyly type I __label__Q87.0
+lymphocytic gastritis __label__K29.6
+LMBB __label__Q87.8
+history of angioplasty __label__Z95.8
+deficiency of phosphoriboisomerase __label__E88.0
+lead breath __label__R19.8
+intravenous nutrition (vitamins) adverse reaction __label__T88.7
+subungual haematoma of thumb __label__L60.8
+infection of skin and/or mucous membrane caused by Herpes virus __label__L08.9
+suicide and selfinflicted poisoning by liquefied petroleum gas distributed in mobile containers __label__T59.8
+gunshot wound or right axilla __label__W34.99
+puncture wound of left shoulder __label__S41.0
+accidental sulphadiazine poisoning __label__X44.99
+congenital fused alisphenoid bone __label__Q75.8
+burning caused by ammonia __label__X49.99
+adverse reaction to hexylresorcinol __label__T88.7
+intentional phensuximide poisoning __label__X61.99
+closed head injury __label__S09.9
+accident caused by firearm missile __label__W34.99
+cardiovascular shunt observation __label__R09.8
+poisoning caused by penicillin G __label__X44.99
+deficiency of isocitrate dehydrogenase (NAD^+^) __label__E88.0
+carcinoma of maxilla __label__C41.0
+CHAPLE syndrome __label__D84.1
+family history of syncope __label__Z82.4
+injury due to legal intervention by grenade __label__T14.9
+dequalinium adverse reaction __label__T88.7
+poisoning by pentobarbitone __label__X41.99
+dacarbazine overdose __label__T45.1
+conjugated visual deviation __label__H53.8
+chlorpromazine overdose __label__X41.99
+intentional methotrimeprazine poisoning __label__T43.3
+biceps reflex present only with reinforcement __label__R29.2
+type 2 diabetes mellitus __label__E11.9
+impaired glucose tolerance in and individual with a heritable form of maturity onset diabetes in the young __label__E11.9
+congenital misshapen interparietal bone __label__Q75.8
+longitudinal brown stripes in nails __label__L60.8
+adverse reaction caused by diiodohydroxyquin __label__T88.7
+nitrate vasodilator overdose __label__X44.99
+gentamicin adverse reaction __label__T88.7
+congenital misshapen lacrimal bone __label__Q75.8
+traumatic blister of penis, infected __label__L08.9
+Rudd Klimek syndrome __label__Q87.8
+acquired stenosis of left ventricular component of common atrioventricular valve following repair of biventricular connection __label__I38
+adverse reaction caused by antineoplastic antibiotics __label__T88.7
+deficiency of transmethylase __label__E88.0
+fall whilst boarding or alighting from public service vehicle __label__V87.89
+wood splinter in eye region __label__W45.99
+congenital shortened trunk __label__Q89.8
+isotretinoin embryopathy-like syndrome __label__Q87.8
+poisoning by insulin __label__X44.99
+traumatic blister of face, infected __label__S00.8
+Nijmegen breakage syndrome-like disorder __label__Q87.8
+accidental triclofos poisoning __label__X41.99
+baby premature at delivery less than 23 weeks __label__P07.2
+retinopathy, anaemia, central nervous system anomalies syndrome __label__Q82.8
+amiodarone overdose __label__X44.99
+lead acetate causing toxic effect __label__X44.99
+aminoglycoside antibacterial overdose __label__X44.99
+splinter of back, without major open wound __label__W45.99
+DK phocomelia syndrome __label__Q87.8
+congenital anomaly of perineum __label__Q89.8
+subungual hematoma of first digit of left foot __label__L60.8
+complement 1s deficiency __label__D84.1
+non suicidal self inflicted injury __label__T14.9
+hyperdynamic circulation __label__R09.8
+superficial foreign body of lower leg with infection __label__L08.9
+malignant eccrine acrospiroma __label__C44.9
+bruxism __label__F45.8
+sulfafurazole adverse reaction __label__T88.7
+sprain of ligament of metatarsophalangeal joint of first toe of left foot __label__S93.5
+propionic acid derivative adverse reaction __label__T88.7
+closed fracture ankle, trimalleolar, low fibular fracture __label__S82.80
+DFSP - dermatofibrosarcoma protuberans __label__C44.9
+secondary occlusal trauma __label__S09.9
+multiple system malformation syndrome __label__Q87.8
+epithelioid leiomyosarcoma of skin __label__C44.9
+adverse reaction to lead and/or lead compound __label__T88.7
+poisoning by cycloguanil __label__X44.99
+poisoning by sulfafurazole __label__X44.99
+SCAR5 __label__Q82.8
+moderate cellular graft rejection __label__T86.8
+reduced ossification of exoccipital bone __label__Q75.8
+genetic disorder of nail __label__L60.8
+adenoma of large intestine __label__D12.6
+cefuroxime overdose __label__X44.99
+subungual hematoma of index finger of left hand __label__L60.8
+lye causing toxic effect __label__X49.99
+injury due to spear __label__T14.9
+anomalous origin of coronary arteries from anterior aortic sinus __label__Q24.5
+impaired chest percussion note __label__R09.8
+Colchicum autumnale poisoning __label__X49.99
+superficial foreign body of hand with infection __label__L08.9
+localised malignant reticulohistiocytoma __label__C44.9
+deficiency of alpha-ketoglutaric dehydrogenase __label__E88.0
+foreign body in skin of back with infection __label__W45.99
+localised non-hereditary amyloidosis __label__E85.4
+burning caused by conflagration in farmhouse __label__X00.99
+family history: Ischaemic heart disease at greater than 60 years __label__Z82.4
+accidental cefadroxil overdose __label__X44.99
+Hennekam lymphangiectasia-lymphoedema syndrome __label__Q87.8
+patient ventilator dyssynchrony __label__T81.8
+infected wound of left elbow due to non venomous insect bite __label__L08.9
+tetrodotoxin poisoning __label__X49.99
+risperidone adverse reaction __label__T88.7
+wavefront aberration of vision __label__H53.8
+poisoning caused by amphetamine and/or amphetamine derivative __label__X41.99
+aplasia cutis congenita with intestinal lymphangiectasia syndrome __label__Q84.8
+sigmoid lymphadenopathy __label__R59.0
+liver disease co-occurrent and due to mitochondrial disorder __label__K76.8
+pyogenic bacterial infection of skin and subcutaneous tissues __label__L08.9
+accidental poisoning caused by nitrazepam __label__X41.99
+orphenadrine hydrochloride adverse reaction __label__T88.7
+isolated thyrotropin deficiency __label__E03.8
+adverse reaction to coumarin __label__T88.7
+PHACES (Posterior fossa brain malformation, haemaniogma, arterial anomaly, cardiac defect and aortic coarctation, eye abnormality synodrome and sternal anomaly) syndrome __label__Q87.8
+benign neoplasm of colon __label__D12.6
+SCC __label__C44.9
+helicobacter pylori associated duodenitis __label__K29.8
+thrombocytopenia caused by cold __label__X31.99
+glycine adverse reaction __label__T88.7
+family history of long QT syndrome __label__Z82.4
+neoplasm of uncertain behavior of cheek __label__D48.7
+cardiac dyskinesia __label__R09.8
+acrodysplasia scoliosis __label__Q87.8
+disorder caused by exposure to radiation __label__T66
+localized secondary occlusal trauma __label__S09.9
+arsine poisoning __label__T57.0
+RAB18, member RAS oncogene family deficiency __label__Q87.8
+subluxed intraocular lens __label__T85.2
+blister of face without infection __label__S00.8
+deficiency of adenylylsulphate kinase __label__E88.0
+microcephaly, hypogammaglobulinemia, abnormal immunity syndrome __label__Q87.8
+Laband-Zimmermann syndrome __label__Q87.8
+chlamydial epididymitis __label__A56.1
+congenital absence of centrum of sacral vertebra __label__Q76.4
+accidental iprindole poisoning __label__X41.99
+diabetes-pancreatic exocrine dysfunction syndrome __label__E11.9
+spinal dysgenesis __label__Q76.4
+accidental paroxetine overdose __label__X41.99
+levothyroxine poisoning __label__X44.99
+dementia due to Whipple disease __label__F03
+chlormethine adverse reaction __label__T88.7
+poisoning by fluorinated corticosteroid __label__X44.99
+accidental poisoning by copper salt __label__X49.99
+pericyazine overdose __label__X41.99
+clorazepate overdose __label__X41.99
+poisoning by thio-TEPA __label__X44.99
+superficial foreign body of chest wall with infection __label__W45.99
+neurotoxicity __label__X49.99
+clarithromycin poisoning __label__X44.99
+does not like light __label__H53.8
+primary spindle cell squamous carcinoma of skin __label__C44.9
+closed traumatic dislocation of interphalangeal joint of lesser toe of right foot __label__S93.1
+injury due to explosion of breech block __label__T14.9
+closed trimalleolar fracture __label__S82.80
+history of insertion of inferior vena caval filter __label__Z95.8
+foreign body in hand __label__S69.8
+accidental poisoning caused by haloperidol __label__X41.99
+Portulaca oleracea poisoning __label__X49.99
+tertiary hypothyroidism __label__E03.8
+nonadherence with fluid volume management __label__Z91.1
+infected surgical wound __label__T81.4
+accidental tioguanine poisoning __label__X44.99
+adverse reaction caused by trimethadione __label__T88.7
+CHD3-related developmental delay, speech delay, intellectual disability, abnormalities of vision, facial dysmorphism syndrome __label__Q87.0
+thoracic hemivertebra __label__Q76.4
+cyclizine adverse reaction __label__T88.7
+saturnine poisoning __label__X49.99
+triazole antifungals adverse reaction __label__T88.7
+accidental zuclopenthixol decanoate overdose __label__X41.99
+thost-Unna diffuse palmoplantar keratoderma __label__Q82.8
+hit by object falling from burning hospital __label__X00.99
+temafloxacin adverse reaction __label__T88.7
+Howel Evans syndrome __label__Q82.8
+intentional lofepramine overdose __label__X61.99
+foreign body in skin of cheek __label__W45.99
+adverse reaction to promazine __label__T88.7
+Nicotiana tabacum poisoning __label__X49.99
+dumbbell ossification of lumbar centrum __label__Q76.4
+flexural Darier disease __label__Q82.8
+arsenic-induced skin malignancy __label__C44.9
+ventilator lung __label__T81.8
+congenital small basisphenoid bone __label__Q75.8
+bleomycin overdose __label__T45.1
+poisoning by procarbazine __label__T45.1
+labile type II diabetes mellitus __label__E11.9
+abnormal uterine bleeding due to endometrial hyperplasia __label__N93.8
+intellectual disability Birk-Barel type __label__Q87.8
+poisoning caused by paraldehyde __label__X41.99
+family scrophulariaceae poisoning __label__X49.99
+primary eccrine mixed tumor, malignant __label__C44.9
+clofazimine adverse reaction __label__T88.7
+primary ganglioneuroblastoma of brain __label__C71.9
+Kabuki make-up syndrome __label__Q87.0
+misoprostol overdose __label__X44.99
+explosion caused by conflagration in house __label__X00.99
+GRN-related frontotemporal dementia __label__G31.0
+absence of skull bone __label__Q75.8
+uses less medication than prescribed __label__Z91.1
+intentional treosulphan poisoning __label__T45.1
+adverse reaction to beclamide __label__T88.7
+anomalous origin of left coronary artery from right coronary artery __label__Q24.5
+cosmetic product causing toxic effect __label__X44.99
+cyclosporin poisoning __label__T45.1
+adverse reaction caused by human fibrinogen __label__T88.7
+disorder of neutrophil chemotaxis __label__D72.8
+closed fracture of fourth metacarpal __label__S62.30
+primary anaplastic syringoma __label__C44.9
+intentional quinalbarbitone poisoning __label__X61.99
+victim of child molestation __label__T74.2
+adverse reaction to antiparkinsonism drug __label__T88.7
+anomalous intramural course of proximal portion of coronary artery above aortic sinus of Valsalva __label__Q24.5
+Lolium rigidum poisoning __label__X49.99
+pivampicillin adverse reaction __label__T88.7
+craniofacial dysplasia, short stature, ectodermal anomalies, intellectual disability syndrome __label__Q87.0
+congenital cleft larynx and Opitz-Frias syndrome __label__Q87.8
+congenital coronal cleft of vertebra __label__Q76.4
+nicotinic acid adverse reaction __label__T88.7
+benign tubular adenoma of large intestine __label__D12.6
+pulmonary lymphadenopathy __label__R59.0
+noncompliance with self-monitoring regimen __label__Z91.1
+autosomal dominant cerebellar ataxia, deafness and narcolepsy syndrome __label__F03
+complement 5 dysfunction __label__D84.1
+intellectual disability, hypoplastic corpus callosum, preauricular tag syndrome __label__Q87.8
+deficiency of peptide hydrolase __label__E88.0
+fungal poisoning __label__X49.99
+mycosis fungoides of lymph nodes of head and neck __label__C84.0
+exaggerated JVP 'a' wave __label__R09.8
+photographic material causing toxic effect __label__X49.99
+accidental dichloralphenazone poisoning __label__X41.99
+poisoning caused by glibenclamide __label__X44.99
+adverse reaction to tetrabenazine __label__T88.7
+vasopressor adverse reaction __label__T88.7
+palmoplantar keratoderma sclerodactyly syndrome __label__Q82.8
+5-Hydroxytryptamine-3-receptor antagonist adverse reaction __label__T88.7
+congenital malformation of thoracic vertebra __label__Q76.4
+synophthalmus __label__Q87.0
+blister of toe, infected __label__L08.9
+etomidate adverse reaction __label__T88.7
+neuromuscular blocking agent adverse reaction __label__T88.7
+ankyloblepharon filiforme adnatum with cleft palate syndrome __label__Q87.0
+Adenium multiflorum poisoning __label__X49.99
+keratosis palmoplantaris striata __label__Q82.8
+poisoning caused by corticosteroid and/or corticosteroid derivative __label__X44.99
+baby premature 24-26 weeks __label__P07.2
+nonspecific granulomatous infiltration of stomach __label__K29.6
+liquorice adverse reaction __label__T88.7
+tetracycline poisoning __label__X44.99
+intentional flupenthixol decanoate poisoning __label__X61.99
+adverse reaction caused by acetanilide __label__T88.7
+adverse reaction to benserazide and/or levodopa __label__T88.7
+SCAR20 __label__Q87.8
+angle foreign body __label__W44.99
+congenital misaligned sacral arch __label__Q76.4
+ichthyosis follicularis with alopecia and photophobia __label__Q87.8
+blue nasal mucosa __label__R09.8
+poisoning by methohexital __label__X44.99
+adverse reaction to levodopa, L-dopa __label__T88.7
+malignant glioma of brain __label__C71.9
+complement 2 deficiency __label__D84.1
+congenital fused cervical centrum __label__Q76.4
+acrocephalosyndactyly, type III __label__Q87.0
+insect bite of face __label__S00.8
+coumafuryl poisoning __label__X44.99
+infection of skin of eyelid and periocular region __label__L08.9
+poisoning by hydantoin derivative __label__X41.99
+intentional pipothiazine overdose __label__X61.99
+poisoning due to shellfish contaminated with Gymnodinium __label__X49.99
+Darier disease __label__Q82.8
+primary pilomyxoid astrocytoma of brain __label__C71.9
+intractable diarrhoea with choanal atresia and eye anomaly syndrome __label__Q87.8
+subungual haematoma of first digit of right foot __label__L60.8
+accidental etretinate overdose __label__X44.99
+guarding of left iliac fossa __label__R19.8
+primary malignant neoplasm of carpal bone __label__C40.1
+congenital abnormal shape of arch of cervical vertebra __label__Q76.4
+blister of second digit of right hand with infection __label__L08.9
+misjudges distances __label__H53.8
+defects in the complement system __label__D84.1
+jump from burning factory __label__X00.99
+infection due to vancomycin intermediate Staphylococcus aureus __label__A49.0
+Chung Jansen syndrome __label__Q87.0
+adverse reaction to vidarabine __label__T88.7
+quinidine poisoning __label__X44.99
+liver firm __label__R19.8
+adverse reaction caused by adiphenine __label__T88.7
+infected abrasion of right forearm __label__L08.9
+fagopyrism __label__X49.99
+PXE-like (pseudoxanthoma elasticum-like) syndrome with retinitis pigmentosa __label__Q82.8
+FTDP-17 __label__G31.0
+Pilotto syndrome __label__Q87.0
+poisoning by cyclophosphamide __label__T45.1
+alymphocytosis __label__D72.8
+injury of oral cavity __label__S09.9
+MRSA __label__A49.0
+allergic drug reaction __label__T88.7
+Holmes Gang syndrome __label__Q87.0
+injury in water transport caused by deck machinery, swimmer injured __label__T14.9
+poisoning caused by oxytetracycline __label__X44.99
+disinhibited behaviour due to dementia __label__F03
+accidental levallorphan poisoning __label__X44.99
+accidental terpin hydrate poisoning __label__X44.99
+hypothermia caused by cold environment __label__X31.99
+erythroedema polyneuropathy __label__X49.99
+left gastric lymphadenopathy __label__R59.0
+infected wound of right wrist due to non venomous insect bite __label__L08.9
+photosensitivity with ichthyosis, brittle hair, impaired intelligence, decreased fertility and short stature syndrome __label__Q87.8
+poisoning by anesthetic agent __label__X44.99
+Narthecium ossifragum poisoning __label__X49.99
+congenital malpositioned sacral vertebra __label__Q76.4
+KRT1-related diffuse NEPPK (nonepidermolytic palmoplantar keratoderma) __label__Q82.8
+nail wound of trunk __label__W45.99
+tripelennamine poisoning __label__X44.99
+intentional cyclophosphamide poisoning __label__T45.1
+Trema aspera poisoning __label__X49.99
+accidental tolbutamide poisoning __label__X44.99
+adverse reaction to antineoplastic antibiotics __label__T88.7
+adverse reaction to phensuximide __label__T88.7
+cold-induced dermatosis __label__X31.99
+accidental salbutamol poisoning __label__T48.6
+BCNS __label__Q87.0
+hepatic cyst __label__K76.8
+betaxolol adverse reaction __label__T88.7
+motor vehicle traffic accident due to motor vehicle going out of control due to failure of mechanical part, without collision on the highway __label__V87.89
+hairy vetch poisoning __label__X49.99
+deficiency of imidodipeptidase __label__E88.0
+Descurainia pinnata poisoning __label__X49.99
+anterior cervical lymphadenopathy __label__R59.0
+trazodone poisoning __label__X41.99
+Opitz trigonocephaly-like syndrome __label__Q87.8
+larkspur poisoning __label__X49.99
+amobarbital overdose __label__X41.99
+nodule of liver __label__K76.8
+accidental clozapine overdose __label__X41.99
+acridine derivative azo adverse reaction __label__T88.7
+intentional midazolam poisoning __label__X61.99
+adverse reaction caused by valsartan __label__T88.7
+congenital anomaly of coronary artery __label__Q24.5
+Finnish lactic acidosis with hepatic hemosiderosis __label__Q87.8
+biguanide disinfectant adverse reaction __label__T88.7
+superficial foreign body in perineum __label__W45.99
+abusive sexual relationship __label__T74.2
+elephant's ear poisoning __label__X49.99
+traumatic blister of lower limb, infected __label__L08.9
+post BCG vaccination encephalitis __label__T88.7
+accidental iproniazid overdose __label__X44.99
+congenital hypoplasia of alisphenoid bone __label__Q75.8
+intentional pimozide overdose __label__X61.99
+blister of first digit of right hand with infection __label__L08.9
+tioconazole adverse reaction __label__T88.7
+postoperative pain __label__T81.8
+antithyroid agent overdose __label__X44.99
+inflammation of pelvis caused by Chlamydia trachomatis __label__A56.1
+transdermal glyceryl trinitrate adverse reaction __label__T88.7
+respiratory clicking sound __label__R09.8
+dermatofibrosarcoma protuberans with giant cell fibroblastoma __label__C44.9
+Zimmermann-Laband syndrome __label__Q87.8
+contusion of coronoid process of mandible __label__S00.8
+intellectual disability, balding, patella luxation, acromicria syndrome __label__Q87.8
+bilateral pseudopterygium __label__H11.8
+congenital absence of arch of lumbar vertebra __label__Q76.4
+unequal blood pressure in arms __label__R09.8
+adverse reaction caused by lipotropic drugs __label__T88.7
+decay accelerating factor deficiency __label__D84.1
+diminished pulse __label__R09.8
+poisoning by glibenclamide __label__X44.99
+pruritus and inflammation of skin __label__L08.9
+pholcodine adverse reaction __label__T88.7
+dermatosis due to hair as foreign body __label__W45.99
+Webster Deming syndrome __label__Q87.8
+adverse reaction to clobazam __label__T88.7
+accidental fluorouracil poisoning __label__T45.1
+decreased reflex __label__R29.2
+turtleback nail __label__L60.8
+foreign body in skin of back with infection __label__L08.9
+atrial premature depolarization with aberrant ventricular conduction __label__I45.8
+war injury due to exposure to ionising radiation from nuclear weapon __label__T14.9
+Warman Mulliken Hayward syndrome __label__Q75.8
+toe sprain __label__S93.5
+mycosis fungoides (clinical) __label__C84.0
+blister of elbow with infection __label__L08.9
+combined reduction defect of upper and lower limbs __label__Q72.9
+deficiency of 2,5-diaminovalerate aminotransferase __label__E88.0
+oculo-digito-esophagoduodenal syndrome __label__Q87.8
+chronic hepatic failure due to portosystemic shunt __label__R09.8
+fibric acid and/or fibric acid derivative adverse reaction __label__T88.7
+lymecycline adverse reaction __label__T88.7
+focal nodular hyperplasia of liver __label__K76.8
+psychogenic symptom of special sense organ __label__F45.8
+left elbow blister with infection __label__L08.9
+superficial foreign body of penis with infection __label__L08.9
+ileal pouch anal anastomosis related faecal incontinence __label__T81.8
+simian crease __label__Q82.8
+deficiency of diamino-acid aminotransferase __label__E88.0
+nonvenomous snake bite wound of lower extremity __label__T13.1
+craniocerebellocardiac dysplasia __label__Q87.8
+mannitol adverse reaction __label__T88.7
+adverse reaction caused by antidiabetic drug __label__T88.7
+infected wound of left hip due to nonvenomous insect bite __label__L08.9
+POIKTMP syndrome __label__Q82.8
+tolazamide adverse reaction __label__T88.7
+propranolol adverse reaction __label__T88.7
+St.John's wort poisoning __label__X49.99
+pellet wound of cheek __label__W34.99
+diethylstilbestrol poisoning __label__X44.99
+CSA __label__Y07.99
+accidental overdose of methylenedioxymethamphetamine __label__X41.99
+deficiency of ribosomal cathepsin __label__E88.0
+FALD - Fontan associated liver disease __label__K76.8
+non-healing of skin donor site __label__T81.8
+SCC __label__C44.9
+deafness with cataract and skeletal anomaly syndrome __label__Q87.8
+WITKOS - Witteveen Kolk syndrome __label__Q87.0
+accidental ciclosporin overdose __label__X44.99
+ritodrine adverse reaction __label__T88.7
+poisoning by butabarbital __label__X41.99
+MAOI __label__X41.99
+blister of right hand with infection __label__S69.8
+mifepristone adverse reaction __label__T88.7
+intellectual disability, autism, speech apraxia, craniofacial dysmorphism syndrome __label__Q87.0
+skin graft necrosis __label__T86.8
+Nolina texana poisoning __label__X49.99
+chlorpromazine overdose __label__T43.3
+adverse reaction to tetracaine __label__T88.7
+heart valve disorder __label__I38
+localized swelling on back __label__R22.2
+frostbite with tissue necrosis of abdominal wall, lower back and pelvis __label__X31.99
+Brassica oleracea poisoning __label__X49.99
+accidental ingestion of checkerberries __label__X49.99
+poisoning by fungus __label__X49.99
+pleuropericardial friction rub __label__R09.8
+general anesthetic drug overdose __label__X44.99
+drug-induced neutrophilia __label__D72.8
+DSP - Diarrhoeic shellfish poisoning __label__X49.99
+deficiency of retinyl-palmitate esterase __label__E88.0
+vinblastine adverse reaction __label__T88.7
+left hand blister with infection __label__L08.9
+adhesive causing toxic effect __label__X49.99
+osteosarcoma of bone of head __label__C41.0
+South African daisy poisoning __label__X49.99
+developmental anomaly of odontoid process __label__Q76.4
+congenital abnormal shape of squamosal bone __label__Q75.8
+progressive palmoplantar keratoderma __label__Q82.8
+HI - Head injury __label__S09.9
+recurrent Neisseria infection due to factor D deficiency __label__D84.1
+postprandial diarrhoea __label__R19.8
+chronic beryllium lung __label__X49.99
+poisoning by theophylline __label__X44.99
+diffuse pretibial myxedema __label__E03.8
+poisoning by ingestion of fish contaminated by bacteria __label__X49.99
+sodium morrhuate poisoning __label__X44.99
+epilepsy co-occurrent and due to dementia __label__F03
+altered behaviour due to Pick's disease __label__G31.0
+history of haemorrhoid __label__Z87.1
+neutrophil cytomatrix disorder __label__D72.8
+MacDermot Winter syndrome __label__Q87.8
+delayed visual maturation __label__H53.8
+deficiency of L-arabinose dehydrogenase __label__E88.0
+clozapine adverse reaction __label__T88.7
+nonvenomous insect bite of face without infection __label__S00.8
+oxalate poisoning __label__X49.99
+third degree burn of left lower leg __label__T24.3
+dILS - diffuse infiltrative lymphocytosis syndrome __label__D72.8
+thyroglobulin poisoning __label__X44.99
+sacralisation of lumbar vertebra __label__Q76.4
+ampicillin and/or flucloxacillin adverse reaction __label__T88.7
+hidradenocarcinoma __label__C44.9
+spontaneous subcapsular liver hematoma __label__K76.8
+poisoning by ethionamide __label__X44.99
+incomplete ossification of supraoccipital bone __label__Q75.8
+iproniazid overdose __label__X41.99
+type 2 diabetes mellitus uncontrolled __label__E11.9
+metal foreign body in finger __label__S69.8
+ectodermal dysplasia with sweating defect __label__Q82.8
+anterior perimaxillary faciosynostosis __label__Q75.8
+fishing hook in cheek __label__W45.99
+Rayless goldenrod poisoning __label__X49.99
+spina bifida __label__Q05.9
+monosulphiram adverse reaction __label__T88.7
+bolus impaction __label__R19.8
+granulomatous mycosis fungoides __label__C84.0
+antidromic atrioventricular reciprocating tachycardia utilising atrio-fascicular accessory pathway with antegrade unidirectional conduction __label__I45.8
+left atrial appendage occlusion device present __label__Z95.8
+clomethiazole overdose __label__X41.99
+presenile dementia with depression __label__F03
+congenital abnormal fusion of basisphenoid bone __label__Q75.8
+disorder of phagocytic cell number __label__D72.8
+injury of external ear __label__S09.9
+thonzylamine poisoning __label__X44.99
+carfecillin adverse reaction __label__T88.7
+accidental streptokinase overdose __label__X44.99
+accidental ingestion of fugu __label__X49.99
+clomiphene adverse reaction __label__T88.7
+acquired disorder of neutrophil function __label__D72.8
+intentional prochlorperazine overdose __label__T43.3
+MODY7 __label__E11.9
+Teebi Shaltout syndrome __label__Q87.0
+dyschezia __label__R19.8
+desert riceflower poisoning __label__X49.99
+supinator reflex delayed __label__R29.2
+anomalous origin of circumflex artery from sinus 1 and anomalous origin of left anterior descending coronary artery and right coronary artery from sinus 2 __label__Q24.5
+open traumatic dislocation of interphalangeal joint of right great toe __label__S93.1
+foreign body in angle __label__W44.99
+accidental piperazine overdose __label__X44.99
+accidental ingestion of lantana berries __label__X49.99
+accidental ingestion of tetraodon __label__X49.99
+Gonzales-del Angel syndrome __label__Q75.8
+hereditary glomerulonephritis __label__Q87.8
+orocraniodigital syndrome __label__Q87.0
+tripelennamine overdose __label__X44.99
+subpulmonary stenosis as complication of procedure __label__T81.8
+ptosis, upper ocular movement limitation, absence of lacrimal punctum syndrome __label__Q87.0
+AMACR deficiency __label__K76.8
