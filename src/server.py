@@ -2,7 +2,7 @@ from flask import Flask
 #Model and input data preparation
 import fasttext
 import pandas as pd
-model = fasttext.load_model("./src/ICD10.bin")
+model = fasttext.load_model("./model/ICD10.bin")
 
 #text preprocessing
 import nltk

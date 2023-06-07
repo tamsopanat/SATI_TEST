@@ -1,3 +1,1660 @@
+tobacco poison __label__X49.99
+der kaloustian mcintosh silver syndrom __label__Q87.8
+haematoma spleen without ruptur capsul without open wound abdomin caviti __label__S36.00
+airway contain vomitu __label__W44.99
+goldberg shprintzen megacolon syndrom __label__Q87.8
+diphenylpyralin advers reaction __label__T88.7
+ulcer small intestin caus foreign bodi __label__W44.99
+face facial dysmorph anorexia cachexia eye skin anomali syndrom __label__Q87.0
+foreign bodi skin peni infect __label__L08.9
+heart valv regurgit __label__I38
+open traumat disloc metatarsophalang joint first digit right foot __label__S93.1
+gunshot wound right knee region __label__W34.99
+accident ergot alkaloid overdos __label__X44.99
+nbcc __label__Q87.0
+aleurit fordii poison __label__X49.99
+congenit absenc fingerprint __label__Q82.8
+bleomycin overdos __label__X44.99
+antileprot drug advers reaction __label__T88.7
+dual specif tyrosin phosphoryl regul kina 1arel intellectu disabl syndrom __label__Q87.8
+neurotox caus procarbazin __label__X44.99
+nail wound shoulder __label__S41.0
+leukonychia totali trichilemm cyst ciliari dystrophi syndrom __label__L60.8
+accident nandrolon overdos __label__X44.99
+agenesi neurocranium __label__Q75.8
+endocrinecerebroosteodysplasia syndrom __label__Q87.8
+accident poison caus barbitur __label__X41.99
+hit object fall burn caravan __label__X00.99
+methotrimeprazin overdos __label__X41.99
+jatropha curca poison __label__X49.99
+defici 3oxoadip coenzym atransferas __label__E88.0
+injuri mouth __label__S09.9
+dicobalt edet advers reaction __label__T88.7
+cough suppress advers reaction __label__T88.7
+defici triokinas __label__E88.0
+bacteraemia due methicillin resist staphylococcu aureu __label__A49.0
+defici glucose1phosphatas __label__E88.0
+low grade glioma brain __label__C71.9
+chronic reject lung transplant __label__T86.8
+hepatopulmonari syndrom __label__K76.8
+advers drug interact drug __label__T88.7
+advers cutan reaction diagnost procedur __label__T81.8
+advers reaction ticarcillin __label__T88.7
+mota manitoba oculotrichoan syndrom __label__Q87.8
+ffdd type 4 __label__Q82.8
+craniomandibular osteopathi __label__M89.98
+dermatofibrosarcoma __label__C44.9
+pale nail bed __label__L60.8
+xlink intellectu disabl cillier type __label__Q87.8
+open traumat disloc metatarsophalang joint left great toe __label__S93.1
+right lower leg blister infect __label__L08.9
+defici nucleosidephosph kina __label__E88.0
+richieri costada silva syndrom __label__Q87.8
+poison caus thiotepa __label__X44.99
+acrocardiofaci syndrom __label__Q87.8
+bilater acquir overrid toe foot __label__M20.5
+poison caus ethosuximid __label__X41.99
+springbokbush poison __label__X49.99
+cheilanth sinnata poison __label__X49.99
+gomphrena celosiod poison __label__X49.99
+ventral pterygium __label__L60.8
+aa amyloid nephropathi __label__E85.4
+intent clomipramin overdos __label__X61.99
+intent pipotiazin poison __label__T43.3
+penicillin antibacteri overdos __label__X44.99
+acquir angioneurot edema c1 inhibitor defici __label__D84.1
+accident bromazepam overdos __label__X41.99
+deposit soot trachea __label__W44.99
+foreign bodi skin sole foot __label__W45.99
+accident treosulphan overdos __label__T45.1
+difficult defec __label__R19.8
+famili histori congest heart failur __label__Z82.4
+ffdd __label__Q82.8
+coloni stimul factor advers reaction __label__T88.7
+left colic lymphadenopathi __label__R59.0
+buttercup poison __label__X49.99
+foveolar hyperplasia __label__K29.6
+persist lymphocytosi __label__D72.8
+full thick burn abdomen __label__T21.3
+syndrom diarrhea __label__Q87.8
+defici prolidas __label__E88.0
+splinter buttock without major open wound infect __label__L08.9
+trichoschisi __label__L67.8
+rhe retinohepatoendocrinolog syndrom __label__Q87.8
+accident poison antiknock addit petroleum __label__X49.99
+diaphragmat herniaexomphaloscorpu callosum agenesi __label__Q87.8
+carpent syndrom __label__Q87.0
+barbitur antiepilept advers reaction __label__T88.7
+traumat injuri right middl ear __label__S09.9
+dexamphetamin advers reaction __label__T88.7
+hypoplasia lower limb __label__Q72.9
+accident poison caus bromid __label__X41.99
+hyperalbuminaemia __label__E88.0
+mast cell stabil advers reaction __label__T88.7
+donnaibarrow syndrom __label__Q87.8
+antimalari drug overdos __label__X44.99
+frontotempor dementia gene locat 3p11 __label__G31.0
+third degre burn multipl site lower leg __label__T24.3
+superfici foreign bodi flank infect __label__W45.99
+poppi poison __label__X49.99
+accident enfluran poison __label__X44.99
+granulocytosi __label__D72.8
+abdomin compart syndrom __label__R19.8
+infect toe web __label__L08.9
+foreign bodi skin right half chest __label__W45.99
+summitt syndrom __label__Q87.0
+fractur neck metacarp bone __label__S62.30
+renal dysplasia mesomelia radiohumer fusion syndrom __label__Q87.8
+cardiac arrest surgeri __label__T81.8
+poor site stoma __label__T81.8
+thyrocerebroren syndrom __label__Q87.8
+cycloguanil poison __label__X44.99
+sulphadiazin poison __label__X44.99
+cinchon __label__X49.99
+gliclazid advers reaction __label__T88.7
+injuri due legal intervent cut stab instrument __label__T14.9
+brake fluid caus toxic effect __label__X49.99
+scotop sensit __label__H53.8
+accident carbenicillin poison __label__X44.99
+splinter foot __label__W45.99
+superfici foreign bodi gum infect __label__L08.9
+right shoulder blister infect __label__L08.9
+intent ciclosporin overdos __label__T45.1
+dalteparin advers reaction __label__T88.7
+chloral hydrat poison __label__X41.99
+agenesi cervic arch __label__Q76.4
+neurotox due procarbazin __label__T45.1
+poison carbon acid anhydras inhibitor __label__X44.99
+beract advers reaction __label__T88.7
+sever cellular graft reject __label__T86.8
+neoplasm uncertain behaviour sacrococcyg region __label__D48.7
+poison phenolphthalein __label__X44.99
+injuri whilst board alight stationari train __label__T14.9
+anomal origin accessori coronari arteri pulmonari arteri __label__Q24.5
+advers reaction caus barbitur __label__T88.7
+congenit atransferrinaemia __label__E88.0
+toxic effect cresol __label__X44.99
+intent amsacrin poison __label__T45.1
+lypressin advers reaction __label__T88.7
+aldosteron antagonist advers reaction __label__T88.7
+rald __label__D72.8
+ocular amyloid deposit __label__E85.4
+modifi releas glyceryl trinitr advers reaction __label__T88.7
+hallermann streiff françoi syndrom sever form __label__Q87.0
+itm2brel cerebr amyloid angiopathi __label__E85.4
+cheek injuri __label__S09.9
+primari dystroph hair __label__L67.8
+rbc trap liver __label__K76.8
+local congenit cuti laxa __label__Q82.8
+advers reaction caus drug __label__T88.7
+holzgrev syndrom __label__Q87.8
+chronic granulomat gastriti __label__K29.6
+superfici metal foreign bodi __label__W45.99
+zygadenu speci poison __label__X49.99
+foreign bodi face __label__S00.8
+tetrabenazin poison __label__X41.99
+injuri aircraft rotat propel without accid aircraft parachutist injur __label__V97.29
+xlink recess intellectu disabl macrocephali ciliari dysfunct syndrom __label__Q87.0
+poison thiamphenicol __label__X44.99
+aclarubicin overdos __label__X44.99
+superfici injuri vagina infect __label__L08.9
+neoplasm uncertain behaviour supraclavicular region __label__D48.7
+superfici foreign bodi skin head neck __label__W45.99
+digitali purpurea poison __label__X49.99
+injuri complic pregnanc __label__T14.9
+accident benperidol poison __label__X41.99
+hematoma spleen without ruptur capsul without open wound abdomin caviti __label__S36.00
+aminoglutethimid overdos __label__X44.99
+keratoderma woolli hair type __label__Q87.8
+congenit absenc sacral centrum __label__Q76.4
+digoxin advers reaction __label__T88.7
+defici phosphoglycer mutas __label__E88.0
+keratosi folliculari __label__Q82.8
+advers reaction caus sulphamethoxazol __label__T88.7
+accident pentostatin overdos __label__X44.99
+injuri driver nonrac motor bicycl driven public roadway __label__T14.9
+accident ethambutol overdos __label__X44.99
+poison nitrit __label__X44.99
+injuri machineri aircraft __label__T14.9
+infect tendon repair __label__T81.4
+disulfiram overdos __label__X44.99
+fever procedur __label__T81.4
+simosa penchaszadeh busto syndrom __label__Q87.0
+noncompli medic regimen __label__Z91.1
+baraits brett piesowicz syndrom __label__Q87.8
+congenit sacral meningocel conotrunc heart defect syndrom __label__Q87.8
+polyorchid __label__Q55.2
+ulcer stomach due lymphocyt gastriti __label__K29.6
+advers reaction succinimid __label__T88.7
+hypertelor teebi type __label__Q87.0
+short qt syndrom __label__I45.8
+abscess follow procedur __label__T81.4
+ulcero mutil hemangiomatosi __label__Q82.8
+allograft arteriopathi __label__T86.8
+osteoporosi macrocephali blind joint hypermobl syndrom __label__Q87.8
+progress famili heart block __label__I45.8
+maoi monoamin oxidas inhibitor poison __label__X41.99
+advers reaction inosin pranobex __label__T88.7
+questionmark ear syndrom __label__Q75.8
+paraaminophenol deriv advers reaction __label__T88.7
+fume combust polyvinylchlorid similar materi conflagr hotel __label__X00.99
+serum albumin low __label__E88.0
+war injuri due fragment shrapnel __label__T14.9
+accident guanethidin overdos __label__X44.99
+defici malto phosphorylas __label__E88.0
+superfici foreign bodi skin genitalia __label__W45.99
+accident desipramin overdos __label__X41.99
+poison caus aluminium hydroxid __label__X44.99
+persist human tail __label__Q76.4
+vitamin poison __label__X44.99
+dumbbel ossif centrum thorac vertebra __label__Q76.4
+thiopenton advers reaction __label__T88.7
+humour graft reject __label__T86.8
+accid caus jump burn public build __label__X00.99
+blister cheek infect __label__S00.8
+accid board aircraft parachutist injur __label__V97.29
+defici transglycosylas __label__E88.0
+incomplet ossif presphenoid bone __label__Q75.8
+chlorprothixen advers reaction __label__T88.7
+cephamandol advers reaction __label__T88.7
+reduc chest reson percuss __label__R09.8
+superfici foreign bodi gum __label__W45.99
+antidrom atrioventricular reciproc tachycardia utilis accessori pathway bidirect conduct __label__I45.8
+presenc inferior vena cava filter __label__Z95.8
+corticosteroid andor corticosteroid deriv overdos __label__X44.99
+left index finger blister infect __label__L08.9
+traumat blister scapular region infect __label__L08.9
+chronic postthoracotomi pain __label__T81.8
+impair gastric mucos defenc __label__R19.8
+hoffman reflex posit __label__R29.2
+mefrusid advers reaction __label__T88.7
+congenit fuse squamos bone __label__Q75.8
+accident heparin poison __label__X44.99
+gelatin advers reaction __label__T88.7
+nodul skin abdomen __label__R22.2
+accident pericyazin overdos __label__T43.3
+jump burn caravan __label__X00.99
+foreign bodi skin toe __label__W45.99
+xlink intellectu disabl wilson type __label__Q87.8
+left knee blister infect __label__L08.9
+accident busulfan poison __label__T45.1
+teeth stain caus metal __label__K03.7
+skin reaction caus sutur materi __label__T81.4
+accident antimoni compound overdos __label__X49.99
+boyadjiev jab syndrom __label__Q75.8
+poison caus minocyclin __label__X44.99
+staphylococcu aureu bacteraemia __label__A49.0
+congenit absenc pariet bone __label__Q75.8
+accident insulin poison __label__X44.99
+mersalyl poison __label__X44.99
+paraaminosalicyl acid poison __label__X44.99
+signet ring squamou cell carcinoma __label__C44.9
+advers reaction pentamethonium bromid __label__T88.7
+foreign bodi thumb __label__W45.99
+cyclophosphamid poison __label__T45.1
+famili euphorbiacea poison __label__X49.99
+close traumat disloc interphalang joint lesser toe left foot __label__S93.1
+macromolecular blood substitut poison __label__X44.99
+type ii dissect thorac aorta __label__I71.0
+accid caus smoke conflagr commerci premis __label__X00.99
+waardenburg shah syndrom __label__Q87.8
+central alpha2 adrenerg receptor agonist overdos __label__X44.99
+ohdo syndrom saybarberbieseckeryoungsimpson variant __label__Q87.8
+poison caus amitriptylin __label__X41.99
+intent melphalan overdos __label__T45.1
+foreign bodi skin nose __label__W45.99
+occlus trauma __label__S09.9
+supernumerari sacral centrum __label__Q76.4
+nonadher safeti precaut __label__Z91.1
+reactiv gastriti __label__K29.6
+agenesi lumbar centrum __label__Q76.4
+injuri water transport caus deck machineri __label__T14.9
+conjunctiv lymphangiectasi __label__H11.8
+nail wound head neck __label__W45.99
+liquid paraffin advers reaction __label__T88.7
+traumat blister back infect __label__L08.9
+accessori skin tag __label__Q82.8
+fish hook perineum __label__W45.99
+mefloquin advers reaction __label__T88.7
+insect bite nonvenom elbow infect __label__L08.9
+injuri board alight stationari train __label__T14.9
+winship viljoen leari syndrom __label__Q87.8
+ink caus toxic effect __label__X49.99
+superior tracheobronchi lymphadenopathi __label__R59.0
+growth hormon advers reaction __label__T88.7
+intent trimipramin overdos __label__X61.99
+advers reaction chorion gonadotrophin __label__T88.7
+ankl reflex absent __label__R29.2
+radiat diseas __label__T66
+splinter hip without major open wound __label__W45.99
+defici glutamineoxoacid transaminas __label__E88.0
+poison medazepam __label__X41.99
+poison caus diphenylpyralin __label__X44.99
+buspiron overdos __label__X41.99
+primari hidradenocarcinoma __label__C44.9
+superfici foreign bodi right elbow region __label__W45.99
+famili continu skin peel __label__Q82.8
+trefoil wavefront aberr __label__H53.8
+trauma __label__T14.9
+splinter finger without major open wound infect __label__L08.9
+anxieti due dementia __label__F03
+primari ependymoblastoma __label__C71.9
+staphylococcu aureu infect __label__A49.0
+famili histori ischaem heart diseas le 60 year __label__Z82.4
+open disloc metatarsophalang joint __label__S93.1
+indometacin advers reaction __label__T88.7
+accident poison lorazepam __label__X41.99
+folic acid defici anemia __label__D52.0
+risperidon overdos __label__X41.99
+nystatin overdos __label__X44.99
+right ventricular failur due heart valv disord __label__I38
+oxysterol 7alpha hydroxylas defici __label__K76.8
+injuri __label__T14.9
+mitobronitol overdos __label__T45.1
+histori strictur oesophagu __label__Z87.1
+abnorm uterin bleed due atyp endometri hyperplasia __label__N93.8
+corneal anesthesia deaf intellectu disabl syndrom __label__Q87.8
+craniomicromel syndrom __label__Q87.0
+lymphoedema atrial septal defect facial chang syndrom __label__Q87.8
+accident mersalyl overdos __label__X44.99
+congenit misshapen maxilla __label__Q75.8
+infect abras left ring finger __label__L08.9
+poison caus pyrimethamin __label__X44.99
+peripher nerv neuropacemak situ __label__Z95.8
+insect bite nonvenom face infect __label__S00.8
+tamoxifen overdos __label__X44.99
+intent loprazolam overdos __label__X61.99
+accident mitoxantron poison __label__X44.99
+leuconychia punctata __label__L60.8
+coleengmannzinss syndrom __label__Q82.8
+traumat blister wrist infect __label__L08.9
+advers reaction caus inhal corticosteroid __label__T88.7
+cation surfact advers reaction __label__T88.7
+antidepress drug advers reaction __label__T88.7
+malonylcoa decarboxylas defici __label__E88.0
+protoplasm astrocytoma brain __label__C71.9
+facial lymphadenopathi __label__R59.0
+noncollis motor vehicl traffic accid involv breakag part motor vehicl whilst motion passeng motor vehicl injur __label__V87.89
+accident poison glutethimid __label__X41.99
+mblcll __label__D72.8
+pain retractil testi __label__Q55.2
+bcc __label__C44.9
+pinu ponderosa poison __label__X49.99
+toxic effect corros aromat __label__X49.99
+injuri water transport caus galley machineri swimmer injur __label__T14.9
+cactinomycin poison __label__X44.99
+defici urat oxidas __label__E88.0
+fish hook lower leg __label__W45.99
+famili histori dissect aorta __label__Z82.4
+penoscrotodynia __label__F45.8
+toxic effect manganes andor manganes compound __label__X49.99
+defici uronolactonas __label__E88.0
+lethal brain heart development defect syndrom __label__Q87.8
+arginineglutam acid dipeptid repeatsrel neurodevelopment syndrom __label__Q87.8
+mind macrocephali intellectu disabl neurodevelopment disord small thorax syndrom __label__Q87.0
+insect bite nonvenom head infect __label__L08.9
+parasit asymmetr conjoin twin __label__Q89.8
+biemond syndrom __label__Q87.8
+advers reaction phenolphthalein __label__T88.7
+poison caus tolbutamid __label__X44.99
+blister left knee infect __label__L08.9
+dextromethorphan hydrobromid advers reaction __label__T88.7
+tumour pericardium __label__D48.7
+protamin overdos __label__X44.99
+goltzgorlin syndrom __label__Q82.8
+sucralf advers reaction __label__T88.7
+injuri due direct ionis radiat nuclear explos __label__T14.9
+intent clomethiazol poison __label__X61.99
+burn degre involv 90 percent bodi surfac __label__T31.9
+posterior fossa brain malform hemangioma arteri anomali cardiac defect aortic coarctat eye abnorm syndrom __label__Q87.8
+de novo thrombot microangiopathi kidney transplant __label__Z94.0
+nail discolour __label__L60.8
+bronchopulmonari lymphadenopathi __label__R59.0
+intent secobarbit overdos __label__X61.99
+sting nettl poison __label__X49.99
+syndrom cooccurr leukemoid reaction associ transient neonat pustulosi __label__D72.8
+congenit misshapen pariet bone __label__Q75.8
+soursob poison __label__X49.99
+intent moclobemid overdos __label__X61.99
+nonacquir combin pituitari hormon defici sensorineur hear loss spine abnorm syndrom __label__Q76.4
+bonnemann meineck syndrom __label__Q87.8
+advers reaction morphin __label__T88.7
+flunitrazepam advers reaction __label__T88.7
+dissect aortic arch __label__I71.0
+poison due red tide dinoflagel __label__X49.99
+cadd __label__Q87.8
+pth __label__Q87.0
+sex revers kidney adren lung dysgenesi syndrom __label__Q87.8
+dyrk1a dual specif tyrosin phosphoryl regul kina 1arel intellectu disabl syndrom __label__Q87.8
+intent secobarbit poison __label__X61.99
+human bite lower limb __label__T13.1
+calcitonin pork advers reaction __label__T88.7
+anomal origin left coronari arteri right coronari arteri dual ostia aortic sinu valsalva left nonfac aortic sinu valsalva __label__Q24.5
+defici sulfinoalanin decarboxylas __label__E88.0
+loo sutur cornea __label__T81.8
+accident poison lyserg acid __label__X44.99
+toxic effect carbon bisulfid __label__X49.99
+accident overdos phenytoin __label__X41.99
+intent bromocriptin overdos __label__X61.99
+unossifi presphenoid bone __label__Q75.8
+proguanil overdos __label__X44.99
+teebi naguib alawadi syndrom __label__Q87.8
+poison cactinomycin __label__X44.99
+sorghum speci poison __label__X49.99
+fume combust polyvinylchlorid similar materi conflagr barn __label__X00.99
+phytolacca americana poison __label__X49.99
+lack ossif basioccipit bone __label__Q75.8
+injuri tongu __label__S09.9
+burrowe poison __label__X49.99
+erythrophleum chlorostachi poison __label__X49.99
+bronchoscopi abnorm __label__R09.8
+deaf nephriti anorect malform syndrom __label__Q87.8
+digit papillari adenocarcinoma __label__C44.9
+intent mechlorethamin poison __label__T45.1
+isol hereditari congenit facial paralysi __label__Q87.0
+development anomali odontoid process axi __label__Q76.4
+cednik syndrom __label__Q82.8
+properdin defici __label__D84.1
+sealant caus toxic effect __label__X49.99
+left wrist blister infect __label__L08.9
+chine tallow tree poison __label__X49.99
+cancer skin basal cell __label__C44.9
+megaloblast anemia due folat defici pregnanc lactat __label__D52.0
+sensenbrenn syndrom __label__Q75.8
+respiratori tract congest cough __label__R09.8
+advers reaction doxycyclin __label__T88.7
+absenc roof orbit __label__Q75.8
+adhes stick caus toxic effect __label__X49.99
+injuri due fragment improvis bomb __label__T14.9
+foreign bodi skin breast __label__W45.99
+etomid overdos __label__X44.99
+protamin advers reaction __label__T88.7
+doubl barrel dual coronari arteri orific within aortic sinu __label__Q24.5
+bronchodil prepar advers reaction __label__T88.7
+metipranolol advers reaction __label__T88.7
+foreign bodi skin head neck __label__W45.99
+advers reaction lorazepam __label__T88.7
+accident chlormethiazol poison __label__X41.99
+streptokinas overdos __label__X44.99
+accident 5hydroxytryptamine3receptor antagonist poison __label__X44.99
+superfici foreign bodi index finger __label__W45.99
+advers reaction caus nitrou oxid __label__T88.7
+terodilin advers reaction __label__T88.7
+blister ring finger right hand infect __label__L08.9
+congenit abnorm anterior cardiac vein __label__Q24.5
+accident magnesium sulphat poison __label__X44.99
+noncollis motor vehicl traffic accid involv accident poison exhaust ga gener motor vehicl whilst motion occup tram injur __label__V87.89
+injuri caus conflagr secondari nuclear explos __label__T14.9
+advers reaction peripher nerv plexu block anaesthet __label__T88.7
+intent tranylcypromin overdos __label__X61.99
+third degre burn chest wall __label__T21.3
+tumor stage mycosi fungoid __label__C84.0
+congenit misshapen lumbar arch __label__Q76.4
+mercur oxid poison __label__X49.99
+helenium speci poison __label__X49.99
+burn caus conflagr apart __label__X00.99
+oxybuprocain advers reaction __label__T88.7
+fludarabin poison __label__X44.99
+defici lysolecithin acylmutas __label__E88.0
+subungu hematoma ring finger right hand __label__L60.8
+regurgit right nontricuspid atrioventricular valv __label__I38
+mustin advers reaction __label__T88.7
+congenit absenc basioccipit bone __label__Q75.8
+splinter lower limb without major open wound infect __label__L08.9
+foreign bodi hand __label__W45.99
+accident ingest terpineol __label__X49.99
+oculocerebr hypopigment syndrom preu __label__Q84.8
+synophthalmia __label__Q87.0
+primari eccrin mix tumour malign __label__C44.9
+aconitum speci poison __label__X49.99
+puva therapyassoci basal cell carcinoma __label__C44.9
+autosom domin kid kerat ichthyosi deaf syndrom __label__Q87.8
+inhal anesthet overdos __label__X44.99
+noncollis motor vehicl traffic accid involv accident poison exhaust ga gener motor vehicl whilst motion passeng motor vehicl injur __label__V87.89
+cicuta maculata poison __label__X49.99
+ciclosporin overdos __label__X44.99
+peroxisom biogenesi disord due pex13 mutat __label__Q87.8
+accident 5aminosalicyl acid overdos __label__X44.99
+interferon gamma1b advers reaction __label__T88.7
+levodopa overdos __label__X41.99
+anomal origin right coronari arteri aortic sinu right nonfac aortic sinu anomal origin left coronari arteri aortic sinu left nonfac aortic sinu __label__Q24.5
+templ syndrom __label__Q87.0
+sprain metatarsophalang joint left lesser toe __label__S93.5
+thoc6rel development delaymicrocephalyfaci dysmorph syndrom __label__Q87.0
+hydrometrocolpo postaxi polydactyli congenit heart malform __label__Q87.8
+congenit oculocutan hypopigment __label__Q82.8
+penicillinas poison __label__X44.99
+defici cystein aminotransferas __label__E88.0
+anterior rachischisi __label__Q76.4
+decreas blood vessel permeabl __label__R09.8
+lack ossif arch sacral vertebra __label__Q76.4
+autosom recess chorioretinopathi microcephali intellectu disabl syndrom __label__Q87.8
+charg syndrom __label__Q87.8
+congenit abnorm shape vomer __label__Q75.8
+autosom domin brachyolmia __label__Q76.4
+overdos angiotensinconvertingenzym inhibitor __label__X44.99
+sorghum bicolor poison __label__X49.99
+faci bovina __label__Q75.8
+hemifaci microsomia radial defect syndrom __label__Q75.8
+poison caus lignocain __label__X44.99
+superfici foreign bodi infect __label__W45.99
+accident protriptylin overdos __label__X41.99
+infect nonvenom insect bite left elbow __label__L08.9
+oculopalatodigit syndrom __label__Q87.0
+sprain ligament joint lesser toe right foot __label__S93.5
+advers reaction caus peripher nerv plexu block anesthet __label__T88.7
+accident methotrex poison __label__T45.1
+desfluran overdos __label__X44.99
+symmetr pariet foramen __label__Q75.8
+peel skin leuconychia acral punctat keratos cheiliti knuckl pad syndrom __label__Q82.8
+poison beryllium compound __label__X49.99
+foxtail grass poison __label__X49.99
+infect caus vancomycin resist staphylococcu aureu coagulas posit __label__A49.0
+foreign bodi skin left hip region __label__W45.99
+magnesium trisil overdos __label__X44.99
+foreign bodi skin scrotum infect __label__L08.9
+advers reaction methaqualon __label__T88.7
+accident castor oil overdos __label__X44.99
+congenit deform soft tissu __label__Q89.8
+splinter buttock without major open wound __label__W45.99
+pyogen infect skin subcutan tissu caus bacterium __label__L08.9
+alopecia psychomotor epilepsi periodont pyorrhea intellectu disabl syndrom __label__Q87.8
+third degre burn left thigh __label__T24.3
+antacid advers reaction __label__T88.7
+razoxan poison __label__X44.99
+mediastin crunch __label__R09.8
+punctur wound right shoulder __label__S41.0
+acitretin overdos __label__X44.99
+tempor pul absent __label__R09.8
+procarbazin overdos __label__X44.99
+crandal syndrom __label__L67.8
+arsin caus toxic effect __label__X49.99
+organ limit nonhereditari amyloidosi __label__E85.4
+infect abras skin fourth digit right hand __label__L08.9
+accident corticotrophin poison __label__X44.99
+coma wavefront aberr __label__H53.8
+n syndrom __label__Q87.8
+accident ingest water arum __label__X49.99
+fenoterol advers reaction __label__T88.7
+unossifi lacrim bone __label__Q75.8
+frusemid overdos __label__X44.99
+accident poison haloperidol __label__X41.99
+pancreat hypoplasia diabet mellitu congenit heart diseas syndrom __label__Q87.8
+infect abras skin right ankl region __label__L08.9
+oxprenolol advers reaction __label__T88.7
+right condyl absent __label__Q75.8
+advers reaction caus decongest __label__T88.7
+noncollis motor vehicl traffic accid involv injuri thrown part object motor vehicl motion driver motor vehicl injur __label__V87.89
+richieri costa guion almeida ramo syndrom __label__Q87.8
+mass bilater axilla __label__R22.2
+thiopent advers reaction __label__T88.7
+intent oxypertin poison __label__X61.99
+pain oper scar __label__T81.8
+congenit leg length discrep __label__Q72.9
+accident poison procain __label__X44.99
+carbon monoxid fume conflagr privat dwell __label__X00.99
+accident cascara overdos __label__X44.99
+carcinoma simplex __label__C44.9
+cynanchum speci poison __label__X49.99
+class iv antiarrhythm advers reaction __label__T88.7
+yorifuji okuno syndrom __label__Q87.8
+primari cutan signet ring cell carcinoma __label__C44.9
+swell salivari gland __label__R59.0
+advers reaction ergometrin andor oxytocin __label__T88.7
+hyperosmolar nonketot state type 2 diabet mellitu __label__E11.9
+amyloidosi small intestin __label__E85.4
+dacarbazin poison __label__T45.1
+abnorm dermatoglyph pattern __label__Q82.8
+blister second digit left hand infect __label__L08.9
+noncollis motor vehicl traffic accid involv jump motor vehicl whilst motion driver motor vehicl injur __label__V87.89
+accident cefixim overdos __label__X44.99
+accident tranylcypromin overdos __label__X41.99
+soft khaki weed poison __label__X49.99
+craniosynostosi warman type __label__Q75.8
+injuri unknown intent due impact move motor vehicl __label__T14.9
+myelocel __label__Q05.9
+war injuri due explos seabas artilleri shell __label__T14.9
+accident cephalothin poison __label__X44.99
+boni swell lumbar spine __label__R22.2
+acut headach due traumat injuri head __label__S09.9
+vinca alkaloid advers reaction __label__T88.7
+poison caus beryllium __label__X49.99
+advers reaction piperazin estron sulfat __label__T88.7
+intellectu disabl sever speech delay mild dysmorph syndrom __label__Q87.0
+defici alphamannosidas __label__E88.0
+defici 3oxoadip coatransferas __label__E88.0
+acquir angioneurot oedema c1 inhibitor defici __label__D84.1
+intent etoposid overdos __label__T45.1
+advers reaction caus mouth rins __label__T88.7
+azotaem onychopathi __label__L60.8
+gunshot wound left hip __label__W34.99
+superfici injuri lower limb infect __label__L08.9
+accident isocarboxazid poison __label__X41.99
+advers reaction salicyl __label__T88.7
+accid caus smoke conflagr public build __label__X00.99
+narrow pul pressur __label__R09.8
+accident vitamin poison __label__X44.99
+rectal tenesmu __label__R19.8
+advers reaction casirivimab __label__T88.7
+bileinduc gastriti __label__K29.6
+anomal origin right coronari arteri left anterior descend coronari arteri __label__Q24.5
+vascular disord liver __label__K76.8
+accident poison angiotensinconvert enzym inhibitor __label__X44.99
+hydroxyquinolin poison __label__X44.99
+pagetoid reticulosi __label__C84.0
+fatigu due chemotherapi __label__X44.99
+inspiratori crackl __label__R09.8
+glycopeptid intermedi staphylococcu aureu infect __label__A49.0
+antimoni andor antimoni compound advers reaction __label__T88.7
+primari malign odontogen tumour upper jaw __label__C41.0
+defici hydroxyacylglutathion hydrolas __label__E88.0
+pulp space infect fingerthumb __label__L08.9
+recurr glomerulonephr follow renal transplant __label__Z94.0
+lowerord aberr vision __label__H53.8
+chronic kidney diseas stage 5 transplant __label__Z94.0
+feingold syndrom __label__Q87.8
+intent phenelzin poison __label__X61.99
+neoplasm uncertain behavior lower limb __label__D48.7
+gastric haemorrhag due idiopath eros gastriti __label__K29.6
+toxic effect cyanid __label__X49.99
+infect epididymi caus chlamydia trachomati __label__A56.1
+nonvenom insect bite finger infect __label__L08.9
+malign fibrou histiocytoma skin __label__C44.9
+foreign bodi skin andor mucosa lip infect __label__L08.9
+advers reaction caus cannabi __label__T88.7
+circumscrib nodular tuber pretibi myxoedema __label__E03.8
+splinter finger without major open wound infect __label__W45.99
+kaplan plauchu fitch syndrom __label__Q87.0
+apert syndrom __label__Q87.0
+deep third degre burn breast __label__T21.3
+facial dysmorph cleft palat loo skin syndrom __label__Q87.0
+anterior tibial pul monophas __label__R09.8
+poison due crowd control ga __label__T59.8
+cyst paramesonephr duct __label__Q55.2
+aftercataract vision obscur follow extract cataract __label__H53.8
+accident bromazepam poison __label__X41.99
+advers reaction etamsyl __label__T88.7
+malign melanoma skin nose __label__C43.3
+accident carboplatin overdos __label__X44.99
+tioguanin poison __label__T45.1
+prelaryng lymphadenopathi __label__R59.0
+primari nonessenti cuti vertici gyrata __label__Q82.8
+branchial dysplasia intellectu disabl inguin hernia syndrom __label__Q87.8
+opitzfria syndrom __label__Q87.8
+acut reject lung transplant __label__T86.8
+defici alanineoxoacid aminotransferas __label__E88.0
+poison levallorphan __label__X44.99
+racket nail __label__L60.8
+hit object fall burn board hous __label__X00.99
+accident mianserin poison __label__X41.99
+carbomer940 advers reaction __label__T88.7
+panicum effusum poison __label__X49.99
+rubber vine poison __label__X49.99
+famili loganiacea poison __label__X49.99
+kawashima syndrom __label__Q87.8
+splinter skin infect __label__W45.99
+rifampin toxic __label__X44.99
+third degre burn hip __label__T24.3
+hypospadia intellectu disabl syndrom goldblatt type __label__Q87.8
+diphenylbutylpiperidin poison __label__X41.99
+pyrimethamin overdos __label__X44.99
+accident azathioprin poison __label__T45.1
+polyethylen glycol advers reaction __label__T88.7
+poison caus sulfon __label__X44.99
+focal palmoplantar keratoderma joint keratos __label__Q82.8
+defici urea __label__E88.0
+primari oligodendroglioma brain __label__C71.9
+lack ossif lacrim bone __label__Q75.8
+splinter skin infect __label__L08.9
+accident razoxan poison __label__X44.99
+acrodynia due mercuri __label__X49.99
+physic abus child __label__Y07.99
+tumor iri __label__D48.7
+csfp __label__R09.8
+toriello lacassi drost syndrom __label__Q84.8
+disord nail due dermatosi __label__L60.8
+accident disulfiram overdos __label__X44.99
+bresek syndrom __label__Q87.8
+exanthemat infecti diseas __label__L08.9
+dull percuss traub space __label__R09.8
+congenit absenc right mandibular condyl __label__Q75.8
+accident poison imipramin __label__X41.99
+accident poison caus squill andor squill deriv __label__X44.99
+poison mercaptopurin __label__T45.1
+primari sebac adenocarcinoma __label__C44.9
+allerg reaction caus anesthet __label__T88.7
+basal cell carcinoma micronodular __label__C44.9
+lowri yong syndrom __label__Q87.8
+dome head __label__Q75.8
+advers reaction tetracyclin __label__T88.7
+malposit left intraocular len __label__T85.2
+ileal pouch anal anastomosi relat fecal incontin __label__T81.8
+malign chondroid syringoma __label__C44.9
+trichorrhexi nodosa __label__L67.8
+accident cytarabin poison __label__T45.1
+tumor pericardium __label__D48.7
+methylphenid advers reaction __label__T88.7
+third degre burn male genitalia __label__T21.3
+subungu haematoma first toe right foot __label__L60.8
+bilater hilar adenopathi syndrom __label__R59.0
+abras ankl infect __label__L08.9
+scar5 spinocerebellar ataxia autosom recess 5 __label__Q82.8
+cinnarizin advers reaction __label__T88.7
+binder syndrom __label__Q75.8
+decreas supin reflex __label__R29.2
+gifford bosma syndrom __label__Q87.0
+injuri water transport caus load machineri occup small power boat injur __label__T14.9
+insect bite nonvenom vagina infect __label__L08.9
+accid caus air rifl __label__W34.99
+ciprofloxacin advers reaction __label__T88.7
+accident ingest jequir seed __label__X49.99
+rale __label__R09.8
+pericyazin poison __label__T43.3
+defici glutarylcoa synthetas __label__E88.0
+crotalaria spectabili poison __label__X49.99
+infect abras skin lesser digit right foot __label__L08.9
+primari malign eccrin spiradenoma __label__C44.9
+accident busulfan overdos __label__T45.1
+accident clomipramin overdos __label__X41.99
+mountain laurel poison __label__X49.99
+defici 3mercaptopyruv sulfurtransferas __label__E88.0
+pollitt syndrom __label__L67.8
+boni swell thorac spine __label__R22.2
+advers reaction antihelminth __label__T88.7
+motil stimul overdos __label__X44.99
+potassium poison __label__X44.99
+androgen advers reaction __label__T88.7
+accident poison caus sed __label__X41.99
+tonic neck reflex equivoc __label__R29.2
+anemon speci poison __label__X49.99
+progress hereditari glomerulonephr without deaf __label__Q87.8
+supernumerari centrum sacral vertebra __label__Q76.4
+poison cyclandel __label__X44.99
+joint injuri __label__T14.9
+heal gastric ulcer __label__Z87.1
+defici hydroxyalkylprotein kina __label__E88.0
+nicofuranos advers reaction __label__T88.7
+bilater craniofaci microsomia __label__Q75.8
+poison chiniofon __label__X44.99
+infect caus staphylococcu coagulas neg __label__A49.0
+allerg reaction caus tattoo ink __label__X49.99
+injuri due legal intervent poison ga __label__T14.9
+fish hook ear region __label__W45.99
+helicobact pyloriassoci gastriti __label__K29.6
+treosulfan overdos __label__T45.1
+focal facial dermal dysplasia type iv __label__Q82.8
+paraldehyd poison __label__X41.99
+keratolyt winter erythema __label__Q82.8
+defici phylloquinon reductas __label__E88.0
+aldehyd dehydrogenas inhibitor advers reaction __label__T88.7
+morphinan opioid advers reaction __label__T88.7
+hopp syndrom __label__Q82.8
+disord nail colour __label__L60.8
+fenoprofen advers reaction __label__T88.7
+brompheniramin advers reaction __label__T88.7
+oledaid anhidrot ectoderm dysplasia immunodefici osteopetrosi lymphedema syndrom __label__Q87.8
+anomal origin conu arteri separ aortic sinu valsalva orific __label__Q24.5
+promethazin advers reaction __label__T88.7
+foreign bodi skin third digit left hand infect __label__L08.9
+c coronari sinu abnorm __label__Q24.5
+choanal atresia hear loss cardiac defect craniofaci dysmorph syndrom __label__Q87.8
+metal foreign bodi perineum __label__W45.99
+localis swell chest wall __label__R22.2
+bednar tumour __label__C44.9
+deoxyribonucleas advers reaction __label__T88.7
+jump burn church __label__X00.99
+acquir koilonychia __label__L60.8
+famili pinacea poison __label__X49.99
+acut tricycl antidepress poison __label__X41.99
+fragment spleen __label__S36.00
+congenit partial fusion spine balanc __label__Q76.4
+fh heart disord __label__Z82.4
+advers reaction mesterolon __label__T88.7
+erythromycin poison __label__X44.99
+rhododendron indicum poison __label__X49.99
+solanum speci poison __label__X49.99
+distal arthrogryposi type 7 __label__Q87.8
+wrong dose medic given __label__X44.99
+nonaccident injuri adult __label__T14.9
+myeloperoxidas defici __label__D72.8
+recurr skin infect __label__L08.9
+injuri water transport caus engin room machineri occup small unpow boat injur __label__T14.9
+metal foreign bodi forearm __label__W45.99
+basan syndrom __label__Q82.8
+lithium carbon advers reaction __label__T88.7
+bleomycin poison __label__T45.1
+polygonum speci poison __label__X49.99
+facial hematoma __label__S00.8
+carbon monoxid fume conflagr convalesc home __label__X00.99
+acral darier diseas __label__Q82.8
+zolpidem advers reaction __label__T88.7
+poison caus mitomycin __label__T45.1
+accident lithium andor lithium compound overdos __label__X49.99
+histori arteri bypass lower limb arteri __label__Z95.8
+primari multifoc basal cell carcinoma __label__C44.9
+mpo __label__D72.8
+hepat amyloidosi __label__E85.4
+advers reaction fibrinolyt drug __label__T88.7
+accident doxorubicin poison __label__X44.99
+congenit absenc arch cervic vertebra __label__Q76.4
+eem syndrom __label__Q87.8
+antiemet overdos __label__X44.99
+ifosfamid poison __label__X44.99
+ifosfamid overdos __label__T45.1
+ceftriaxon overdos __label__X44.99
+accident paclitaxel poison __label__T45.1
+parasympathomimet advers reaction __label__T88.7
+theophyllin overdos __label__X44.99
+defici phosphoribokinas __label__E88.0
+injuri water transport caus engin room machineri __label__T14.9
+defici phosphatid phosphatas __label__E88.0
+gunshot wound left axilla __label__W34.99
+polybromin biphenyl poison __label__X49.99
+histori renal transplant __label__Z94.0
+erythrokeratoderma en cocard dego __label__Q82.8
+bilater transplant failur cornea __label__T86.8
+defici phospholipas a2 __label__E88.0
+accident poison caus metal andor metal compound __label__X49.99
+cryptorchid arachnodactyli intellectu disabl syndrom __label__Q87.8
+defici phosphoribosylformylglycinamidin cycloligas __label__E88.0
+pelvi perin haemangioma extern genitalia malform lipomyelomeningocel vesicoren abnorm imperfor anu syndrom __label__Q87.8
+choreoathetosi congenit hypothyroid neonat respiratori distress syndrom __label__Q87.8
+xlink intellectu disabl van esch type __label__Q87.8
+hunterthompson dysplasia __label__Q87.8
+actinomycin overdos __label__T45.1
+intent perphenazin overdos __label__X61.99
+sacral hemivertebra __label__Q76.4
+plicamycin advers reaction __label__T88.7
+defici aldoketomutas __label__E88.0
+accident dextromethorphan poison __label__X44.99
+neoplasm uncertain behaviour upper limb __label__D48.7
+fb middl ear __label__W44.99
+poison digoxin __label__X44.99
+congenit hypoplasia zygomat bone __label__Q75.8
+ddod domin deaf onychodystrophi syndrom __label__Q87.8
+accident ethambutol poison __label__X44.99
+atkin flaitz syndrom __label__Q87.8
+malign eccrin spiradenoma __label__C44.9
+calcineurin inhibitor poison __label__X44.99
+aceton breath __label__R19.8
+nitrogen mustard deriv poison __label__T45.1
+acceler reject intestin transplant __label__T86.8
+advers reaction ganglion block drug __label__T88.7
+jump burn privat garag __label__X00.99
+aplasia cuti congenita associ foetu papyraceu type 5 __label__Q84.8
+pufferfish paralysi __label__X49.99
+preterm matur infant __label__P07.2
+haileyhailey diseas __label__Q82.8
+poison caus acetylcystein __label__X44.99
+hit object fall burn hous __label__X00.99
+primidon poison __label__X41.99
+absenc pul left anterior tibial arteri __label__R09.8
+cardiocrani syndrom pfeiffer type __label__Q87.8
+pseudopterygium bilater eye __label__H11.8
+accident procarbazin poison __label__X44.99
+nonvenom insect bite interscapular region infect __label__L08.9
+autosom recess faciodigitogenit syndrom __label__Q87.8
+oestriol advers reaction __label__T88.7
+homoeopath medicin advers reaction __label__T88.7
+congenit abnorm fusion arch thorac vertebra __label__Q76.4
+poison caus barbiton __label__X41.99
+advers reaction hydrotalcit __label__T88.7
+gastric aspir contain liquor __label__R19.8
+benzocain advers reaction __label__T88.7
+butyrophenon poison __label__X41.99
+dyschondrosteosi nephriti syndrom __label__Q87.8
+defici serin aldolas __label__E88.0
+right index finger blister infect __label__L08.9
+advers reaction ipratropium __label__T88.7
+poison prochlorperazin __label__T43.3
+congenit absenc toe __label__Q72.3
+accident poison caus prochlorperazin __label__T43.3
+gastric haemorrhag due allerg gastriti __label__K29.6
+congenit partial fusion spine unbalanc __label__Q76.4
+accident cefotaxim poison __label__X44.99
+datura stramonium poison __label__X49.99
+alimentari toxic aleukia __label__X49.99
+chlorpromazin poison __label__T43.3
+complement defici diseas __label__D84.1
+congenit absenc exoccipit bone __label__Q75.8
+vindesin poison __label__X44.99
+papillari digit eccrin carcinoma __label__C44.9
+contractur ectoderm dysplasia orofaci cleft syndrom __label__Q87.8
+medial extern iliac lymphadenopathi __label__R59.0
+advers reaction tobramycin __label__T88.7
+noncollis motor vehicl traffic accid involv fire start motor vehicl whilst motion driver motor vehicl injur __label__V87.89
+poison cyclophosphamid __label__X44.99
+craniosynostosi hydrocephalu arnold chiari malform radioulnar synostosi __label__Q87.8
+defici progesteron 11alphahydroxylas __label__E88.0
+poison sulphon __label__X44.99
+advers reaction phosphodiesteras 5 inhibitor __label__T88.7
+accident poison caus valproat __label__X41.99
+vertigo preced head injuri __label__S09.9
+anomal origin circumflex arteri aortic sinu right nonfac aortic sinu anomal origin left anterior descend coronari arteri right coronari arteri aortic sinu left nonfac aortic sinu __label__Q24.5
+advers reaction halothan __label__T88.7
+doll head reflex absent __label__R29.2
+guttat hypopigment punctat palmoplantar keratoderma without ectop calcif __label__Q82.8
+open injuri superfici femor arteri __label__T13.1
+monoamin oxidas inhibitor advers reaction __label__T88.7
+congenit abnorm fusion basioccipit bone __label__Q75.8
+atherosclerosi nonautolog biolog bypass graft bilater lower limb __label__Z95.8
+advers reaction doxepin __label__T88.7
+kreiborg pakistani syndrom __label__Q87.0
+abnorm uterin bleed due adenomyosi __label__N93.8
+lofepramin overdos __label__X41.99
+acquir cystic diseas transplant kidney __label__Z94.0
+complic fractur ankl __label__S82.80
+evenplu syndrom __label__Q87.0
+intent benperidol overdos __label__X61.99
+cyclofenil advers reaction __label__T88.7
+ceg chronic eros gastriti __label__K29.6
+jump burn tenement __label__X00.99
+autosom domin intellectu disabl craniofaci anomali cardiac defect syndrom __label__Q87.0
+poison actinomycin __label__T45.1
+blister fourth digit left hand infect __label__L08.9
+autosom domin palmoplantar keratoderma congenit alopecia __label__Q82.8
+histori rectal haemorrhag __label__Z87.1
+fumbl __label__R29.2
+infect abras right eyelid __label__L08.9
+macrocephali intellectu disabl autism syndrom __label__Q87.0
+accident tryptophan overdos __label__X44.99
+accident poison caus tetracain __label__X44.99
+poison kaolin __label__X44.99
+patchi dementia __label__F03
+accident clofibr overdos __label__X44.99
+domin primari localis cutan amyloidosi __label__E85.4
+advers reaction sulfafurazol __label__T88.7
+pumact advers reaction __label__T88.7
+accident flucytosin poison __label__X44.99
+congenit misshapen nasal bone __label__Q75.8
+elejald syndrom __label__Q87.0
+spiramycin poison __label__X44.99
+cleft lip palat craniofaci dysmorph congenit heart defect hear loss syndrom __label__Q87.0
+sam syndrom __label__Q82.8
+long qt syndrom type 9 __label__I45.8
+sleep relat bruxism __label__F45.8
+nonheal surgic wound __label__T81.8
+defici maleylacetoacet isomeras __label__E88.0
+psychosomat rheumat __label__F45.8
+oralfacialdigit syndrom gabrielli type __label__Q87.0
+white matter hypoplasia corpu callosum agenesi intellectu disabl syndrom __label__Q87.0
+primari primit neuroectoderm tumor __label__C71.9
+odynophagia __label__R19.8
+covid19 viruslik particl antigen vaccin advers reaction __label__T88.7
+xeroderma genet syndrom __label__Q82.8
+cough reflex impair __label__R29.2
+injuri parachutist land __label__T14.9
+staphylococc infecti diseas __label__A49.0
+syndrom multisystem autoimmun diseas due itchi e3 ubiquitin protein ligas defici __label__Q87.0
+sulfonylur hypoglycaem advers reaction __label__T88.7
+poison dactinomycin __label__X44.99
+foreign bodi skin face infect __label__L08.9
+reflex disturb due substanc use __label__R29.2
+subungu haematoma index finger left hand __label__L60.8
+lithium advers reaction __label__T88.7
+atovaquon advers reaction __label__T88.7
+ftdp17 __label__G31.0
+famili scaphocephali radioulnar synostosi syndrom __label__Q87.8
+hpv __label__L08.9
+nonvenom insect bite shoulder infect __label__L08.9
+defici acetylcoenzym acyltransferas __label__E88.0
+tremor tongu __label__R19.8
+advers reaction caus ethionamid __label__T88.7
+de barsey syndrom __label__Q87.8
+slc35a3cdg __label__Q87.8
+accident poison caus disinfect __label__X49.99
+injuri due birdshot __label__W34.99
+anatricrot pul __label__R09.8
+infect due pantonvalentin leucocidin produc staphylococcu aureu __label__A49.0
+congenit absenc premaxilla __label__Q75.8
+advers reaction isofluran __label__T88.7
+levallorphan poison __label__X44.99
+velofacialskelet syndrom __label__Q87.0
+poison caus corros chemic __label__X49.99
+accident cytarabin overdos __label__X44.99
+lomustin overdos __label__T45.1
+metal foreign bodi upper limb __label__W45.99
+advers reaction hydroxyzin __label__T88.7
+poison caus phenothiazinebas tranquil __label__X41.99
+serrat polyposi __label__D12.6
+congenit small hyoid bone __label__Q75.8
+rapidli progress dementia __label__F03
+burn involv 90 percent bodi surfac 7079 percent bodi surfac full thick burn __label__T31.9
+accident pericyazin overdos __label__X41.99
+foreign bodi skin scalp infect __label__L08.9
+poison caus chlorambucil __label__X44.99
+intent selegilin overdos __label__X61.99
+anilin poison __label__X49.99
+poison phensuximid __label__X41.99
+pfic1 progress famili intrahepat cholestasi type 1 __label__K76.8
+bromazepam advers reaction __label__T88.7
+bipartit ossif supraoccipit bone __label__Q75.8
+volar plate injuri thumb joint __label__S69.8
+pyrazinamid advers reaction __label__T88.7
+war injuri due heat nuclear weapon __label__T14.9
+mutchinick syndrom __label__Q87.8
+toxic effect nitric acid __label__X49.99
+malathion advers reaction __label__T88.7
+dermatofibrosarcoma protuberan granular cell chang __label__C44.9
+poison caus blood product __label__X44.99
+partial aphalangia lower limb __label__Q72.3
+undeceno advers reaction __label__T88.7
+defici clostridium edematen beta gammatoxin __label__E88.0
+defici lipas __label__E88.0
+accident famotidin poison __label__X44.99
+antimoni compound poison __label__X49.99
+primari metatyp basal cell carcinoma skin __label__C44.9
+injuri due suicid attempt __label__T14.9
+injuri swimmer watercraft propel __label__T14.9
+prepericardi lymphadenopathi __label__R59.0
+advers reaction caus male fern oleoresin __label__T88.7
+injuri due sword __label__T14.9
+intent amsacrin overdos __label__T45.1
+tribulu terrestri poison __label__X49.99
+defici pyridin nucleotid transhydrogenas __label__E88.0
+accident ingest ivi berri __label__X49.99
+advers reaction perphenazin __label__T88.7
+neoplasm uncertain behavior ocular adnexa __label__D48.7
+graffiti remov caus toxic effect __label__X49.99
+linum speci poison __label__X49.99
+burn caus conflagr barn __label__X00.99
+nondepolaris muscl relax advers reaction __label__T88.7
+estrogen andor progesteron advers reaction __label__T88.7
+antivaricos agent advers reaction __label__T88.7
+famili histori ventricular prematur beat __label__Z82.4
+infect abras right shoulder __label__L08.9
+atroph hair __label__L67.8
+vegan anemia __label__D52.0
+marijuana poison __label__X49.99
+neoplasm uncertain behavior pericardium __label__D48.7
+accident sodium picosulph overdos __label__X44.99
+intent ethoglucid poison __label__T45.1
+antidrom atrioventricular reciproc tachycardia util atrioventricular accessori pathway antegrad unidirect conduct __label__I45.8
+foreign bodi skin first digit right hand __label__W45.99
+low grade glandular intraepitheli neoplasia larg intestin __label__D12.6
+malign tumour skin pilar differenti __label__C44.9
+meperidin advers reaction __label__T88.7
+accident nikethamid poison __label__X44.99
+defici transoximinas __label__E88.0
+traumat blister scalp infect __label__L08.9
+victim incest __label__T74.2
+poison caus cactinomycin __label__T45.1
+toxic effect hydrochlor acid __label__X49.99
+hunter mcalpin craniosynostosi syndrom __label__Q87.0
+blister first digit right hand infect __label__S69.8
+complement abnorm __label__D84.1
+intent levomepromazin overdos __label__X61.99
+advers reaction chenodeoxychol acid andor ursodeoxychol acid __label__T88.7
+welder siderosi __label__X49.99
+accident ciclosporin poison __label__T45.1
+acceler reject pancrea transplant __label__T86.8
+accident bulkform lax overdos __label__X44.99
+lymphadenopathi epiplo foramen __label__R59.0
+tricep reflex absent __label__R29.2
+defici phosphoketolas __label__E88.0
+congenit abnorm fusion centrum cartilag thorac vertebra __label__Q76.4
+subcapsular hematoma spleen __label__S36.00
+poison caus phenobarbit __label__X41.99
+bosma henkin christiansen syndrom __label__Q87.8
+pancreat insuffici dyserythropoiet anaemia calvari hyperostosi syndrom __label__Q75.8
+helicobact heilmannii gastriti __label__K29.6
+accident etacryn acid overdos __label__X44.99
+amnes shellfish poison __label__X49.99
+antineoplast overdos __label__X44.99
+flat base skull __label__Q75.8
+advers reaction compon vaccin product contain sever acut respiratori syndrom coronaviru 2 viruslik particl antigen __label__T88.7
+benign mesenchymoma larg intestin __label__D12.6
+dimethyl sulfoxid andor idoxuridin advers reaction __label__T88.7
+peristom fistula __label__T81.8
+congenit fuse cervic centrum cartilag __label__Q76.4
+pellet wound groin __label__W34.99
+hypothyroid dysmorph postaxi polydactyli intellectu disabl syndrom __label__Q87.8
+advers reaction mercaptopurin __label__T88.7
+congenit presphenoid hole __label__Q75.8
+aplast anemia due toxic caus __label__X49.99
+noncollis motor vehicl traffic accid involv accident poison exhaust ga gener motor vehicl whilst motion pedestrian injur __label__V87.89
+histori inflammatori bowel diseas __label__Z87.1
+ho biliari diseas __label__Z87.1
+hemichorea due injuri head __label__S09.9
+salamon syndrom __label__Q89.8
+advers reaction fatti acid __label__T88.7
+flap failur __label__T86.8
+haemodynam instabl __label__R09.8
+desipramin advers reaction __label__T88.7
+hedera helix poison __label__X49.99
+advers reaction lomustin __label__T88.7
+wood splinter heel __label__W45.99
+sacral dysgenesi __label__Q76.4
+oledaid __label__Q87.8
+bid brittl hairimpair intellectdecreas fertilityshort statur syndrom __label__Q87.8
+intent cyclosporin overdos __label__T45.1
+infect abras skin first digit right hand __label__L08.9
+hereditari angioneurot edema type 1 __label__D84.1
+subungu haematoma littl finger right hand __label__L60.8
+oestrogen advers reaction __label__T88.7
+ho append __label__Z87.1
+defici phenylpyruv tautomeras __label__E88.0
+congenit absenc lumbar vertebra __label__Q76.4
+foreign bodi skin littl finger __label__W45.99
+abnorm capillari refil time __label__R09.8
+b lymphocyt disord __label__D72.8
+gold poison __label__X49.99
+primari hair dystrophi __label__L67.8
+fbln1relat development delay central nervou system anomali syndactyli syndrom __label__Q87.8
+pyrimethamin poison __label__X44.99
+geigeria speci poison __label__X49.99
+pain due follow right wrist arthroplasti __label__T81.8
+close fractur neck metacarp bone __label__S62.30
+primari tether spinal cord syndrom __label__Q76.4
+blister ring finger left hand infect __label__L08.9
+poison mephenesin __label__X41.99
+wood splinter elbow __label__W45.99
+superfici foreign bodi shoulder __label__W45.99
+problem surgic scar __label__T81.8
+poison caus nitrou oxid __label__X44.99
+advers reaction gliquidon __label__T88.7
+alopecia contractur dwarfism intellectu disabl syndrom __label__Q87.8
+melphalan overdos __label__T45.1
+onychoclasi __label__L60.8
+accident amiodaron overdos __label__X44.99
+diflucortolon advers reaction __label__T88.7
+mullerian duct limb anomali syndrom __label__Q87.8
+crofton weed poison __label__X49.99
+folic acid advers reaction __label__T88.7
+advers reaction rifampicin __label__T88.7
+graft versu host diseas intestin __label__T86.8
+bos forehead __label__Q75.8
+right hand blister infect __label__L08.9
+accident treosulfan overdos __label__T45.1
+terlipressin advers reaction __label__T88.7
+defici nicotinamid adenin dinucleotid nucleosidas __label__E88.0
+micronychia __label__L60.8
+hypogastr lymphadenopathi __label__R59.0
+hymenoxi oderata poison __label__X49.99
+finucan kurtz scott syndrom __label__Q87.0
+widen pul pressur __label__R09.8
+iron oxid lung __label__X49.99
+nova syndrom __label__Q87.8
+splinter face without major open wound infect __label__S00.8
+lomustin poison __label__T45.1
+glabella reflex absent __label__R29.2
+pinheiro freir maia miranda syndrom __label__Q87.8
+stilbestrol advers reaction __label__T88.7
+pigment basal cell carcinoma __label__C44.9
+acrocephalosyndactyli type __label__Q87.0
+lymphocyt gastriti __label__K29.6
+lmbb __label__Q87.8
+histori angioplasti __label__Z95.8
+defici phosphoriboisomeras __label__E88.0
+lead breath __label__R19.8
+intraven nutrit vitamin advers reaction __label__T88.7
+subungu haematoma thumb __label__L60.8
+infect skin andor mucou membran caus herp viru __label__L08.9
+suicid selfinflict poison liquefi petroleum ga distribut mobil contain __label__T59.8
+gunshot wound right axilla __label__W34.99
+punctur wound left shoulder __label__S41.0
+accident sulphadiazin poison __label__X44.99
+congenit fuse alisphenoid bone __label__Q75.8
+burn caus ammonia __label__X49.99
+advers reaction hexylresorcinol __label__T88.7
+intent phensuximid poison __label__X61.99
+close head injuri __label__S09.9
+accid caus firearm missil __label__W34.99
+cardiovascular shunt observ __label__R09.8
+poison caus penicillin g __label__X44.99
+defici isocitr dehydrogenas nad __label__E88.0
+carcinoma maxilla __label__C41.0
+chapl syndrom __label__D84.1
+famili histori syncop __label__Z82.4
+injuri due legal intervent grenad __label__T14.9
+dequalinium advers reaction __label__T88.7
+poison pentobarbiton __label__X41.99
+dacarbazin overdos __label__T45.1
+conjug visual deviat __label__H53.8
+chlorpromazin overdos __label__X41.99
+intent methotrimeprazin poison __label__T43.3
+bicep reflex present reinforc __label__R29.2
+type 2 diabet mellitu __label__E11.9
+impair glucos toler individu herit form matur onset diabet young __label__E11.9
+congenit misshapen interpariet bone __label__Q75.8
+longitudin brown stripe nail __label__L60.8
+advers reaction caus diiodohydroxyquin __label__T88.7
+nitrat vasodil overdos __label__X44.99
+gentamicin advers reaction __label__T88.7
+congenit misshapen lacrim bone __label__Q75.8
+traumat blister peni infect __label__L08.9
+rudd klimek syndrom __label__Q87.8
+acquir stenosi left ventricular compon common atrioventricular valv follow repair biventricular connect __label__I38
+advers reaction caus antineoplast antibiot __label__T88.7
+defici transmethylas __label__E88.0
+fall whilst board alight public servic vehicl __label__V87.89
+wood splinter eye region __label__W45.99
+congenit shorten trunk __label__Q89.8
+isotretinoin embryopathylik syndrom __label__Q87.8
+poison insulin __label__X44.99
+traumat blister face infect __label__S00.8
+nijmegen breakag syndromelik disord __label__Q87.8
+accident triclofo poison __label__X41.99
+babi prematur deliveri le 23 week __label__P07.2
+retinopathi anaemia central nervou system anomali syndrom __label__Q82.8
+amiodaron overdos __label__X44.99
+lead acet caus toxic effect __label__X44.99
+aminoglycosid antibacteri overdos __label__X44.99
+splinter back without major open wound __label__W45.99
+dk phocomelia syndrom __label__Q87.8
+congenit anomali perineum __label__Q89.8
+subungu hematoma first digit left foot __label__L60.8
+complement 1 defici __label__D84.1
+non suicid self inflict injuri __label__T14.9
+hyperdynam circul __label__R09.8
+superfici foreign bodi lower leg infect __label__L08.9
+malign eccrin acrospiroma __label__C44.9
+bruxism __label__F45.8
+sulfafurazol advers reaction __label__T88.7
+sprain ligament metatarsophalang joint first toe left foot __label__S93.5
+propion acid deriv advers reaction __label__T88.7
+close fractur ankl trimalleolar low fibular fractur __label__S82.80
+dfsp dermatofibrosarcoma protuberan __label__C44.9
+secondari occlus trauma __label__S09.9
+multipl system malform syndrom __label__Q87.8
+epithelioid leiomyosarcoma skin __label__C44.9
+advers reaction lead andor lead compound __label__T88.7
+poison cycloguanil __label__X44.99
+poison sulfafurazol __label__X44.99
+scar5 __label__Q82.8
+moder cellular graft reject __label__T86.8
+reduc ossif exoccipit bone __label__Q75.8
+genet disord nail __label__L60.8
+adenoma larg intestin __label__D12.6
+cefuroxim overdos __label__X44.99
+subungu hematoma index finger left hand __label__L60.8
+lye caus toxic effect __label__X49.99
+injuri due spear __label__T14.9
+anomal origin coronari arteri anterior aortic sinu __label__Q24.5
+impair chest percuss note __label__R09.8
+colchicum autumnal poison __label__X49.99
+superfici foreign bodi hand infect __label__L08.9
+localis malign reticulohistiocytoma __label__C44.9
+defici alphaketoglutar dehydrogenas __label__E88.0
+foreign bodi skin back infect __label__W45.99
+localis nonhereditari amyloidosi __label__E85.4
+burn caus conflagr farmhous __label__X00.99
+famili histori ischaem heart diseas greater 60 year __label__Z82.4
+accident cefadroxil overdos __label__X44.99
+hennekam lymphangiectasialymphoedema syndrom __label__Q87.8
+patient ventil dyssynchroni __label__T81.8
+infect wound left elbow due non venom insect bite __label__L08.9
+tetrodotoxin poison __label__X49.99
+risperidon advers reaction __label__T88.7
+wavefront aberr vision __label__H53.8
+poison caus amphetamin andor amphetamin deriv __label__X41.99
+aplasia cuti congenita intestin lymphangiectasia syndrom __label__Q84.8
+sigmoid lymphadenopathi __label__R59.0
+liver diseas cooccurr due mitochondri disord __label__K76.8
+pyogen bacteri infect skin subcutan tissu __label__L08.9
+accident poison caus nitrazepam __label__X41.99
+orphenadrin hydrochlorid advers reaction __label__T88.7
+isol thyrotropin defici __label__E03.8
+advers reaction coumarin __label__T88.7
+phace posterior fossa brain malform haemaniogma arteri anomali cardiac defect aortic coarctat eye abnorm synodrom sternal anomali syndrom __label__Q87.8
+benign neoplasm colon __label__D12.6
+scc __label__C44.9
+helicobact pylorus associ duoden __label__K29.8
+thrombocytopenia caus cold __label__X31.99
+glycin advers reaction __label__T88.7
+famili histori long qt syndrom __label__Z82.4
+neoplasm uncertain behavior cheek __label__D48.7
+cardiac dyskinesia __label__R09.8
+acrodysplasia scoliosi __label__Q87.8
+disord caus exposur radiat __label__T66
+local secondari occlus trauma __label__S09.9
+arsin poison __label__T57.0
+rab18 member ra oncogen famili defici __label__Q87.8
+sublux intraocular len __label__T85.2
+blister face without infect __label__S00.8
+defici adenylylsulph kina __label__E88.0
+microcephali hypogammaglobulinemia abnorm immun syndrom __label__Q87.8
+labandzimmermann syndrom __label__Q87.8
+chlamydi epididym __label__A56.1
+congenit absenc centrum sacral vertebra __label__Q76.4
+accident iprindol poison __label__X41.99
+diabetespancreat exocrin dysfunct syndrom __label__E11.9
+spinal dysgenesi __label__Q76.4
+accident paroxetin overdos __label__X41.99
+levothyroxin poison __label__X44.99
+dementia due whippl diseas __label__F03
+chlormethin advers reaction __label__T88.7
+poison fluorin corticosteroid __label__X44.99
+accident poison copper salt __label__X49.99
+pericyazin overdos __label__X41.99
+clorazep overdos __label__X41.99
+poison thiotepa __label__X44.99
+superfici foreign bodi chest wall infect __label__W45.99
+neurotox __label__X49.99
+clarithromycin poison __label__X44.99
+like light __label__H53.8
+primari spindl cell squamou carcinoma skin __label__C44.9
+close traumat disloc interphalang joint lesser toe right foot __label__S93.1
+injuri due explos breech block __label__T14.9
+close trimalleolar fractur __label__S82.80
+histori insert inferior vena caval filter __label__Z95.8
+foreign bodi hand __label__S69.8
+accident poison caus haloperidol __label__X41.99
+portulaca oleracea poison __label__X49.99
+tertiari hypothyroid __label__E03.8
+nonadher fluid volum manag __label__Z91.1
+infect surgic wound __label__T81.4
+accident tioguanin poison __label__X44.99
+advers reaction caus trimethadion __label__T88.7
+chd3relat development delay speech delay intellectu disabl abnorm vision facial dysmorph syndrom __label__Q87.0
+thorac hemivertebra __label__Q76.4
+cyclizin advers reaction __label__T88.7
+saturnin poison __label__X49.99
+triazol antifung advers reaction __label__T88.7
+accident zuclopenthixol decano overdos __label__X41.99
+thostunna diffus palmoplantar keratoderma __label__Q82.8
+hit object fall burn hospit __label__X00.99
+temafloxacin advers reaction __label__T88.7
+howel evan syndrom __label__Q82.8
+intent lofepramin overdos __label__X61.99
+foreign bodi skin cheek __label__W45.99
+advers reaction promazin __label__T88.7
+nicotiana tabacum poison __label__X49.99
+dumbbel ossif lumbar centrum __label__Q76.4
+flexur darier diseas __label__Q82.8
+arsenicinduc skin malign __label__C44.9
+ventil lung __label__T81.8
+congenit small basisphenoid bone __label__Q75.8
+bleomycin overdos __label__T45.1
+poison procarbazin __label__T45.1
+labil type ii diabet mellitu __label__E11.9
+abnorm uterin bleed due endometri hyperplasia __label__N93.8
+intellectu disabl birkbarel type __label__Q87.8
+poison caus paraldehyd __label__X41.99
+famili scrophulariacea poison __label__X49.99
+primari eccrin mix tumor malign __label__C44.9
+clofazimin advers reaction __label__T88.7
+primari ganglioneuroblastoma brain __label__C71.9
+kabuki makeup syndrom __label__Q87.0
+misoprostol overdos __label__X44.99
+explos caus conflagr hous __label__X00.99
+grnrelat frontotempor dementia __label__G31.0
+absenc skull bone __label__Q75.8
+use le medic prescrib __label__Z91.1
+intent treosulphan poison __label__T45.1
+advers reaction beclamid __label__T88.7
+anomal origin left coronari arteri right coronari arteri __label__Q24.5
+cosmet product caus toxic effect __label__X44.99
+cyclosporin poison __label__T45.1
+advers reaction caus human fibrinogen __label__T88.7
+disord neutrophil chemotaxi __label__D72.8
+close fractur fourth metacarp __label__S62.30
+primari anaplast syringoma __label__C44.9
+intent quinalbarbiton poison __label__X61.99
+victim child molest __label__T74.2
+advers reaction antiparkinson drug __label__T88.7
+anomal intramur cours proxim portion coronari arteri aortic sinu valsalva __label__Q24.5
+lolium rigidum poison __label__X49.99
+pivampicillin advers reaction __label__T88.7
+craniofaci dysplasia short statur ectoderm anomali intellectu disabl syndrom __label__Q87.0
+congenit cleft larynx opitzfria syndrom __label__Q87.8
+congenit coron cleft vertebra __label__Q76.4
+nicotin acid advers reaction __label__T88.7
+benign tubular adenoma larg intestin __label__D12.6
+pulmonari lymphadenopathi __label__R59.0
+noncompli selfmonitor regimen __label__Z91.1
+autosom domin cerebellar ataxia deaf narcolepsi syndrom __label__F03
+complement 5 dysfunct __label__D84.1
+intellectu disabl hypoplast corpu callosum preauricular tag syndrom __label__Q87.8
+defici peptid hydrolas __label__E88.0
+fungal poison __label__X49.99
+mycosi fungoid lymph node head neck __label__C84.0
+exagger jvp wave __label__R09.8
+photograph materi caus toxic effect __label__X49.99
+accident dichloralphenazon poison __label__X41.99
+poison caus glibenclamid __label__X44.99
+advers reaction tetrabenazin __label__T88.7
+vasopressor advers reaction __label__T88.7
+palmoplantar keratoderma sclerodactyli syndrom __label__Q82.8
+5hydroxytryptamine3receptor antagonist advers reaction __label__T88.7
+congenit malform thorac vertebra __label__Q76.4
+synophthalmu __label__Q87.0
+blister toe infect __label__L08.9
+etomid advers reaction __label__T88.7
+neuromuscular block agent advers reaction __label__T88.7
+ankyloblepharon filiform adnatum cleft palat syndrom __label__Q87.0
+adenium multiflorum poison __label__X49.99
+keratosi palmoplantari striata __label__Q82.8
+poison caus corticosteroid andor corticosteroid deriv __label__X44.99
+babi prematur 2426 week __label__P07.2
+nonspecif granulomat infiltr stomach __label__K29.6
+liquoric advers reaction __label__T88.7
+tetracyclin poison __label__X44.99
+intent flupenthixol decano poison __label__X61.99
+advers reaction caus acetanilid __label__T88.7
+advers reaction benserazid andor levodopa __label__T88.7
+scar20 __label__Q87.8
+angl foreign bodi __label__W44.99
+congenit misalign sacral arch __label__Q76.4
+ichthyosi folliculari alopecia photophobia __label__Q87.8
+blue nasal mucosa __label__R09.8
+poison methohexit __label__X44.99
+advers reaction levodopa ldopa __label__T88.7
+malign glioma brain __label__C71.9
+complement 2 defici __label__D84.1
+congenit fuse cervic centrum __label__Q76.4
+acrocephalosyndactyli type iii __label__Q87.0
+insect bite face __label__S00.8
+coumafuryl poison __label__X44.99
+infect skin eyelid periocular region __label__L08.9
+poison hydantoin deriv __label__X41.99
+intent pipothiazin overdos __label__X61.99
+poison due shellfish contamin gymnodinium __label__X49.99
+darier diseas __label__Q82.8
+primari pilomyxoid astrocytoma brain __label__C71.9
+intract diarrhoea choanal atresia eye anomali syndrom __label__Q87.8
+subungu haematoma first digit right foot __label__L60.8
+accident etretin overdos __label__X44.99
+guard left iliac fossa __label__R19.8
+primari malign neoplasm carpal bone __label__C40.1
+congenit abnorm shape arch cervic vertebra __label__Q76.4
+blister second digit right hand infect __label__L08.9
+misjudg distanc __label__H53.8
+defect complement system __label__D84.1
+jump burn factori __label__X00.99
+infect due vancomycin intermedi staphylococcu aureu __label__A49.0
+chung jansen syndrom __label__Q87.0
+advers reaction vidarabin __label__T88.7
+quinidin poison __label__X44.99
+liver firm __label__R19.8
+advers reaction caus adiphenin __label__T88.7
+infect abras right forearm __label__L08.9
+fagopyr __label__X49.99
+pxelik pseudoxanthoma elasticumlik syndrom retin pigmentosa __label__Q82.8
+ftdp17 __label__G31.0
+pilotto syndrom __label__Q87.0
+poison cyclophosphamid __label__T45.1
+alymphocytosi __label__D72.8
+injuri oral caviti __label__S09.9
+mrsa __label__A49.0
+allerg drug reaction __label__T88.7
+holm gang syndrom __label__Q87.0
+injuri water transport caus deck machineri swimmer injur __label__T14.9
+poison caus oxytetracyclin __label__X44.99
+disinhibit behaviour due dementia __label__F03
+accident levallorphan poison __label__X44.99
+accident terpin hydrat poison __label__X44.99
+hypothermia caus cold environ __label__X31.99
+erythroedema polyneuropathi __label__X49.99
+left gastric lymphadenopathi __label__R59.0
+infect wound right wrist due non venom insect bite __label__L08.9
+photosensit ichthyosi brittl hair impair intellig decreas fertil short statur syndrom __label__Q87.8
+poison anesthet agent __label__X44.99
+narthecium ossifragum poison __label__X49.99
+congenit malposit sacral vertebra __label__Q76.4
+krt1relat diffus neppk nonepidermolyt palmoplantar keratoderma __label__Q82.8
+nail wound trunk __label__W45.99
+tripelennamin poison __label__X44.99
+intent cyclophosphamid poison __label__T45.1
+trema aspera poison __label__X49.99
+accident tolbutamid poison __label__X44.99
+advers reaction antineoplast antibiot __label__T88.7
+advers reaction phensuximid __label__T88.7
+coldinduc dermatosi __label__X31.99
+accident salbutamol poison __label__T48.6
+bcn __label__Q87.0
+hepat cyst __label__K76.8
+betaxolol advers reaction __label__T88.7
+motor vehicl traffic accid due motor vehicl go control due failur mechan part without collis highway __label__V87.89
+hairi vetch poison __label__X49.99
+defici imidodipeptidas __label__E88.0
+descurainia pinnata poison __label__X49.99
+anterior cervic lymphadenopathi __label__R59.0
+trazodon poison __label__X41.99
+opitz trigonocephalylik syndrom __label__Q87.8
+larkspur poison __label__X49.99
+amobarbit overdos __label__X41.99
+nodul liver __label__K76.8
+accident clozapin overdos __label__X41.99
+acridin deriv azo advers reaction __label__T88.7
+intent midazolam poison __label__X61.99
+advers reaction caus valsartan __label__T88.7
+congenit anomali coronari arteri __label__Q24.5
+finnish lactic acidosi hepat hemosiderosi __label__Q87.8
+biguanid disinfect advers reaction __label__T88.7
+superfici foreign bodi perineum __label__W45.99
+abus sexual relationship __label__T74.2
+eleph ear poison __label__X49.99
+traumat blister lower limb infect __label__L08.9
+post bcg vaccin enceph __label__T88.7
+accident iproniazid overdos __label__X44.99
+congenit hypoplasia alisphenoid bone __label__Q75.8
+intent pimozid overdos __label__X61.99
+blister first digit right hand infect __label__L08.9
+tioconazol advers reaction __label__T88.7
+postop pain __label__T81.8
+antithyroid agent overdos __label__X44.99
+inflamm pelvi caus chlamydia trachomati __label__A56.1
+transderm glyceryl trinitr advers reaction __label__T88.7
+respiratori click sound __label__R09.8
+dermatofibrosarcoma protuberan giant cell fibroblastoma __label__C44.9
+zimmermannlaband syndrom __label__Q87.8
+contus coronoid process mandibl __label__S00.8
+intellectu disabl bald patella luxat acromicria syndrom __label__Q87.8
+bilater pseudopterygium __label__H11.8
+congenit absenc arch lumbar vertebra __label__Q76.4
+unequ blood pressur arm __label__R09.8
+advers reaction caus lipotrop drug __label__T88.7
+decay acceler factor defici __label__D84.1
+diminish pul __label__R09.8
+poison glibenclamid __label__X44.99
+pruritu inflamm skin __label__L08.9
+pholcodin advers reaction __label__T88.7
+dermatosi due hair foreign bodi __label__W45.99
+webster deme syndrom __label__Q87.8
+advers reaction clobazam __label__T88.7
+accident fluorouracil poison __label__T45.1
+decreas reflex __label__R29.2
+turtleback nail __label__L60.8
+foreign bodi skin back infect __label__L08.9
+atrial prematur depolar aberr ventricular conduct __label__I45.8
+war injuri due exposur ionis radiat nuclear weapon __label__T14.9
+warman mulliken hayward syndrom __label__Q75.8
+toe sprain __label__S93.5
+mycosi fungoid clinic __label__C84.0
+blister elbow infect __label__L08.9
+combin reduct defect upper lower limb __label__Q72.9
+defici 25diaminovaler aminotransferas __label__E88.0
+oculodigitoesophagoduoden syndrom __label__Q87.8
+chronic hepat failur due portosystem shunt __label__R09.8
+fibric acid andor fibric acid deriv advers reaction __label__T88.7
+lymecyclin advers reaction __label__T88.7
+focal nodular hyperplasia liver __label__K76.8
+psychogen symptom special sen organ __label__F45.8
+left elbow blister infect __label__L08.9
+superfici foreign bodi peni infect __label__L08.9
+ileal pouch anal anastomosi relat faecal incontin __label__T81.8
+simian creas __label__Q82.8
+defici diaminoacid aminotransferas __label__E88.0
+nonvenom snake bite wound lower extrem __label__T13.1
+craniocerebellocardiac dysplasia __label__Q87.8
+mannitol advers reaction __label__T88.7
+advers reaction caus antidiabet drug __label__T88.7
+infect wound left hip due nonvenom insect bite __label__L08.9
+poiktmp syndrom __label__Q82.8
+tolazamid advers reaction __label__T88.7
+propranolol advers reaction __label__T88.7
+stjohn wort poison __label__X49.99
+pellet wound cheek __label__W34.99
+diethylstilbestrol poison __label__X44.99
+csa __label__Y07.99
+accident overdos methylenedioxymethamphetamin __label__X41.99
+defici ribosom cathepsin __label__E88.0
+fald fontan associ liver diseas __label__K76.8
+nonheal skin donor site __label__T81.8
+scc __label__C44.9
+deaf cataract skelet anomali syndrom __label__Q87.8
+witko witteveen kolk syndrom __label__Q87.0
+accident ciclosporin overdos __label__X44.99
+ritodrin advers reaction __label__T88.7
+poison butabarbit __label__X41.99
+maoi __label__X41.99
+blister right hand infect __label__S69.8
+mifepriston advers reaction __label__T88.7
+intellectu disabl autism speech apraxia craniofaci dysmorph syndrom __label__Q87.0
+skin graft necrosi __label__T86.8
+nolina texana poison __label__X49.99
+chlorpromazin overdos __label__T43.3
+advers reaction tetracain __label__T88.7
+heart valv disord __label__I38
+local swell back __label__R22.2
+frostbit tissu necrosi abdomin wall lower back pelvi __label__X31.99
+brassica oleracea poison __label__X49.99
+accident ingest checkerberri __label__X49.99
+poison fungu __label__X49.99
+pleuropericardi friction rub __label__R09.8
+gener anesthet drug overdos __label__X44.99
+druginduc neutrophilia __label__D72.8
+dsp diarrhoeic shellfish poison __label__X49.99
+defici retinylpalmit esteras __label__E88.0
+vinblastin advers reaction __label__T88.7
+left hand blister infect __label__L08.9
+adhes caus toxic effect __label__X49.99
+osteosarcoma bone head __label__C41.0
+south african daisi poison __label__X49.99
+development anomali odontoid process __label__Q76.4
+congenit abnorm shape squamos bone __label__Q75.8
+progress palmoplantar keratoderma __label__Q82.8
+hi head injuri __label__S09.9
+recurr neisseria infect due factor defici __label__D84.1
+postprandi diarrhoea __label__R19.8
+chronic beryllium lung __label__X49.99
+poison theophyllin __label__X44.99
+diffus pretibi myxedema __label__E03.8
+poison ingest fish contamin bacteria __label__X49.99
+sodium morrhuat poison __label__X44.99
+epilepsi cooccurr due dementia __label__F03
+alter behaviour due pick diseas __label__G31.0
+histori haemorrhoid __label__Z87.1
+neutrophil cytomatrix disord __label__D72.8
+macdermot winter syndrom __label__Q87.8
+delay visual matur __label__H53.8
+defici larabinos dehydrogenas __label__E88.0
+clozapin advers reaction __label__T88.7
+nonvenom insect bite face without infect __label__S00.8
+oxal poison __label__X49.99
+third degre burn left lower leg __label__T24.3
+dil diffus infiltr lymphocytosi syndrom __label__D72.8
+thyroglobulin poison __label__X44.99
+sacralis lumbar vertebra __label__Q76.4
+ampicillin andor flucloxacillin advers reaction __label__T88.7
+hidradenocarcinoma __label__C44.9
+spontan subcapsular liver hematoma __label__K76.8
+poison ethionamid __label__X44.99
+incomplet ossif supraoccipit bone __label__Q75.8
+iproniazid overdos __label__X41.99
+type 2 diabet mellitu uncontrol __label__E11.9
+metal foreign bodi finger __label__S69.8
+ectoderm dysplasia sweat defect __label__Q82.8
+anterior perimaxillari faciosynostosi __label__Q75.8
+fish hook cheek __label__W45.99
+rayless goldenrod poison __label__X49.99
+spina bifida __label__Q05.9
+monosulphiram advers reaction __label__T88.7
+bolu impact __label__R19.8
+granulomat mycosi fungoid __label__C84.0
+antidrom atrioventricular reciproc tachycardia utilis atriofascicular accessori pathway antegrad unidirect conduct __label__I45.8
+left atrial appendag occlus devic present __label__Z95.8
+clomethiazol overdos __label__X41.99
+presenil dementia depress __label__F03
+congenit abnorm fusion basisphenoid bone __label__Q75.8
+disord phagocyt cell number __label__D72.8
+injuri extern ear __label__S09.9
+thonzylamin poison __label__X44.99
+carfecillin advers reaction __label__T88.7
+accident streptokinas overdos __label__X44.99
+accident ingest fugu __label__X49.99
+clomiphen advers reaction __label__T88.7
+acquir disord neutrophil function __label__D72.8
+intent prochlorperazin overdos __label__T43.3
+mody7 __label__E11.9
+teebi shaltout syndrom __label__Q87.0
+dyschezia __label__R19.8
+desert riceflow poison __label__X49.99
+supin reflex delay __label__R29.2
+anomal origin circumflex arteri sinu 1 anomal origin left anterior descend coronari arteri right coronari arteri sinu 2 __label__Q24.5
+open traumat disloc interphalang joint right great toe __label__S93.1
+foreign bodi angl __label__W44.99
+accident piperazin overdos __label__X44.99
+accident ingest lantana berri __label__X49.99
+accident ingest tetraodon __label__X49.99
+gonzalesdel angel syndrom __label__Q75.8
+hereditari glomerulonephr __label__Q87.8
+orocraniodigit syndrom __label__Q87.0
+tripelennamin overdos __label__X44.99
+subpulmonari stenosi complic procedur __label__T81.8
+ptosi upper ocular movement limit absenc lacrim punctum syndrom __label__Q87.0
+amacr defici __label__K76.8
 di diabet insipidu __label__E23.2
 right knee blister infect __label__L08.9
 ketazolam poison __label__X41.99
