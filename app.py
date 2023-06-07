@@ -1,4 +1,5 @@
 from flask import Flask
+from flask_restful import Api, Resource
 #Model and input data preparation
 import fasttext
 import pandas as pd
@@ -26,14 +27,20 @@ def prepare_text(df):
     return new_df
 
 app = Flask(__name__)
-app.config['DEBUG'] = True
- 
-@app.route("/")
-def index():
-    input_text = 'MRSA' #<--- Input term text
-    text_prepared = prepare_text(pd.DataFrame({'term':[input_text]}))
-    predict = model.predict(text_prepared.iloc[0,0])
-    return predict[0][0].strip('__label__')
+api = Api(app)
+
+class Term_to_ICD10(Resource):
+    def get(self, text):
+        return {"Term" : text}
+    def post(self, text):
+        input_text = text 
+        text_prepared = prepare_text(pd.DataFrame({'term':[input_text]}))
+        predict = model.predict(text_prepared.iloc[0,0])
+        predict = predict[0][0].strip('__label__')
+        return {"Term" : text,
+                "ICD10Predict" : predict}
+
+api.add_resource(Term_to_ICD10, "/predict/<string:text>")
  
 if __name__ == '__main__':
     app.run(debug = True)
