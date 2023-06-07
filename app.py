@@ -31,8 +31,6 @@ api = Api(app)
 
 class Term_to_ICD10(Resource):
     def get(self, text):
-        return {"Term" : text}
-    def post(self, text):
         input_text = text 
         text_prepared = prepare_text(pd.DataFrame({'term':[input_text]}))
         predict = model.predict(text_prepared.iloc[0,0])

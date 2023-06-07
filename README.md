@@ -24,3 +24,5 @@
 3. ทำนายผล และได้รับผลออกมาเป็น DataFrame ที่แสดงข้อมูลผลวินิจฉัย และผลการทำนาย ICD10
 
 ## Deploy Python ด้วย Flask REST API
+1. ใช้งานโดยการพิมพ์ต่อหลัง url ด้วย /predict/คำวินิจฉัย
+2. จะแสดงออกมาในรูปแบบ Dictionary มี Key เป็น Term และ ICD10Predict ดังภาพตัวอย่างในไฟล์ชื่อ Result_Example.png
